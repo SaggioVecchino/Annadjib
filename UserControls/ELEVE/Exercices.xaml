@@ -1,0 +1,642 @@
+﻿<UserControl x:Class="Projet.UserControls.ELEVE.Exercices"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Projet.UserControls.ELEVE"
+             xmlns:Custom="http://metro.mahapps.com/winfx/xaml/controls"
+             mc:Ignorable="d" 
+              d:DesignHeight="570" d:DesignWidth="690">
+    <UserControl.Resources>
+        <Storyboard x:Key="OnLoaded1">
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="buttonQCM">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="1"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="buttonElfaragh">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="1"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="buttonCartes">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="1"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="buttonVrai_faux">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="1"/>
+            </DoubleAnimationUsingKeyFrames>
+        </Storyboard>
+    </UserControl.Resources>
+    <UserControl.Triggers>
+        <EventTrigger RoutedEvent="FrameworkElement.Loaded" SourceName="buttonVrai_faux">
+            <BeginStoryboard Storyboard="{StaticResource OnLoaded1}"/>
+        </EventTrigger>
+    </UserControl.Triggers>
+    <Grid Height="570" Width="690">
+        <Border x:Name="backgrnd" Background="#FFFFFF" CornerRadius="3">
+            <Border.Effect>
+                <DropShadowEffect BlurRadius="5" ShadowDepth="0" Opacity="0.2"/>
+            </Border.Effect>
+        </Border>
+        <Button x:Name="buttonQCM" ToolTip="اختر الجواب الصحيح" Style="{DynamicResource ButtonCours}" Margin="-64.111,30,64.111,-30" Click="buttonQCM_Click">
+            <Button.Resources>
+                <Style x:Key="ButtonCours" TargetType="{x:Type Button}">
+                    <Setter Property="Foreground" Value="{DynamicResource TextBrush}"/>
+                    <Setter Property="Background" Value="{DynamicResource GrayBrush10}"/>
+                    <Setter Property="BorderBrush" Value="{DynamicResource TextBoxBorderBrush}"/>
+                    <Setter Property="BorderThickness" Value="1"/>
+                    <Setter Property="Custom:ControlsHelper.ContentCharacterCasing" Value="Upper"/>
+                    <Setter Property="Custom:ControlsHelper.CornerRadius" Value="3"/>
+                    <Setter Property="FontFamily" Value="{DynamicResource DefaultFont}"/>
+                    <Setter Property="FontSize" Value="{DynamicResource UpperCaseContentFontSize}"/>
+                    <Setter Property="FontWeight" Value="Bold"/>
+                    <Setter Property="MinHeight" Value="25"/>
+                    <Setter Property="Padding" Value="5,6"/>
+                    <Setter Property="Template">
+                        <Setter.Value>
+                            <ControlTemplate TargetType="{x:Type Button}">
+                                <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+                                    <VisualStateManager.VisualStateGroups>
+                                        <VisualStateGroup x:Name="CommonStates1">
+                                            <VisualStateGroup.Transitions>
+                                                <VisualTransition GeneratedDuration="0"/>
+                                            </VisualStateGroup.Transitions>
+                                            <VisualState x:Name="Normal1"/>
+                                            <VisualState x:Name="MouseOver1">
+                                                <Storyboard>
+                                                    <ColorAnimationUsingKeyFrames Storyboard.TargetProperty="(Shape.Fill).(SolidColorBrush.Color)" Storyboard.TargetName="path">
+                                                        <EasingColorKeyFrame KeyTime="0" Value="#FF683A70"/>
+                                                    </ColorAnimationUsingKeyFrames>
+                                                </Storyboard>
+                                            </VisualState>
+                                            <VisualState x:Name="Pressed1"/>
+                                            <VisualState x:Name="Disabled1"/>
+                                        </VisualStateGroup>
+                                        <VisualStateGroup x:Name="CommonStates">
+                                            <VisualState x:Name="Normal">
+                                                <Storyboard>
+                                                    <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.Y)" Storyboard.TargetName="textBlock">
+                                                        <EasingDoubleKeyFrame KeyTime="0" Value="-180"/>
+                                                    </DoubleAnimationUsingKeyFrames>
+                                                    <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)" Storyboard.TargetName="textBlock">
+                                                        <EasingDoubleKeyFrame KeyTime="0" Value="180"/>
+                                                    </DoubleAnimationUsingKeyFrames>
+                                                </Storyboard>
+                                            </VisualState>
+                                            <VisualState x:Name="MouseOver">
+                                                <Storyboard>
+                                                    <ColorAnimationUsingKeyFrames Storyboard.TargetProperty="(Shape.Fill).(SolidColorBrush.Color)" Storyboard.TargetName="path">
+                                                        <EasingColorKeyFrame KeyTime="0" Value="#FF3949AB"/>
+                                                    </ColorAnimationUsingKeyFrames>
+                                                    <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Effect).(DropShadowEffect.BlurRadius)" Storyboard.TargetName="path">
+                                                        <EasingDoubleKeyFrame KeyTime="0" Value="7"/>
+                                                    </DoubleAnimationUsingKeyFrames>
+                                                    <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Effect).(DropShadowEffect.Opacity)" Storyboard.TargetName="path">
+                                                        <EasingDoubleKeyFrame KeyTime="0" Value="0.7"/>
+                                                    </DoubleAnimationUsingKeyFrames>
+                                                    <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)" Storyboard.TargetName="textBlock">
+                                                        <EasingDoubleKeyFrame KeyTime="0" Value="180"/>
+                                                    </DoubleAnimationUsingKeyFrames>
+                                                    <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.Y)" Storyboard.TargetName="textBlock">
+                                                        <EasingDoubleKeyFrame KeyTime="0" Value="-180"/>
+                                                    </DoubleAnimationUsingKeyFrames>
+                                                </Storyboard>
+                                            </VisualState>
+                                            <VisualState x:Name="Pressed">
+                                                <Storyboard>
+                                                    <ColorAnimationUsingKeyFrames Storyboard.TargetProperty="(Shape.Fill).(SolidColorBrush.Color)" Storyboard.TargetName="path">
+                                                        <EasingColorKeyFrame KeyTime="0" Value="#FF303F9F"/>
+                                                    </ColorAnimationUsingKeyFrames>
+                                                    <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Effect).(DropShadowEffect.BlurRadius)" Storyboard.TargetName="path">
+                                                        <EasingDoubleKeyFrame KeyTime="0" Value="8"/>
+                                                    </DoubleAnimationUsingKeyFrames>
+                                                    <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Effect).(DropShadowEffect.Opacity)" Storyboard.TargetName="path">
+                                                        <EasingDoubleKeyFrame KeyTime="0" Value="0.85"/>
+                                                    </DoubleAnimationUsingKeyFrames>
+                                                    <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)" Storyboard.TargetName="textBlock">
+                                                        <EasingDoubleKeyFrame KeyTime="0" Value="180"/>
+                                                    </DoubleAnimationUsingKeyFrames>
+                                                    <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.Y)" Storyboard.TargetName="textBlock">
+                                                        <EasingDoubleKeyFrame KeyTime="0" Value="-180"/>
+                                                    </DoubleAnimationUsingKeyFrames>
+                                                </Storyboard>
+                                            </VisualState>
+                                            <VisualState x:Name="Disabled"/>
+                                        </VisualStateGroup>
+                                    </VisualStateManager.VisualStateGroups>
+                                    <Path x:Name="path" Fill="#FF3F51B5" Data="M474.914,529.232c1.314-1.462,3.191-2.072,5.309-1.792c1.722,0.198,3.519,0.189,5.14-0.604  c2.941-1.435,5.967-2.772,8.709-4.567c2.127-1.383,4.229-2.712,6.652-3.457c3.25-1.007,5.94-2.919,8.037-5.541  c2.089-2.61,4.317-4.995,7.15-6.739c1.566-0.964,2.378-2.545,3.068-4.204c1.281-3.05,3.763-4.56,6.82-4.711  c3.552-0.162,6.89-1.034,10.147-2.214c3.32-1.207,6.435-1.312,9.397,0.943c2.704,2.059,5.145-0.138,5.413-2.754  c0.21-1.967,0.33-3.955,0.356-5.935c0.1-5.84,1.726-10.902,6.406-14.566c0.452-0.359,0.866-0.797,1.288-1.159  c3.344-3.039,5.142-6.8,5.567-11.361c0.156-1.557,0.335-3.165,0.749-4.658c1.261-4.395,1.017-8.635-1.393-12.636  c-1.122-1.813-1.236-3.685-0.895-5.718c0.528-2.972,1.465-5.734,3.248-8.141c0.813-1.09,1.81-2.095,2.406-3.289  c1.562-3.089,3.779-5.498,6.81-7.01c3.082-1.554,4.47-4.156,4.722-7.569c0.146-2.629,0.604-5.129,2.446-7.107  c2.135-2.291,2.86-5.139,2.592-8.211c-0.344-4.656,0.426-8.98,2.29-13.268c1.021-2.287,1.429-4.924,1.706-7.483  c0.388-3.551,1.055-7.004,1.788-10.49c0.928-4.312,0.292-8.321-4.186-10.699c-2.933-1.536-4.188-4.053-3.861-7.386  c0.128-1.249-0.305-2.315-1.222-3.21c-4.023-3.868-5.009-8.82-4.938-14.167c0.021-2.169,0.387-4.425-0.024-6.531  c-0.818-4.375-0.023-8.24,2.252-11.896c0.321-0.519,0.405-1.103-0.062-1.848c-1.502-1.259-3.555-1.99-5.083-3.636  c-1.661-1.771-1.331-4.09-1.962-6.138c-1.702-5.404-1.807-5.511-7.204-7.527c-0.736-0.301-1.473-0.512-2.224-0.76l-0.293-0.161  c-0.946,0.078-2.071,0.409-2.792-0.367c-1.894-2.138-4.12-3.469-6.748-4.521c-2.652-1.053-4.729-3.322-7.537-4.397  c-3.068-1.2-5.805-3.279-7.114-6.742c-1.156-3.172-4.338-4.489-6.445-6.794c-0.463-0.491-1.456-0.592-2.173-0.604  c-4.199,0.056-8.056-1.099-11.732-3.169c-0.843-0.455-1.819-0.757-2.763-0.906c-2.353-0.327-4.536-1.255-6.556-2.482  c-4.154-2.477-8.655-3.264-13.364-3.722c-4.38-0.418-7.702,0.681-11.046,3.67c-7.144,6.375-15.565,10.079-25.325,10.055  c-0.957,0-1.935,0.024-2.9-0.006c-1.854-0.078-3.275,0.763-4.753,1.792c-5.218,3.693-9.221,8.931-15.106,11.678  c-0.352,0.156-0.607,0.489-0.866,0.777c-5.295,5.696-12.427,7.634-19.487,9.621c-1.949,0.529-3.828-0.011-5.593-1.082  c-2.235-1.344-3.864-3.248-5.459-5.322c-2.94-3.879-6.16-4.363-10.217-1.963c-1.828,1.091-3.766,2.016-5.563,3.064  c-1.72,1.053-3.378,1.527-4.998,1.604V311.5v22l-9,15l-8,32v25v15l-6,17v20v27l8.94,17.881c1.252-0.51,2.618-0.298,4.017,0.218  c0.365,0.122,0.718,0.304,1.076,0.464c4.666,1.808,9.469,2.482,14.29,1.31c3.838-0.919,6.9-0.107,9.271,3.183  c1.382,1.933,3.146,2.869,5.446,3.016c1.536,0.096,3.07,0.452,4.602,0.608c2.745,0.286,5.73,0.638,8.024-0.626  c3.781-2.071,7.464-1.444,11.303-0.87c1.61,0.216-23.102,9.258-22.124,10.646c1.349,1.933,6.406,3.213,8.082,1.721  c0.583-0.518,4.408-0.569,5.071-0.063c0.929,0.739-2.266,4.162-2.726,5.052c-0.7,1.413-8.548,2.491-9.304,3.858  c-2.654,4.825-14.107,5.72-9.854,9.255c2.628,2.2,44.459-7.325,43.349-4.28c-0.361,0.902-0.747,1.829-0.949,2.76  c-0.377,1.593,1.079,3.008,2.304,2.131c1.786-1.282,3.131-0.885,4.746,0.184c2.062,1.31,4.101,0.898,5.958-0.498  c0.63-0.473,1.276-0.941,1.776-1.528c2.447-2.8,5.658-3.698,9.138-4.536C467.142,533.366,471.665,532.854,474.914,529.232z" HorizontalAlignment="Center" StrokeThickness="0">
+                                        <Path.Effect>
+                                            <DropShadowEffect Opacity="0.5" ShadowDepth="0" BlurRadius="0"/>
+                                        </Path.Effect>
+                                    </Path>
+                                    <TextBlock x:Name="textBlock" TextWrapping="Wrap" Text="اختيار الجواب الصحيح" HorizontalAlignment="Center" FontSize="22" FontFamily="/Projet;component/Resources/#TheSans Plain" RenderTransformOrigin="0.5,0.5" Foreground="White" Width="130">
+                                        <TextBlock.RenderTransform>
+                                            <TransformGroup>
+                                                <ScaleTransform/>
+                                                <SkewTransform/>
+                                                <RotateTransform/>
+                                                <TranslateTransform/>
+                                            </TransformGroup>
+                                        </TextBlock.RenderTransform>
+                                    </TextBlock>
+                                </StackPanel>
+                                <ControlTemplate.Triggers>
+                                    <Trigger Property="IsMouseOver" Value="True"/>
+                                    <Trigger Property="IsPressed" Value="True"/>
+                                    <Trigger Property="IsKeyboardFocusWithin" Value="True"/>
+                                    <Trigger Property="IsEnabled" Value="False"/>
+                                </ControlTemplate.Triggers>
+                            </ControlTemplate>
+                        </Setter.Value>
+                    </Setter>
+                </Style>
+            </Button.Resources>
+        </Button>
+        <Button x:Name="buttonElfaragh" ToolTip="املأ الفراغ بما يناسب"  Style="{DynamicResource ButtonCours}" Margin="-166.38,9.472,166.38,-9.472" Click="buttonElfaragh_Click">
+            <Button.Resources>
+                <Style x:Key="ButtonCours" TargetType="{x:Type Button}">
+                    <Setter Property="Foreground" Value="{DynamicResource TextBrush}"/>
+                    <Setter Property="Background" Value="{DynamicResource GrayBrush10}"/>
+                    <Setter Property="BorderBrush" Value="{DynamicResource TextBoxBorderBrush}"/>
+                    <Setter Property="BorderThickness" Value="1"/>
+                    <Setter Property="Custom:ControlsHelper.ContentCharacterCasing" Value="Upper"/>
+                    <Setter Property="Custom:ControlsHelper.CornerRadius" Value="3"/>
+                    <Setter Property="FontFamily" Value="{DynamicResource DefaultFont}"/>
+                    <Setter Property="FontSize" Value="{DynamicResource UpperCaseContentFontSize}"/>
+                    <Setter Property="FontWeight" Value="Bold"/>
+                    <Setter Property="MinHeight" Value="25"/>
+                    <Setter Property="Padding" Value="5,6"/>
+                    <Setter Property="Template">
+                        <Setter.Value>
+                            <ControlTemplate TargetType="{x:Type Button}">
+                                <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+                                    <VisualStateManager.VisualStateGroups>
+                                        <VisualStateGroup x:Name="CommonStates1">
+                                            <VisualStateGroup.Transitions>
+                                                <VisualTransition GeneratedDuration="0"/>
+                                            </VisualStateGroup.Transitions>
+                                            <VisualState x:Name="Normal1"/>
+                                            <VisualState x:Name="MouseOver1">
+                                                <Storyboard>
+                                                    <ColorAnimationUsingKeyFrames Storyboard.TargetProperty="(Shape.Fill).(SolidColorBrush.Color)" Storyboard.TargetName="path">
+                                                        <EasingColorKeyFrame KeyTime="0" Value="#FF683A70"/>
+                                                    </ColorAnimationUsingKeyFrames>
+                                                </Storyboard>
+                                            </VisualState>
+                                            <VisualState x:Name="Pressed1"/>
+                                            <VisualState x:Name="Disabled1"/>
+                                        </VisualStateGroup>
+                                        <VisualStateGroup x:Name="CommonStates">
+                                            <VisualState x:Name="Normal">
+                                                <Storyboard>
+                                                    <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.Y)" Storyboard.TargetName="textBlock">
+                                                        <EasingDoubleKeyFrame KeyTime="0" Value="-160"/>
+                                                    </DoubleAnimationUsingKeyFrames>
+                                                    <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)" Storyboard.TargetName="textBlock">
+                                                        <EasingDoubleKeyFrame KeyTime="0" Value="90"/>
+                                                    </DoubleAnimationUsingKeyFrames>
+                                                </Storyboard>
+                                            </VisualState>
+                                            <VisualState x:Name="MouseOver">
+                                                <Storyboard>
+                                                    <ColorAnimationUsingKeyFrames Storyboard.TargetProperty="(Shape.Fill).(SolidColorBrush.Color)" Storyboard.TargetName="path">
+                                                        <EasingColorKeyFrame KeyTime="0" Value="#FF3949AB"/>
+                                                    </ColorAnimationUsingKeyFrames>
+                                                    <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Effect).(DropShadowEffect.BlurRadius)" Storyboard.TargetName="path">
+                                                        <EasingDoubleKeyFrame KeyTime="0" Value="7"/>
+                                                    </DoubleAnimationUsingKeyFrames>
+                                                    <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Effect).(DropShadowEffect.Opacity)" Storyboard.TargetName="path">
+                                                        <EasingDoubleKeyFrame KeyTime="0" Value="0.7"/>
+                                                    </DoubleAnimationUsingKeyFrames>
+                                                    <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)" Storyboard.TargetName="textBlock">
+                                                        <EasingDoubleKeyFrame KeyTime="0" Value="90"/>
+                                                    </DoubleAnimationUsingKeyFrames>
+                                                    <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.Y)" Storyboard.TargetName="textBlock">
+                                                        <EasingDoubleKeyFrame KeyTime="0" Value="-160"/>
+                                                    </DoubleAnimationUsingKeyFrames>
+                                                </Storyboard>
+                                            </VisualState>
+                                            <VisualState x:Name="Pressed">
+                                                <Storyboard>
+                                                    <ColorAnimationUsingKeyFrames Storyboard.TargetProperty="(Shape.Fill).(SolidColorBrush.Color)" Storyboard.TargetName="path">
+                                                        <EasingColorKeyFrame KeyTime="0" Value="#FF303F9F"/>
+                                                    </ColorAnimationUsingKeyFrames>
+                                                    <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Effect).(DropShadowEffect.BlurRadius)" Storyboard.TargetName="path">
+                                                        <EasingDoubleKeyFrame KeyTime="0" Value="8"/>
+                                                    </DoubleAnimationUsingKeyFrames>
+                                                    <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Effect).(DropShadowEffect.Opacity)" Storyboard.TargetName="path">
+                                                        <EasingDoubleKeyFrame KeyTime="0" Value="0.85"/>
+                                                    </DoubleAnimationUsingKeyFrames>
+                                                    <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)" Storyboard.TargetName="textBlock">
+                                                        <EasingDoubleKeyFrame KeyTime="0" Value="90"/>
+                                                    </DoubleAnimationUsingKeyFrames>
+                                                    <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.Y)" Storyboard.TargetName="textBlock">
+                                                        <EasingDoubleKeyFrame KeyTime="0" Value="-160"/>
+                                                    </DoubleAnimationUsingKeyFrames>
+                                                </Storyboard>
+                                            </VisualState>
+                                            <VisualState x:Name="Disabled"/>
+                                        </VisualStateGroup>
+                                    </VisualStateManager.VisualStateGroups>
+                                    <Path x:Name="path" Fill="#FF3F51B5" Data="M262.884,513.717c-2.51,0.241-3.031,1.661-3.194,3.975  c-0.423,6.624,0.914,12.627,5.426,17.714c0.896,1.043,1.579,2.277,2.431,3.364c1.948,2.437,2.456,2.626,5.42,1.215  c3.629-1.691,7.207-2.639,11.234-1.203c1.018,0.365,2.318,0.221,3.396-0.012c4.651-0.95,8.961-2.544,11.917-6.613  c0.58-0.797,1.248-1.5,1.929-2.205c0.965-1.045,2.146-1.563,3.621-1.545c3.088,0.036,6.182-0.235,9.29-0.008  c4.699,0.319,9.297-0.12,13.795-1.332c1.144-0.311,2.309-0.73,3.402-0.146c2.249,1.181,4.53,0.63,6.83,0.562  c3.064-0.091,6.115-0.423,9.138,1.003c7.366,3.495,14.823,1.152,19.219-5.673c1.487-2.307,1.913-4.705,0.897-7.329  c-0.577-1.477-1.342-2.892-1.781-4.4c-0.836-2.807,0.291-5.044,2.181-6.946c0.443-0.443,0.911-0.741,1.394-0.939l-8.928-17.856v-27  v-20l6-17v-15v-25l8-32l9-15v-22v-20.315c-2.956,0.142-5.786-1.054-8.623-2.593c-2.328-1.285-3.998-3.19-4.472-5.969  c-0.088-0.497-0.159-0.991-0.221-1.487c-10.326,6.249-21.717,15.89-29.685,18.523c-10.682,3.53-33.965-2.188-45,0  c-10.862,2.153-28.969,16.31-39,21c-9.674,4.524-41,12-41,12s-40.262,10.587-53,16c-6.593,2.802-25,14-25,14l-23.516,15.486  c-0.638,1.929-1.331,3.835-2.17,5.68c-0.538,1.157-0.241,2.71-0.454,4.082c0,0-4.229-1.011,14.398,11.266  c3.504-0.182,12.702,5.214,15.39,3.204c3.093-2.256,13.727,5.546,17.014,8.055c0.905,0.73,1.88,1.44,2.886,1.997  c1.529,0.833,2.479,1.783,2.152,3.765c-0.321,1.977,0.846,3.42,2.323,4.504c0.96,0.678,2.024,1.191,3.034,1.749  c3.793,2.079,7.646,4.013,11.354,6.211c1.89,1.143,3.74,2.064,5.926,2.333c1.153,0.141,2.269,0.534,3.38,0.84  c1.666,0.403,2.958,1.153,2.832,3.196c-0.088,1.079,0.5,1.845,1.147,2.66c0.564,0.662,1.495,0.672,1.887-0.102  c0.168-0.342,0.154-0.787,0.282-1.139c0.663-1.479,1.382-1.682,2.571-0.824c2.658,1.959,3.882,4.969,5.415,7.72  c2.764,4.926,6.404,8.571,12.042,9.585c2.164,0.388,3.326,1.832,4.411,3.579c1.824,2.91,2.521,6.243,3.739,9.392  c2.409,6.148,5.93,11.248,12.586,13.126c3.2,0.904,5.029,2.956,5.282,6.325c0.131,1.763,0.965,2.842,2.364,3.854  c8.033,5.878,14.002,13.807,20.079,21.627C264.526,512.523,264.145,513.62,262.884,513.717z" HorizontalAlignment="Center" StrokeThickness="0" RenderTransformOrigin="0.5,0.5">
+                                        <Path.RenderTransform>
+                                            <TransformGroup>
+                                                <ScaleTransform/>
+                                                <SkewTransform/>
+                                                <RotateTransform/>
+                                                <TranslateTransform/>
+                                            </TransformGroup>
+                                        </Path.RenderTransform>
+                                        <Path.Effect>
+                                            <DropShadowEffect Opacity="0.5" ShadowDepth="0" BlurRadius="0"/>
+                                        </Path.Effect>
+                                    </Path>
+                                    <TextBlock x:Name="textBlock" TextWrapping="Wrap" Text="املأ الفراغ" HorizontalAlignment="Center" FontSize="22" FontFamily="/Projet;component/Resources/#TheSans Plain" RenderTransformOrigin="0.5,0.5" Foreground="White" Width="130">
+                                        <TextBlock.RenderTransform>
+                                            <TransformGroup>
+                                                <ScaleTransform/>
+                                                <SkewTransform/>
+                                                <RotateTransform/>
+                                                <TranslateTransform/>
+                                            </TransformGroup>
+                                        </TextBlock.RenderTransform>
+                                    </TextBlock>
+                                </StackPanel>
+                                <ControlTemplate.Triggers>
+                                    <Trigger Property="IsMouseOver" Value="True"/>
+                                    <Trigger Property="IsPressed" Value="True"/>
+                                    <Trigger Property="IsKeyboardFocusWithin" Value="True"/>
+                                    <Trigger Property="IsEnabled" Value="False"/>
+                                </ControlTemplate.Triggers>
+                            </ControlTemplate>
+                        </Setter.Value>
+                    </Setter>
+                </Style>
+            </Button.Resources>
+        </Button>
+        <Button x:Name="buttonCartes" ToolTip="لون الخريطة"  Style="{DynamicResource ButtonCours}" Margin="-172.38,-69.214,172.38,69.214" Click="buttonCartes_Click">
+            <Button.Resources>
+                <Style x:Key="ButtonCours" TargetType="{x:Type Button}">
+                    <Setter Property="Foreground" Value="{DynamicResource TextBrush}"/>
+                    <Setter Property="Background" Value="{DynamicResource GrayBrush10}"/>
+                    <Setter Property="BorderBrush" Value="{DynamicResource TextBoxBorderBrush}"/>
+                    <Setter Property="BorderThickness" Value="1"/>
+                    <Setter Property="Custom:ControlsHelper.ContentCharacterCasing" Value="Upper"/>
+                    <Setter Property="Custom:ControlsHelper.CornerRadius" Value="3"/>
+                    <Setter Property="FontFamily" Value="{DynamicResource DefaultFont}"/>
+                    <Setter Property="FontSize" Value="{DynamicResource UpperCaseContentFontSize}"/>
+                    <Setter Property="FontWeight" Value="Bold"/>
+                    <Setter Property="MinHeight" Value="25"/>
+                    <Setter Property="Padding" Value="5,6"/>
+                    <Setter Property="Template">
+                        <Setter.Value>
+                            <ControlTemplate TargetType="{x:Type Button}">
+                                <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+                                    <VisualStateManager.VisualStateGroups>
+                                        <VisualStateGroup x:Name="CommonStates1">
+                                            <VisualStateGroup.Transitions>
+                                                <VisualTransition GeneratedDuration="0"/>
+                                            </VisualStateGroup.Transitions>
+                                            <VisualState x:Name="Normal1"/>
+                                            <VisualState x:Name="MouseOver1">
+                                                <Storyboard>
+                                                    <ColorAnimationUsingKeyFrames Storyboard.TargetProperty="(Shape.Fill).(SolidColorBrush.Color)" Storyboard.TargetName="path">
+                                                        <EasingColorKeyFrame KeyTime="0" Value="#FF683A70"/>
+                                                    </ColorAnimationUsingKeyFrames>
+                                                </Storyboard>
+                                            </VisualState>
+                                            <VisualState x:Name="Pressed1"/>
+                                            <VisualState x:Name="Disabled1"/>
+                                        </VisualStateGroup>
+                                        <VisualStateGroup x:Name="CommonStates">
+                                            <VisualState x:Name="Normal">
+                                                <Storyboard>
+                                                    <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.Y)" Storyboard.TargetName="textBlock">
+                                                        <EasingDoubleKeyFrame KeyTime="0" Value="-160"/>
+                                                    </DoubleAnimationUsingKeyFrames>
+                                                    <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)" Storyboard.TargetName="textBlock">
+                                                        <EasingDoubleKeyFrame KeyTime="0" Value="50"/>
+                                                    </DoubleAnimationUsingKeyFrames>
+                                                </Storyboard>
+                                            </VisualState>
+                                            <VisualState x:Name="MouseOver">
+                                                <Storyboard>
+                                                    <ColorAnimationUsingKeyFrames Storyboard.TargetProperty="(Shape.Fill).(SolidColorBrush.Color)" Storyboard.TargetName="path">
+                                                        <EasingColorKeyFrame KeyTime="0" Value="#FF3949AB"/>
+                                                    </ColorAnimationUsingKeyFrames>
+                                                    <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Effect).(DropShadowEffect.BlurRadius)" Storyboard.TargetName="path">
+                                                        <EasingDoubleKeyFrame KeyTime="0" Value="7"/>
+                                                    </DoubleAnimationUsingKeyFrames>
+                                                    <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Effect).(DropShadowEffect.Opacity)" Storyboard.TargetName="path">
+                                                        <EasingDoubleKeyFrame KeyTime="0" Value="0.7"/>
+                                                    </DoubleAnimationUsingKeyFrames>
+                                                    <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)" Storyboard.TargetName="textBlock">
+                                                        <EasingDoubleKeyFrame KeyTime="0" Value="50"/>
+                                                    </DoubleAnimationUsingKeyFrames>
+                                                    <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.Y)" Storyboard.TargetName="textBlock">
+                                                        <EasingDoubleKeyFrame KeyTime="0" Value="-160"/>
+                                                    </DoubleAnimationUsingKeyFrames>
+                                                </Storyboard>
+                                            </VisualState>
+                                            <VisualState x:Name="Pressed">
+                                                <Storyboard>
+                                                    <ColorAnimationUsingKeyFrames Storyboard.TargetProperty="(Shape.Fill).(SolidColorBrush.Color)" Storyboard.TargetName="path">
+                                                        <EasingColorKeyFrame KeyTime="0" Value="#FF303F9F"/>
+                                                    </ColorAnimationUsingKeyFrames>
+                                                    <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Effect).(DropShadowEffect.BlurRadius)" Storyboard.TargetName="path">
+                                                        <EasingDoubleKeyFrame KeyTime="0" Value="8"/>
+                                                    </DoubleAnimationUsingKeyFrames>
+                                                    <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Effect).(DropShadowEffect.Opacity)" Storyboard.TargetName="path">
+                                                        <EasingDoubleKeyFrame KeyTime="0" Value="0.85"/>
+                                                    </DoubleAnimationUsingKeyFrames>
+                                                    <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)" Storyboard.TargetName="textBlock">
+                                                        <EasingDoubleKeyFrame KeyTime="0" Value="50"/>
+                                                    </DoubleAnimationUsingKeyFrames>
+                                                    <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.Y)" Storyboard.TargetName="textBlock">
+                                                        <EasingDoubleKeyFrame KeyTime="0" Value="-160"/>
+                                                    </DoubleAnimationUsingKeyFrames>
+                                                </Storyboard>
+                                            </VisualState>
+                                            <VisualState x:Name="Disabled"/>
+                                        </VisualStateGroup>
+                                    </VisualStateManager.VisualStateGroups>
+                                    <Path x:Name="path" Fill="#FF3F51B5" Data="M340.5,300.5c7.997-2.643,19.442-12.347,29.799-18.593  c-0.11-0.745-0.201-1.489-0.272-2.243c-0.377-4.111-0.474-8.23-1.519-12.333c-0.73-2.788-1.221-5.897-0.23-8.813  c0.807-2.374,0.166-4.18-1.355-6.026c-1.794-2.133-3.674-4.051-5.93-5.702c-5.089-3.731-10.973-6.003-16.255-9.438  c-3.755-2.43-6.95-5.078-8.971-9.115c-1.374-2.695-3.194-4.979-5.544-6.88c-2.97-2.406-4.406-6.079-6.75-9.024  c-0.567-0.691-0.849-1.852-0.836-2.8c-0.067-4.608-2.409-7.893-5.785-10.582c-1.673-1.301-2.546-2.959-2.84-5.029  c-0.25-1.769-0.484-3.542-0.705-5.325c-0.208-1.814,0.015-3.637,1.038-5.118c3.403-4.823,3.358-10.353,3.041-15.967  c-0.109-2.17-0.647-4.415-0.379-6.5c0.637-5.082-0.628-9.764-2.105-14.441c-9.422,3.63-18.808,6.667-24.399,6.931  c-4.906,0.232-19-5-19-5s-17.881-5.356-24-5c-3.946,0.23-15,5-15,5s-11.671,2.868-15,5c-4.617,2.958-10.421,12.984-15,16  c-4.761,3.135-16.535,4.378-22,6c-8.371,2.485-25.359,8.33-32,14c-3.315,2.831-6.834,11.289-10,14.286  c-2.29,2.167-11.225,5.75-11.225,5.75c-1.36,2.796-2.443,5.821-3.211,8.868c-0.714,2.876-0.83,6.09,0.702,8.71  c2.406,4.212,3.531,8.849,5.253,13.291c1.261,3.182,2.343,6.206,1.782,9.762c-0.365,2.502,0.861,4.658,3.287,5.775  c1.427,0.645,3.006,1.105,4.011,2.397c3.252,4.203,7.244,8.006,7.667,13.775c0.291,3.33,1.741,6.013,3.973,8.322  c1.791,0.194,2.891,1.253,2.949,3.076c0.134,3.175,0.402,6.386-0.459,9.46c-1.107,4.026-1.614,8.125-1.988,12.279  c-0.164,1.822-0.582,3.473-1.526,5.022c-2.84,4.71-5.088,9.711-7.314,14.725c-1.492,3.425-2.705,6.995-4.546,10.208  c-3.176,5.578-5.75,11.58-10.986,15.718c-1.969,1.556-3.334,3.792-4.225,6.242c-0.507,1.304-0.901,2.646-1.67,3.751  c-3.817,5.537-5.209,12.108-7.372,18.364l0.385-0.294L137.5,363.5c0,0,18.407-11.198,25-14c12.738-5.413,53-16,53-16  s31.326-7.476,41-12c10.031-4.69,28.138-18.847,39-21C306.535,298.312,329.818,304.03,340.5,300.5z" HorizontalAlignment="Center" StrokeThickness="0">
+                                        <Path.Effect>
+                                            <DropShadowEffect Opacity="0.5" ShadowDepth="0" BlurRadius="0"/>
+                                        </Path.Effect>
+                                    </Path>
+                                    <TextBlock x:Name="textBlock" TextWrapping="Wrap" Text="تلوين الخرائط" HorizontalAlignment="Center" FontSize="22" FontFamily="/Projet;component/Resources/#TheSans Plain" RenderTransformOrigin="0.5,0.5" Foreground="White" Width="130">
+                                        <TextBlock.RenderTransform>
+                                            <TransformGroup>
+                                                <ScaleTransform/>
+                                                <SkewTransform/>
+                                                <RotateTransform/>
+                                                <TranslateTransform/>
+                                            </TransformGroup>
+                                        </TextBlock.RenderTransform>
+                                    </TextBlock>
+                                </StackPanel>
+                                <ControlTemplate.Triggers>
+                                    <Trigger Property="IsMouseOver" Value="True"/>
+                                    <Trigger Property="IsPressed" Value="True"/>
+                                    <Trigger Property="IsKeyboardFocusWithin" Value="True"/>
+                                    <Trigger Property="IsEnabled" Value="False"/>
+                                </ControlTemplate.Triggers>
+                            </ControlTemplate>
+                        </Setter.Value>
+                    </Setter>
+                </Style>
+            </Button.Resources>
+        </Button>
+        <Button x:Name="buttonVrai_faux" ToolTip="اجب بصحيح او خطأ" Style="{DynamicResource ButtonCours}" Margin="-200.971,-152.512,200.971,152.512" Click="buttonVrai_faux_Click">
+            <Button.Resources>
+                <Style x:Key="ButtonCours" TargetType="{x:Type Button}">
+                    <Setter Property="Foreground" Value="{DynamicResource TextBrush}"/>
+                    <Setter Property="Background" Value="{DynamicResource GrayBrush10}"/>
+                    <Setter Property="BorderBrush" Value="{DynamicResource TextBoxBorderBrush}"/>
+                    <Setter Property="BorderThickness" Value="1"/>
+                    <Setter Property="Custom:ControlsHelper.ContentCharacterCasing" Value="Upper"/>
+                    <Setter Property="Custom:ControlsHelper.CornerRadius" Value="3"/>
+                    <Setter Property="FontFamily" Value="{DynamicResource DefaultFont}"/>
+                    <Setter Property="FontSize" Value="{DynamicResource UpperCaseContentFontSize}"/>
+                    <Setter Property="FontWeight" Value="Bold"/>
+                    <Setter Property="MinHeight" Value="25"/>
+                    <Setter Property="Padding" Value="5,6"/>
+                    <Setter Property="Template">
+                        <Setter.Value>
+                            <ControlTemplate TargetType="{x:Type Button}">
+                                <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+                                    <VisualStateManager.VisualStateGroups>
+                                        <VisualStateGroup x:Name="CommonStates1">
+                                            <VisualStateGroup.Transitions>
+                                                <VisualTransition GeneratedDuration="0"/>
+                                            </VisualStateGroup.Transitions>
+                                            <VisualState x:Name="Normal1"/>
+                                            <VisualState x:Name="MouseOver1">
+                                                <Storyboard>
+                                                    <ColorAnimationUsingKeyFrames Storyboard.TargetProperty="(Shape.Fill).(SolidColorBrush.Color)" Storyboard.TargetName="path">
+                                                        <EasingColorKeyFrame KeyTime="0" Value="#FF683A70"/>
+                                                    </ColorAnimationUsingKeyFrames>
+                                                </Storyboard>
+                                            </VisualState>
+                                            <VisualState x:Name="Pressed1"/>
+                                            <VisualState x:Name="Disabled1"/>
+                                        </VisualStateGroup>
+                                        <VisualStateGroup x:Name="CommonStates">
+                                            <VisualState x:Name="Normal">
+                                                <Storyboard>
+                                                    <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.Y)" Storyboard.TargetName="textBlock">
+                                                        <EasingDoubleKeyFrame KeyTime="0" Value="-120"/>
+                                                    </DoubleAnimationUsingKeyFrames>
+                                                    <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)" Storyboard.TargetName="textBlock">
+                                                        <EasingDoubleKeyFrame KeyTime="0" Value="30"/>
+                                                    </DoubleAnimationUsingKeyFrames>
+                                                </Storyboard>
+                                            </VisualState>
+                                            <VisualState x:Name="MouseOver">
+                                                <Storyboard>
+                                                    <ColorAnimationUsingKeyFrames Storyboard.TargetProperty="(Shape.Fill).(SolidColorBrush.Color)" Storyboard.TargetName="path">
+                                                        <EasingColorKeyFrame KeyTime="0" Value="#FF3949AB"/>
+                                                    </ColorAnimationUsingKeyFrames>
+                                                    <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Effect).(DropShadowEffect.BlurRadius)" Storyboard.TargetName="path">
+                                                        <EasingDoubleKeyFrame KeyTime="0" Value="7"/>
+                                                    </DoubleAnimationUsingKeyFrames>
+                                                    <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Effect).(DropShadowEffect.Opacity)" Storyboard.TargetName="path">
+                                                        <EasingDoubleKeyFrame KeyTime="0" Value="0.7"/>
+                                                    </DoubleAnimationUsingKeyFrames>
+                                                    <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)" Storyboard.TargetName="textBlock">
+                                                        <EasingDoubleKeyFrame KeyTime="0" Value="30"/>
+                                                    </DoubleAnimationUsingKeyFrames>
+                                                    <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.Y)" Storyboard.TargetName="textBlock">
+                                                        <EasingDoubleKeyFrame KeyTime="0" Value="-120"/>
+                                                    </DoubleAnimationUsingKeyFrames>
+                                                </Storyboard>
+                                            </VisualState>
+                                            <VisualState x:Name="Pressed">
+                                                <Storyboard>
+                                                    <ColorAnimationUsingKeyFrames Storyboard.TargetProperty="(Shape.Fill).(SolidColorBrush.Color)" Storyboard.TargetName="path">
+                                                        <EasingColorKeyFrame KeyTime="0" Value="#FF303F9F"/>
+                                                    </ColorAnimationUsingKeyFrames>
+                                                    <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Effect).(DropShadowEffect.BlurRadius)" Storyboard.TargetName="path">
+                                                        <EasingDoubleKeyFrame KeyTime="0" Value="8"/>
+                                                    </DoubleAnimationUsingKeyFrames>
+                                                    <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Effect).(DropShadowEffect.Opacity)" Storyboard.TargetName="path">
+                                                        <EasingDoubleKeyFrame KeyTime="0" Value="0.85"/>
+                                                    </DoubleAnimationUsingKeyFrames>
+                                                    <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)" Storyboard.TargetName="textBlock">
+                                                        <EasingDoubleKeyFrame KeyTime="0" Value="30"/>
+                                                    </DoubleAnimationUsingKeyFrames>
+                                                    <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.Y)" Storyboard.TargetName="textBlock">
+                                                        <EasingDoubleKeyFrame KeyTime="0" Value="-120"/>
+                                                    </DoubleAnimationUsingKeyFrames>
+                                                </Storyboard>
+                                            </VisualState>
+                                            <VisualState x:Name="Disabled"/>
+                                        </VisualStateGroup>
+                                    </VisualStateManager.VisualStateGroups>
+                                    <Path x:Name="path" Fill="#FF3F51B5" Data="M94.143,163.246c0.145,7.517,11.779,9.371,16.008,14.82  c0.469,0.647,6.729,8.203,10.005,8.744c8.046,1.319-9.311,11.37-1.11,8.013c-0.45,0.881,6.249-0.055,5.883,0.848  c-1.735,3.967,4.293-0.91,3.031,3.297l-0.685,10.567c0,0,8.936-3.582,11.225-5.75c3.166-2.997,6.685-11.455,10-14.286  c6.641-5.67,23.629-11.515,32-14c5.465-1.622,17.239-2.865,22-6c4.579-3.016,10.383-13.042,15-16c3.329-2.132,15-5,15-5  s11.054-4.77,15-5c6.119-0.356,24,5,24,5s14.094,5.232,19,5c5.591-0.264,14.978-3.3,24.399-6.93  c-0.257-0.812-0.519-1.625-0.78-2.439c-1.041-3.159-2.784-5.616-5.478-7.535c-3.728-2.61-7.12-5.697-9.933-9.287  c-3.099-3.906-6.527-7.447-10.326-10.592c-3.227-2.642-5.241-5.795-6.305-9.783c-1.025-3.863-2.346-7.618-5.123-10.648  c-0.394-0.435-0.736-0.969-0.906-1.524c-1.304-4.238-4.119-7.718-5.904-11.657c-2.336-5.229-6.071-8.771-10.896-11.242  c-3.597-1.845-6.507-4.426-8.884-7.657c-3.798-5.085-7.684-10.053-12.506-14.237c-2.213-1.897-3.497-4.515-2.659-7.443  c0.79-2.76-0.166-4.671-2.043-6.359c-1.632-1.468-3.021-3.059-3.746-5.245c-0.153-0.464-0.841-1.23-1.119-1.158  c-3.033,0.794-5.593-1.464-8.479-1.459c-1.134-0.043-2.551-0.022-3.328,0.621c-3.367,2.733-7.074,4.714-10.985,6.415  c-0.67,0.284-1.189,1.005-1.625,1.635c-1.326,1.87-3.018,2.933-5.334,3.087c-1.118,0.066-2.269,0.499-3.262,1.052  c-1.583,0.894-3.251,1.44-5.004,1.188c-4.363-0.646-6.995,2.728-10.374,4.328c-1.144,2.62-3.587,3.403-5.931,4.344  c-1.483,0.597-2.547,1.733-3.557,2.93c-2.098,2.585-3.866,0.914-5.279,3.974c-2.723,5.854-0.827-5.297-3.328,0.673l-0.138-0.032  l-6.262-0.768c-0.619,3.327-1.381-3.404-3.781-0.846c-1.394,1.488-5.713-2.694-5.589-0.621c0.237,4.371-12.602-3.636-12.25,0.725  c0.115,1.553-16.579,2.967-15.487,4.275c1.733,2.125-14.035,9.657-15.141,11.323c-1.52,2.292-6.331,11.803-8.583,13.398  c-1.429,1.015-14.043,44.762-15.266,45.992c-2.585,2.611,0.641,17.257,2.519,21.217C82.212,154.09,94.108,162.294,94.143,163.246z" HorizontalAlignment="Center" StrokeThickness="0">
+                                        <Path.Effect>
+                                            <DropShadowEffect Opacity="0.5" ShadowDepth="0" BlurRadius="0"/>
+                                        </Path.Effect>
+                                    </Path>
+                                    <TextBlock x:Name="textBlock" TextWrapping="Wrap" Text="صحيح او خطأ" HorizontalAlignment="Center" FontSize="22" FontFamily="/Projet;component/Resources/#TheSans Plain" RenderTransformOrigin="0.5,0.5" Foreground="White" Width="130">
+                                        <TextBlock.RenderTransform>
+                                            <TransformGroup>
+                                                <ScaleTransform/>
+                                                <SkewTransform/>
+                                                <RotateTransform/>
+                                                <TranslateTransform/>
+                                            </TransformGroup>
+                                        </TextBlock.RenderTransform>
+                                    </TextBlock>
+                                </StackPanel>
+                                <ControlTemplate.Triggers>
+                                    <Trigger Property="IsMouseOver" Value="True"/>
+                                    <Trigger Property="IsPressed" Value="True"/>
+                                    <Trigger Property="IsKeyboardFocusWithin" Value="True"/>
+                                    <Trigger Property="IsEnabled" Value="False"/>
+                                </ControlTemplate.Triggers>
+                            </ControlTemplate>
+                        </Setter.Value>
+                    </Setter>
+                </Style>
+            </Button.Resources>
+        </Button>
+        <Button x:Name="textChap2" ToolTip="العودة الى المجال الثاني" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="{x:Null}" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0,5,10,0" Click="textChap2_Click" Style="{DynamicResource ButtonTextChap2}" FontWeight="Normal">
+            <Button.Resources>
+                <Style x:Key="ButtonTextChap2" TargetType="{x:Type Button}">
+                    <Setter Property="Foreground" Value="{DynamicResource TextBrush}"/>
+                    <Setter Property="Background" Value="{DynamicResource GrayBrush10}"/>
+                    <Setter Property="BorderBrush" Value="{DynamicResource TextBoxBorderBrush}"/>
+                    <Setter Property="BorderThickness" Value="1"/>
+                    <Setter Property="Custom:ControlsHelper.ContentCharacterCasing" Value="Upper"/>
+                    <Setter Property="Custom:ControlsHelper.CornerRadius" Value="3"/>
+                    <Setter Property="FontFamily" Value="{DynamicResource DefaultFont}"/>
+                    <Setter Property="FontSize" Value="{DynamicResource UpperCaseContentFontSize}"/>
+                    <Setter Property="FontWeight" Value="Bold"/>
+                    <Setter Property="MinHeight" Value="25"/>
+                    <Setter Property="Padding" Value="5,6"/>
+                    <Setter Property="Template">
+                        <Setter.Value>
+                            <ControlTemplate TargetType="{x:Type Button}">
+                                <Grid>
+                                    <VisualStateManager.VisualStateGroups>
+                                        <VisualStateGroup x:Name="CommonStates">
+                                            <VisualState x:Name="Normal">
+                                                <Storyboard>
+                                                    <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="rectangle">
+                                                        <EasingDoubleKeyFrame KeyTime="0" Value="0"/>
+                                                    </DoubleAnimationUsingKeyFrames>
+                                                </Storyboard>
+                                            </VisualState>
+                                            <VisualState x:Name="MouseOver">
+                                                <Storyboard>
+                                                    <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="rectangle">
+                                                        <EasingDoubleKeyFrame KeyTime="0" Value="0.5"/>
+                                                    </DoubleAnimationUsingKeyFrames>
+                                                </Storyboard>
+                                            </VisualState>
+                                            <VisualState x:Name="Pressed">
+                                                <Storyboard>
+                                                    <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="rectangle">
+                                                        <EasingDoubleKeyFrame KeyTime="0" Value="1"/>
+                                                    </DoubleAnimationUsingKeyFrames>
+                                                </Storyboard>
+                                            </VisualState>
+                                            <VisualState x:Name="Disabled"/>
+                                        </VisualStateGroup>
+                                    </VisualStateManager.VisualStateGroups>
+                                    <Custom:ContentControlEx x:Name="PART_ContentPresenter" ContentCharacterCasing="{Binding (Custom:ControlsHelper.ContentCharacterCasing), RelativeSource={RelativeSource TemplatedParent}}" ContentTemplate="{TemplateBinding ContentTemplate}" Content="{TemplateBinding Content}" ContentStringFormat="{TemplateBinding ContentStringFormat}" HorizontalContentAlignment="{TemplateBinding HorizontalContentAlignment}" Margin="{TemplateBinding BorderThickness}" Padding="{TemplateBinding Padding}" RecognizesAccessKey="True" SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}" VerticalContentAlignment="{TemplateBinding VerticalContentAlignment}"/>
+                                    <Rectangle x:Name="rectangle" Fill="#FF616161" Height="4" Margin="0" Stroke="Black" VerticalAlignment="Bottom" StrokeThickness="0" Opacity="0"/>
+                                </Grid>
+                                <ControlTemplate.Triggers>
+                                    <Trigger Property="IsMouseOver" Value="True"/>
+                                    <Trigger Property="IsPressed" Value="True"/>
+                                    <Trigger Property="IsKeyboardFocusWithin" Value="True"/>
+                                    <Trigger Property="IsEnabled" Value="False">
+                                        <Setter Property="Opacity" TargetName="PART_ContentPresenter" Value="0.3"/>
+                                    </Trigger>
+                                </ControlTemplate.Triggers>
+                            </ControlTemplate>
+                        </Setter.Value>
+                    </Setter>
+                </Style>
+            </Button.Resources>
+            <TextBlock x:Name="text_NomChap2" Text="المجال الثاني : جغرافية الجزائر" FontSize="20"  FontFamily="/Projet;component/Resources/#TheSans Plain" Foreground="#FF616161"/>
+        </Button>
+        <Button x:Name="textExercices" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="{x:Null}" VerticalAlignment="Top" Margin="327,5,278,0" Click="textExercices_Click" Style="{DynamicResource ButtonTextChap2}" FontWeight="Normal">
+            <Button.Resources>
+                <Style x:Key="ButtonTextChap2" TargetType="{x:Type Button}">
+                    <Setter Property="Foreground" Value="{DynamicResource TextBrush}"/>
+                    <Setter Property="Background" Value="{DynamicResource GrayBrush10}"/>
+                    <Setter Property="BorderBrush" Value="{DynamicResource TextBoxBorderBrush}"/>
+                    <Setter Property="BorderThickness" Value="1"/>
+                    <Setter Property="Custom:ControlsHelper.ContentCharacterCasing" Value="Upper"/>
+                    <Setter Property="Custom:ControlsHelper.CornerRadius" Value="3"/>
+                    <Setter Property="FontFamily" Value="{DynamicResource DefaultFont}"/>
+                    <Setter Property="FontSize" Value="{DynamicResource UpperCaseContentFontSize}"/>
+                    <Setter Property="FontWeight" Value="Bold"/>
+                    <Setter Property="MinHeight" Value="25"/>
+                    <Setter Property="Padding" Value="5,6"/>
+                    <Setter Property="Template">
+                        <Setter.Value>
+                            <ControlTemplate TargetType="{x:Type Button}">
+                                <Grid>
+                                    <VisualStateManager.VisualStateGroups>
+                                        <VisualStateGroup x:Name="CommonStates">
+                                            <VisualState x:Name="Normal">
+                                                <Storyboard>
+                                                    <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="rectangle">
+                                                        <EasingDoubleKeyFrame KeyTime="0" Value="0"/>
+                                                    </DoubleAnimationUsingKeyFrames>
+                                                </Storyboard>
+                                            </VisualState>
+                                            <VisualState x:Name="MouseOver">
+                                                <Storyboard>
+                                                    <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="rectangle">
+                                                        <EasingDoubleKeyFrame KeyTime="0" Value="0.5"/>
+                                                    </DoubleAnimationUsingKeyFrames>
+                                                </Storyboard>
+                                            </VisualState>
+                                            <VisualState x:Name="Pressed">
+                                                <Storyboard>
+                                                    <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="rectangle">
+                                                        <EasingDoubleKeyFrame KeyTime="0" Value="1"/>
+                                                    </DoubleAnimationUsingKeyFrames>
+                                                </Storyboard>
+                                            </VisualState>
+                                            <VisualState x:Name="Disabled"/>
+                                        </VisualStateGroup>
+                                    </VisualStateManager.VisualStateGroups>
+                                    <Custom:ContentControlEx x:Name="PART_ContentPresenter" ContentCharacterCasing="{Binding (Custom:ControlsHelper.ContentCharacterCasing), RelativeSource={RelativeSource TemplatedParent}}" ContentTemplate="{TemplateBinding ContentTemplate}" Content="{TemplateBinding Content}" ContentStringFormat="{TemplateBinding ContentStringFormat}" HorizontalContentAlignment="{TemplateBinding HorizontalContentAlignment}" Margin="{TemplateBinding BorderThickness}" Padding="{TemplateBinding Padding}" RecognizesAccessKey="True" SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}" VerticalContentAlignment="{TemplateBinding VerticalContentAlignment}"/>
+                                    <Rectangle x:Name="rectangle" Fill="#FF616161" Height="4" Margin="0" Stroke="Black" VerticalAlignment="Bottom" StrokeThickness="0" Opacity="0"/>
+                                </Grid>
+                                <ControlTemplate.Triggers>
+                                    <Trigger Property="IsMouseOver" Value="True"/>
+                                    <Trigger Property="IsPressed" Value="True"/>
+                                    <Trigger Property="IsKeyboardFocusWithin" Value="True"/>
+                                    <Trigger Property="IsEnabled" Value="False">
+                                        <Setter Property="Opacity" TargetName="PART_ContentPresenter" Value="0.3"/>
+                                    </Trigger>
+                                </ControlTemplate.Triggers>
+                            </ControlTemplate>
+                        </Setter.Value>
+                    </Setter>
+                </Style>
+            </Button.Resources>
+            <TextBlock  Text="> تمارين" FontSize="20" Foreground="#FF616161" HorizontalAlignment="Right" />
+        </Button>
+        <StackPanel   ToolTip="اختر الدرس ثم نوع التمرين" Orientation="Vertical" Height="129" Width="175" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0,100,100,0">
+            <TextBlock Margin="0" FontSize="16" Width="165" Height="25" HorizontalAlignment="Right" FlowDirection="RightToLeft">
+                تمرين عن
+            </TextBlock>
+            <ListBox TextBlock.TextAlignment="Right" Name="listQuelleCours" Height="104" Width="165"
+             Margin="0" TextBlock.FontFamily="/Projet;component/Resources/#TheSans Plain" TextBlock.FontWeight="Medium"  HorizontalAlignment="Left" BorderThickness="2" BorderBrush="LightBlue">
+                <ListBoxItem Name="all" Selector.IsSelected="True" Selected="all_Selected">المجال الثاني عامة</ListBoxItem>
+                <ListBoxItem Name="cours1" Selected="cours1_Selected">مظاهر السطح في الجزائر</ListBoxItem>
+                <ListBoxItem Name="cours2" Selected="cours2_Selected">المناخ و النبات</ListBoxItem>
+                <ListBoxItem Name="cours3" Selected="cours3_Selected">الموارد الطبيعية</ListBoxItem>
+            </ListBox>
+        </StackPanel>
+    </Grid>
+</UserControl>

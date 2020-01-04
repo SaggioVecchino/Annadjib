@@ -1,0 +1,201 @@
+﻿<UserControl x:Class="Projet.View.UsrCtrl.Exam.Exam2"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Projet.View.UsrCtrl.Exam"
+             mc:Ignorable="d" 
+                            xmlns:n="clr-namespace:Nicenis.Windows;assembly=Nicenis"
+
+             d:DesignWidth="690" d:DesignHeight="570">
+
+    <Grid>
+        <Border x:Name="backgrnd" Background="#FFFFFF" CornerRadius="3">
+            <Border.Effect>
+                <DropShadowEffect BlurRadius="5" ShadowDepth="0" Opacity="0.2"/>
+            </Border.Effect>
+        </Border>
+        <StackPanel Orientation="Vertical">
+            <Grid Width="690">
+                <Button x:Name="button2" Width="80" Margin="10,10,0,10" HorizontalAlignment="Left"  VerticalAlignment="Top"  Click="buttonresult_Click" FontSize="18" IsDefault="True" Visibility="Hidden">
+                    <TextBlock FontWeight="Normal">النتيجة</TextBlock>
+                </Button>
+                <Button x:Name="button" Width="80" Margin="10,10,0,10" HorizontalAlignment="Left"  VerticalAlignment="Top" Click="button_Click" FontSize="18" IsDefault="True">
+                    <TextBlock FontWeight="Normal">أنهيت</TextBlock>
+                </Button>
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Top">
+                    <TextBlock x:Name="textBlock19" TextWrapping="Wrap"  FontSize="18" Margin="5,0,5,0"/>
+                    <TextBlock x:Name="textBlock20" TextWrapping="Wrap" Text="الوقت المتبقي:"  FontSize="18"/>
+                </StackPanel>
+            </Grid>
+            <Grid Width="690" Height="505">
+            <ScrollViewer VerticalScrollBarVisibility="Visible" Background="#FF2AB5C3" Margin="0,0,0,1">
+                <StackPanel FlowDirection="RightToLeft">
+                    <Grid Height="159" Background="#FFE7F1F0">
+                        <TextBlock x:Name="textBlock" Margin="281,0,297,0" TextWrapping="Wrap" Text="التمرين الاول" VerticalAlignment="Top" Height="30" FontSize="16" FlowDirection="RightToLeft"/>
+
+                        <StackPanel Margin="-4.75,0,34,12.12" VerticalAlignment="Bottom" HorizontalAlignment="Center">
+                            <CheckBox x:Name="checkBox" Content="السهول الصحراوية " FlowDirection="RightToLeft" Checked="checkBox_Checked" Cursor="Hand" FontFamily="/Projet;component/Resources/#TheSans Plain"/>
+                            <CheckBox x:Name="checkBox1" Content="السهول الجنوبية" FlowDirection="RightToLeft" Checked="checkBox1_Checked" Cursor="Hand" FontFamily="/Projet;component/Resources/#TheSans Plain"/>
+                            <CheckBox x:Name="checkBox2" Content="العرق" FlowDirection="RightToLeft" Checked="checkBox2_Checked" Cursor="Hand" FontFamily="/Projet;component/Resources/#TheSans Plain"/>
+                        </StackPanel>
+                        <TextBlock x:Name="textBlock1" HorizontalAlignment="Left" Margin="12,56,0,0" TextWrapping="Wrap" Text="تسمى السهول الرملية الواسعة بـ : " VerticalAlignment="Top" Height="23" Width="222" FontFamily="/Projet;component/Resources/#TheSans Plain" FontSize="14" RenderTransformOrigin="0.495,0.335"/>
+                    </Grid>
+                    <Grid Height="120" Background="#FFB7F1F1">
+                        <TextBlock x:Name="textBlock1b" Margin="11,15,14,0" TextWrapping="Wrap" Text="أي الحيوانات التالية  تعيش في المناطق ذات مناخ بحر الأبيض المتوسط :" VerticalAlignment="Top" Height="28" FontFamily="/Projet;component/Resources/#TheSans Plain" FontSize="14"/>
+                        <StackPanel Margin="-4.75,0,34,12.12" VerticalAlignment="Bottom" HorizontalAlignment="Center">
+                            <CheckBox x:Name="checkBoxb" Content="الغزلان " FlowDirection="RightToLeft" Checked="checkBox_Checkedb" Cursor="Hand" FontFamily="/Projet;component/Resources/#TheSans Plain"/>
+                            <CheckBox x:Name="checkBox1b" Content="الأغنام" FlowDirection="RightToLeft" Checked="checkBox1_Checkedb" Cursor="Hand" FontFamily="/Projet;component/Resources/#TheSans Plain"/>
+                            <CheckBox x:Name="checkBox2b" Content="الخيول" FlowDirection="RightToLeft" Checked="checkBox2_Checkedb" Cursor="Hand" FontFamily="/Projet;component/Resources/#TheSans Plain"/>
+                        </StackPanel>
+                    </Grid>
+                    <Grid Height="120" Background="#FF1FF0E6" >
+                        <TextBlock x:Name="textBlock1c" Margin="11,15,67.111,0" TextWrapping="Wrap" Text="من بين أهم الثروات البحرية التي تتوفر في الجزائر" FontFamily="/Projet;component/Resources/#TheSans Plain" FontSize="14" Height="33" VerticalAlignment="Top"/>
+                        <StackPanel Margin="-4.75,0,34,12.12" VerticalAlignment="Bottom" HorizontalAlignment="Center">
+                            <CheckBox x:Name="checkBoxc" Content="المرجان" FlowDirection="RightToLeft" Checked="checkBox_Checkedc" Cursor="Hand" FontFamily="/Projet;component/Resources/#TheSans Plain"/>
+                            <CheckBox x:Name="checkBox1c" Content="زيوت سمكية" FlowDirection="RightToLeft" Checked="checkBox1_Checkedc" Cursor="Hand" FontFamily="/Projet;component/Resources/#TheSans Plain"/>
+                            <CheckBox x:Name="checkBox2c" Content="الاعشاب البحرية" FlowDirection="RightToLeft" Checked="checkBox2_Checkedc" Cursor="Hand" FontFamily="/Projet;component/Resources/#TheSans Plain"/>
+                        </StackPanel>
+                    </Grid>
+                    <Grid Height="124" Background="#FFE7F1F0">
+                        <TextBlock x:Name="textBlock1d" Margin="11,34,6,0" TextWrapping="Wrap" Text="الحياة في الجزائر سواءً في الريف او في المدينة تتميز بتنوع النشاطات و التقدم في أغلب المجالات " VerticalAlignment="Top" Height="38" FontFamily="/Projet;component/Resources/#TheSans Plain"/>
+                        <StackPanel Margin="78,0,24,9" VerticalAlignment="Bottom">
+                            <CheckBox x:Name="checkBoxd" Content="صحيح" FlowDirection="RightToLeft" Checked="checkBox_Checkedd" Cursor="Hand" FontFamily="/Projet;component/Resources/#TheSans Plain"/>
+                            <CheckBox x:Name="checkBox1d" Content="خاطئ" FlowDirection="RightToLeft" Checked="checkBox1_Checkedd" Cursor="Hand" FontFamily="/Projet;component/Resources/#TheSans Plain"/>
+                        </StackPanel>
+                        <TextBlock x:Name="textBlock2" Margin="294,0,285,0" TextWrapping="Wrap" Text="التمرين الثاني" VerticalAlignment="Top" Height="34" FlowDirection="RightToLeft" FontSize="16"/>
+                    </Grid>
+
+                    <Grid Height="100" Background="#FFB7F1F1">
+                        <TextBlock x:Name="textBlock1e" Margin="1,22,-20,0" TextWrapping="Wrap" Text="
+كمية تساقط الأمطار في المناطق ذات المناخ القاري من 200 مم إلى 400 مم" VerticalAlignment="Top" Height="34" FontFamily="/Projet;component/Resources/#TheSans Plain" FontSize="13"/>
+                        <StackPanel Margin="5.25,0,24,9" VerticalAlignment="Bottom">
+                            <CheckBox x:Name="checkBoxe" Content="صحيح" FlowDirection="RightToLeft" Checked="checkBox_Checkede" Cursor="Hand" Margin="78,0,0,0" FontFamily="/Projet;component/Resources/#TheSans Plain"/>
+                            <CheckBox x:Name="checkBox1e" Content="خاطئ" FlowDirection="RightToLeft" Checked="checkBox1_Checkede" Cursor="Hand" Margin="78,0,0,0" FontFamily="/Projet;component/Resources/#TheSans Plain"/>
+                        </StackPanel>
+                    </Grid>
+                    <Grid Height="100" Background="#FF1FF0E6">
+                        <TextBlock x:Name="textBlock1f" Margin="11,22,132.111,0" TextWrapping="Wrap" Text="
+يُمكن إعتبار بعض الحيوانات النادرة كموارد طبيعية " VerticalAlignment="Top" Height="34" FontFamily="/Projet;component/Resources/#TheSans Plain" FontSize="14"/>
+                        <StackPanel Margin="78,0,24,9" VerticalAlignment="Bottom">
+                            <CheckBox x:Name="checkBoxf" Content="صحيح" FlowDirection="RightToLeft" Checked="checkBox_Checkedf" Cursor="Hand" FontFamily="/Projet;component/Resources/#TheSans Plain"/>
+                            <CheckBox x:Name="checkBox1f" Content="خاطئ" FlowDirection="RightToLeft" Checked="checkBox1_Checkedf" Cursor="Hand" FontFamily="/Projet;component/Resources/#TheSans Plain"/>
+                        </StackPanel>
+                    </Grid>
+                    <Grid Height="212" Background="#FFE7F1F0">
+                        <TextBlock x:Name="textBlock3" Margin="291,0,290,0" TextWrapping="Wrap" Text="التمرين الثالث" VerticalAlignment="Top" Height="29" FlowDirection="RightToLeft" FontSize="16"/>
+                        <WrapPanel Margin="123,54,47,123" >
+                            <TextBlock x:Name="textBlock4" 
+                                          n:DragSource.AllowDrag="True"
+        n:DragSource.Data="{Binding}"
+        n:DragSource.AllowedEffects="Copy"
+                                       TextWrapping="Wrap" Text="منخفض" Height="25" Width="65" HorizontalAlignment="Center" VerticalAlignment="Center" Padding="2" Background="White" Margin="2" FlowDirection="RightToLeft"/>
+                            <TextBlock x:Name="textBlock5"
+                                          n:DragSource.AllowDrag="True"
+        n:DragSource.Data="{Binding}"
+        n:DragSource.AllowedEffects="Copy"
+                                       TextWrapping="Wrap" Text="مظاهر طبيعية متنوعة" Height="26" Width="126" HorizontalAlignment="Center" VerticalAlignment="Center" Padding="2" Background="White" Margin="2" FlowDirection="RightToLeft"/>
+                            <TextBlock x:Name="textBlock6" 
+                                          n:DragSource.AllowDrag="True"
+        n:DragSource.Data="{Binding}"
+        n:DragSource.AllowedEffects="Copy"
+                                       TextWrapping="Wrap" Text="سطح القارات" Height="26" Width="79" HorizontalAlignment="Center" VerticalAlignment="Center" Padding="2" Background="White" Margin="2" FlowDirection="RightToLeft"/>
+
+                        </WrapPanel>
+                        <WrapPanel Height="59" Margin="105,0,8,58" VerticalAlignment="Bottom" FlowDirection="RightToLeft" Background="White">
+                            <TextBlock x:Name="textBlock8" TextWrapping="Wrap" Margin="2,0" Text="التضاريس هي"/>
+                            <TextBlock x:Name="textBlock9" TextWrapping="Wrap" AllowDrop="True" Drop="textBlock9_Drop" Margin="2,0" Background="White" Text="--------------"/>
+                            <TextBlock x:Name="textBlock10" TextWrapping="Wrap" Margin="2,0"><Span><Run Text="تظهر بأشكال مختلفة بعضها مرتفع"/><Run Text=" "/><Run Text="وبعضها"/></Span></TextBlock>
+                            <TextBlock x:Name="textBlock11" TextWrapping="Wrap" Text="-------" AllowDrop="True" Drop="textBlock9_Drop" Margin="2,0" Background="White"/>
+                            <TextBlock x:Name="textBlock12" TextWrapping="Wrap" Text=" وهدا يدل على ان " Margin="2,0"/>
+                            <TextBlock x:Name="textBlock13" TextWrapping="Wrap" Text="-------" AllowDrop="True" Drop="textBlock9_Drop" Margin="2,0" Background="White"/>
+                            <TextBlock x:Name="textBlock14" TextWrapping="Wrap" Text="ليس مستويا" Margin="2,0"/>
+                        </WrapPanel>
+                        <TextBlock x:Name="textBlock17" HorizontalAlignment="Left" Margin="3,57.54,0,0" TextWrapping="Wrap" Text="اسحب الاختيارات :" Width="120" FontSize="14" Height="40.96" VerticalAlignment="Top"/>
+                        <TextBlock x:Name="textBlock18" HorizontalAlignment="Left" Margin="18,0,0,63" TextWrapping="Wrap" Text="املأ الفراغات التالية :" VerticalAlignment="Bottom" Height="43" Width="74" FontSize="14"/>
+
+
+
+                    </Grid>
+                    <Grid Height="257" Background="#FFB7F1F1">
+                        <WrapPanel Margin="144,26,190,171">
+
+                            <TextBlock x:Name="textBlock5b"
+                                          n:DragSource.AllowDrag="True"
+        n:DragSource.Data="{Binding}"
+        n:DragSource.AllowedEffects="Copy"
+                                       TextWrapping="Wrap" Text="صيف شديد الحرارة و شتاء شديد البرودة" Height="25" Width="164" HorizontalAlignment="Center" VerticalAlignment="Center" Padding="2" Background="White" Margin="2" FlowDirection="RightToLeft"/>
+                            <TextBlock x:Name="textBlock6b" 
+                                          n:DragSource.AllowDrag="True"
+        n:DragSource.Data="{Binding}"
+        n:DragSource.AllowedEffects="Copy"
+                                       TextWrapping="Wrap" Text="صيف حار و جاف و شتاء بارد و ممطر" Height="25" Width="163" HorizontalAlignment="Center" VerticalAlignment="Center" Padding="2" Background="White" Margin="2" FlowDirection="RightToLeft"/>
+                            <TextBlock x:Name="textBlock7b" 
+                                          n:DragSource.AllowDrag="True"
+        n:DragSource.Data="{Binding}"
+        n:DragSource.AllowedEffects="Copy"
+                                       TextWrapping="Wrap" Height="25" Width="201" HorizontalAlignment="Center" VerticalAlignment="Center" Padding="2" Background="White" Margin="2" FlowDirection="RightToLeft" Text="صيف حار و جاف و شتاء دافئ و ممطر"/>
+
+                        </WrapPanel>
+                        <WrapPanel Height="91" Margin="115,0,17,40" VerticalAlignment="Bottom" FlowDirection="RightToLeft" Background="White">
+                            <TextBlock x:Name="textBlock8b" TextWrapping="Wrap" Text="مناخ البحر الأبيض المتوسط يتميز ب " Margin="2,0"/>
+                            <TextBlock x:Name="textBlock9b" TextWrapping="Wrap" Text="----------------------------" AllowDrop="True" Drop="textBlock9_Drop" Margin="2,0" Background="White"/>
+                            <TextBlock x:Name="textBlock10b" TextWrapping="Wrap" Text="و المناخ القاري يتميز ب  " Margin="2,0"/>
+                            <TextBlock x:Name="textBlock11b" TextWrapping="Wrap" Text="----------------------------" AllowDrop="True" Drop="textBlock9_Drop" Margin="2,0" Background="White"/>
+                            <TextBlock x:Name="textBlock12b" TextWrapping="Wrap" Margin="2,0" Text="أما المناخ الصحراوي فيتميز ب  "/>
+                            <TextBlock x:Name="textBlock13b" TextWrapping="Wrap" Text="----------------------------" AllowDrop="True" Drop="textBlock9_Drop" Margin="2,0" Background="White"/>
+
+                        </WrapPanel>
+                        <TextBlock x:Name="textBlock17b" HorizontalAlignment="Left" Margin="19,68,0,0" TextWrapping="Wrap" Text="اسحب الاختيارات :" Width="120" FontSize="14" Height="41" VerticalAlignment="Top" RenderTransformOrigin="0.525,0.293"/>
+                        <TextBlock x:Name="textBlock18b" HorizontalAlignment="Left" Margin="20,0,0,51" TextWrapping="Wrap" Text="املأ الفراغات التالية :" VerticalAlignment="Bottom" Height="52" Width="103" FontSize="14" RenderTransformOrigin="0.476,0.404"/>
+                    </Grid>
+                    <Grid Height="241" Background="#FF1FF0E6">
+
+                        <WrapPanel Margin="128,28,27,153">
+                            <TextBlock x:Name="textBlock4c" 
+                                          n:DragSource.AllowDrag="True"
+        n:DragSource.Data="{Binding}"
+        n:DragSource.AllowedEffects="Copy"
+                                       TextWrapping="Wrap" Text="الأوراس" Height="25" Width="70" HorizontalAlignment="Center" VerticalAlignment="Center" Padding="2" Background="White" Margin="2" FlowDirection="RightToLeft"/>
+                            <TextBlock x:Name="textBlock5c"
+                                          n:DragSource.AllowDrag="True"
+        n:DragSource.Data="{Binding}"
+        n:DragSource.AllowedEffects="Copy"
+                                       TextWrapping="Wrap" Text="السلسلة النوميدية" Height="25" Width="115" HorizontalAlignment="Center" VerticalAlignment="Center" Padding="2" Background="White" Margin="2" FlowDirection="RightToLeft"/>
+                            <TextBlock x:Name="textBlock6c" 
+                                          n:DragSource.AllowDrag="True"
+        n:DragSource.Data="{Binding}"
+        n:DragSource.AllowedEffects="Copy"
+                                       TextWrapping="Wrap" Text="الأطلس الصحراوي" Height="25" Width="104" HorizontalAlignment="Center" VerticalAlignment="Center" Padding="2" Background="White" Margin="2" FlowDirection="RightToLeft"/>
+                            <TextBlock x:Name="textBlock7c" 
+                                          n:DragSource.AllowDrag="True"
+        n:DragSource.Data="{Binding}"
+        n:DragSource.AllowedEffects="Copy"
+                                       TextWrapping="Wrap" Text="الأطلس التلي" Height="25" Width="82" HorizontalAlignment="Center" VerticalAlignment="Center" Padding="2" Background="White" Margin="2" FlowDirection="RightToLeft"/>
+
+                        </WrapPanel>
+                        <WrapPanel Height="91" Margin="113,0,14,26" VerticalAlignment="Bottom" FlowDirection="RightToLeft" Background="White">
+                            <TextBlock x:Name="textBlock8c" TextWrapping="Wrap" Text="تتكون سلسلة " Margin="2,0" RenderTransformOrigin="0.5,0.5"/>
+                            <TextBlock x:Name="textBlock9c" TextWrapping="Wrap" Text="--------------" AllowDrop="True" Drop="textBlock9_Drop" Margin="2,0" Background="White"/>
+                            <TextBlock x:Name="textBlock10c" TextWrapping="Wrap" Text=" من جبال التسلا،الونشريس ,  جبال الظهرة" Margin="2,0"/>
+                            <TextBlock x:Name="textBlock10c2" TextWrapping="Wrap" Text=" جبل جرجرة ،" Margin="2,0" Width="63"/>
+                            <TextBlock x:Name="textBlock11c" TextWrapping="Wrap" Text="--------------" AllowDrop="True" Drop="textBlock9_Drop" Margin="2,0" Background="White"/>
+                            <TextBlock x:Name="textBlock12c" TextWrapping="Wrap" Text=" ، البيان  وتتكون سلسلة " Margin="2,0"/>
+                            <TextBlock x:Name="textBlock13c" TextWrapping="Wrap" Text="--------------" AllowDrop="True" Drop="textBlock9_Drop" Margin="2,0" Background="White"/>
+                            <TextBlock x:Name="textBlock14c" TextWrapping="Wrap" Text="من جبال القصور ، أولاد نايل" Margin="2,0"/>
+                            <TextBlock x:Name="textBlock15c" TextWrapping="Wrap" Text="-------" AllowDrop="True" Drop="textBlock9_Drop" Margin="2,0" Background="White"/>
+                            <TextBlock x:Name="textBlock16c" TextWrapping="Wrap" Text=" النمامشة" Margin="2,0"/>
+                        </WrapPanel>
+                        <TextBlock x:Name="textBlock17c" HorizontalAlignment="Left" Margin="25,44,0,0" TextWrapping="Wrap" Text="اسحب الاختيارات :" Width="120" FontSize="14" Height="41" VerticalAlignment="Top"/>
+                        <TextBlock x:Name="textBlock18c" HorizontalAlignment="Left" Margin="25,0,0,45" TextWrapping="Wrap" Text="املأ الفراغات التالية :" VerticalAlignment="Bottom" Height="52" Width="87" FontSize="14"/>
+
+
+
+                    </Grid>
+                </StackPanel>
+            </ScrollViewer>
+            </Grid>
+        </StackPanel>
+        <TextBlock x:Name="textBlock22" HorizontalAlignment="Left" Margin="10,0,0,10" Foreground="Red" TextWrapping="Wrap" VerticalAlignment="Bottom"  FontSize="14" Visibility="Hidden"/>
+    </Grid>
+</UserControl>

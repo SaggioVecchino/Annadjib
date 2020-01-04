@@ -1,0 +1,17 @@
+﻿<UserControl x:Class="Projet.View.UsrCtrl.Admin.EleveInfoTitle"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Projet.View.UsrCtrl.Admin"
+             mc:Ignorable="d" 
+             d:DesignHeight="60" d:DesignWidth="1185">
+    <Grid Background="#FF3399FF">
+        <ContentControl x:Name="logoContent" Height="60" Width="225" HorizontalAlignment="Left"></ContentControl>
+        <StackPanel Orientation="Horizontal" FlowDirection="RightToLeft" HorizontalAlignment="Center" Margin="220,0,0,0" VerticalAlignment="Center">
+            <Image Source="/IMAGES/BUTTONS/student.png" Margin="0,0,30,0" Height="45"></Image>
+            <TextBlock x:Name="textBlock" Foreground="White" FontWeight="Normal" VerticalAlignment="Center" TextWrapping="Wrap" Text="معلومات حساب "  FontSize="24"/>
+            <TextBlock x:Name="textBlock1" Foreground="White" FontWeight="Normal"  VerticalAlignment="Center"  Margin="0,0,0,0" TextWrapping="Wrap" Text="{Binding NomComplet}"  FontSize="24"/>
+        </StackPanel>
+    </Grid>
+</UserControl>

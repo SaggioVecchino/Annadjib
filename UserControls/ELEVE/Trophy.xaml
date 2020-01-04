@@ -1,0 +1,51 @@
+﻿<UserControl x:Class="Projet.UserControls.ELEVE.Trophy"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Projet.UserControls.ELEVE"
+             mc:Ignorable="d" 
+             d:DesignHeight="50" d:DesignWidth="205">
+    <UserControl.Resources>
+        <Storyboard x:Key="OnLoaded1">
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="grid">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.5" Value="1"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:4" Value="1"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:4.4" Value="0"/>
+            </DoubleAnimationUsingKeyFrames>
+        </Storyboard>
+        <Storyboard x:Key="OnLoaded2" RepeatBehavior="Forever">
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[2].(RotateTransform.Angle)" Storyboard.TargetName="trophyName">
+                <EasingDoubleKeyFrame KeyTime="0" Value="-2"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.5" Value="2"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="-2"/>
+            </DoubleAnimationUsingKeyFrames>
+        </Storyboard>
+    </UserControl.Resources>
+    <UserControl.Triggers>
+        <EventTrigger RoutedEvent="FrameworkElement.Loaded" SourceName="grid">
+            <BeginStoryboard Storyboard="{StaticResource OnLoaded1}" />
+        </EventTrigger>
+        <EventTrigger RoutedEvent="FrameworkElement.Loaded" SourceName="trophyName">
+            <BeginStoryboard x:Name="OnLoaded2_BeginStoryboard" Storyboard="{StaticResource OnLoaded2}"/>
+        </EventTrigger>
+    </UserControl.Triggers>
+    <Grid x:Name="grid" Height="50" Width="205">
+        <Rectangle Fill="#9C27B0" Width="155" Height="50" HorizontalAlignment="Center"/>
+        <Ellipse Fill="#9C27B0" HorizontalAlignment="Right" Width="50" Height="50" />
+        <Ellipse Fill="#E040FB" HorizontalAlignment="Left" Width="50" Height="50"/>
+        <TextBlock x:Name="trophyName" Text="{Binding}"  HorizontalAlignment="Right" VerticalAlignment="Center"  FontWeight="Normal" FontSize="16"  Margin="0,0,30,0" Foreground="White" RenderTransformOrigin="0.5,0.5">
+            <TextBlock.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </TextBlock.RenderTransform>
+        </TextBlock>
+        <TextBlock HorizontalAlignment="Right" VerticalAlignment="Bottom"  FontWeight="Light" Opacity="0.5" FontSize="12"  Margin="0,0,30,0" Foreground="White">مبروك جائزة جديدة</TextBlock>
+        <Image x:Name="trophyImage" Height="50" Width="50" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="2.5,0,0,0" Source="{Binding}"></Image>
+    </Grid>
+</UserControl>

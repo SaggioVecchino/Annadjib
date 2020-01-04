@@ -1,0 +1,1740 @@
+C:\Users\ACER\Desktop\V_29\Projet\Projet\bin\Debug\Projet.exe.config
+C:\Users\ACER\Desktop\V_29\Projet\Projet\obj\Debug\Projet.csprojResolveAssemblyReference.cache
+C:\Users\ACER\Desktop\Projet\Projet\bin\Debug\Projet.exe.config
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\Projet.csprojResolveAssemblyReference.cache
+C:\Users\ACER\Desktop\Projet\Projet\bin\Debug\Projet.exe
+C:\Users\ACER\Desktop\Projet\Projet\bin\Debug\Projet.pdb
+C:\Users\ACER\Desktop\Projet\Projet\bin\Debug\MahApps.Metro.dll
+C:\Users\ACER\Desktop\Projet\Projet\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\ACER\Desktop\Projet\Projet\bin\Debug\Nicenis.dll
+C:\Users\ACER\Desktop\Projet\Projet\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\ACER\Desktop\Projet\Projet\bin\Debug\MahApps.Metro.pdb
+C:\Users\ACER\Desktop\Projet\Projet\bin\Debug\MahApps.Metro.xml
+C:\Users\ACER\Desktop\Projet\Projet\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\ACER\Desktop\Projet\Projet\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\ACER\Desktop\Projet\Projet\bin\Debug\Nicenis.pdb
+C:\Users\ACER\Desktop\Projet\Projet\bin\Debug\Nicenis.xml
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\Resources\Icons.baml
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\UserControls\ELEVE\EleveUserControl.g.cs
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\LoginWindow.g.cs
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\EleveWindow.g.cs
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\UserControls\ELEVE\Examens.g.cs
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\UserControls\ELEVE\HelpLateral.g.cs
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\UserControls\GENERAL\APropos.g.cs
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\UserControls\ELEVE\BarMenu.g.cs
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\UserControls\ELEVE\CenterContent.g.cs
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\UserControls\ELEVE\Chap2MenuMaps.g.cs
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\UserControls\ELEVE\ContentCenter.g.cs
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\UserControls\ELEVE\Courses.g.cs
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\UserControls\ELEVE\Exercices.g.cs
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\UserControls\ELEVE\LateralMenuEleve.g.cs
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\UserControls\GENERAL\LogoUC.g.cs
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\UserControls\ELEVE\MapsMenu.g.cs
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\UserControls\ELEVE\TopBar.g.cs
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\UserControls\LOGIN\AdminSign.g.cs
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\ChangingPassAdmin.g.cs
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\ConfirmationSupprimAll.g.cs
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\ConfirmationSupprimEleve.g.cs
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\Contenu.g.cs
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\EleveInfo.g.cs
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\EleveInfoTitle.g.cs
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\help.g.cs
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\MenuLaterale.g.cs
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\parametresAdmin.g.cs
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\TitleAccueil.g.cs
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\TitleParametres.g.cs
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\View\UsrCtrl\Cours\Cours.g.cs
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\View\UsrCtrl\Cours\CoursImage.g.cs
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\View\UsrCtrl\Cours\CoursTexte.g.cs
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\View\UsrCtrl\eleveCtrls\ChangerPwd.g.cs
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\View\UsrCtrl\eleveCtrls\confirmSauvParam.g.cs
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\View\UsrCtrl\eleveCtrls\modifierInfo.g.cs
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\View\UsrCtrl\Exam\Exam1.g.cs
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\View\UsrCtrl\Exam\Exam2.g.cs
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\View\UsrCtrl\Exam\NoteExam.g.cs
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Animaux.g.cs
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Mounakh.g.cs
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\NoteCouleur.g.cs
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Pluie.g.cs
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Tadaris.g.cs
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Temperatures.g.cs
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\BonneReponseVide.g.cs
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\DraggableTextBlock.g.cs
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\Exercice.g.cs
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\ExerciceReponse.g.cs
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\ExerciceTemps.g.cs
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\Note.g.cs
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\QuestionDragAndDrop.g.cs
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\QuestionQCM.g.cs
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\QuestionTrueOrFalse.g.cs
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\UserControls\LOGIN\LoginChooseType.g.cs
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\UserControls\LOGIN\formulaire.g.cs
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\UserControls\LOGIN\LogSignUser.g.cs
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\AdminWindow.g.cs
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\App.g.cs
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\Projet_MarkupCompile.cache
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\Projet_MarkupCompile.lref
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\App.baml
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\UserControls\ELEVE\EleveUserControl.baml
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\LoginWindow.baml
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\EleveWindow.baml
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\UserControls\ELEVE\Examens.baml
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\UserControls\ELEVE\HelpLateral.baml
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\UserControls\GENERAL\APropos.baml
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\UserControls\ELEVE\BarMenu.baml
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\UserControls\ELEVE\CenterContent.baml
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\UserControls\ELEVE\Chap2MenuMaps.baml
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\UserControls\ELEVE\ContentCenter.baml
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\UserControls\ELEVE\Courses.baml
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\UserControls\ELEVE\Exercices.baml
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\UserControls\ELEVE\LateralMenuEleve.baml
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\UserControls\GENERAL\LogoUC.baml
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\UserControls\ELEVE\MapsMenu.baml
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\UserControls\ELEVE\TopBar.baml
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\UserControls\LOGIN\AdminSign.baml
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\ChangingPassAdmin.baml
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\ConfirmationSupprimAll.baml
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\ConfirmationSupprimEleve.baml
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\Contenu.baml
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\EleveInfo.baml
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\EleveInfoTitle.baml
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\help.baml
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\MenuLaterale.baml
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\parametresAdmin.baml
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\TitleAccueil.baml
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\TitleParametres.baml
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\View\UsrCtrl\Cours\Cours.baml
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\View\UsrCtrl\Cours\CoursImage.baml
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\View\UsrCtrl\Cours\CoursTexte.baml
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\View\UsrCtrl\eleveCtrls\ChangerPwd.baml
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\View\UsrCtrl\eleveCtrls\confirmSauvParam.baml
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\View\UsrCtrl\eleveCtrls\modifierInfo.baml
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\View\UsrCtrl\Exam\Exam1.baml
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\View\UsrCtrl\Exam\Exam2.baml
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\View\UsrCtrl\Exam\NoteExam.baml
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Animaux.baml
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Mounakh.baml
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\NoteCouleur.baml
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Pluie.baml
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Tadaris.baml
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Temperatures.baml
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\BonneReponseVide.baml
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\DraggableTextBlock.baml
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\Exercice.baml
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\ExerciceReponse.baml
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\ExerciceTemps.baml
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\Note.baml
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\QuestionDragAndDrop.baml
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\QuestionQCM.baml
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\QuestionTrueOrFalse.baml
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\UserControls\LOGIN\LoginChooseType.baml
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\UserControls\LOGIN\formulaire.baml
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\UserControls\LOGIN\LogSignUser.baml
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\AdminWindow.baml
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\Projet.g.resources
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\Projet.Properties.Resources.resources
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\Projet.csproj.GenerateResource.Cache
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\Projet.exe
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\Projet.pdb
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\UserControls\ELEVE\EtatAncienneSession.g.cs
+C:\Users\ACER\Desktop\Projet\Projet\obj\Debug\UserControls\ELEVE\EtatAncienneSession.baml
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\bin\Debug\Projet.exe.config
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\Projet.exe
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\Projet.pdb
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\bin\Debug\Projet.exe
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\bin\Debug\Projet.pdb
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\bin\Debug\MahApps.Metro.dll
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\bin\Debug\Nicenis.dll
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\bin\Debug\MahApps.Metro.pdb
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\bin\Debug\MahApps.Metro.xml
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\bin\Debug\Nicenis.pdb
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\bin\Debug\Nicenis.xml
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\Projet.csprojResolveAssemblyReference.cache
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\Resources\Icons.baml
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\UserControls\ELEVE\EleveUserControl.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\LoginWindow.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\EleveWindow.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\UserControls\ELEVE\EtatAncienneSession.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\UserControls\ELEVE\Examens.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\UserControls\ELEVE\HelpLateral.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\UserControls\GENERAL\APropos.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\UserControls\ELEVE\BarMenu.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\UserControls\ELEVE\CenterContent.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\UserControls\ELEVE\Chap2MenuMaps.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\UserControls\ELEVE\ContentCenter.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\UserControls\ELEVE\Courses.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\UserControls\ELEVE\Exercices.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\UserControls\ELEVE\LateralMenuEleve.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\UserControls\GENERAL\LogoUC.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\UserControls\ELEVE\MapsMenu.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\UserControls\ELEVE\TopBar.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\UserControls\LOGIN\AdminSign.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\ChangingPassAdmin.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\ConfirmationSupprimAll.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\ConfirmationSupprimEleve.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\Contenu.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\EleveInfo.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\EleveInfoTitle.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\help.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\MenuLaterale.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\parametresAdmin.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\TitleAccueil.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\TitleParametres.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\View\UsrCtrl\Cours\Cours.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\View\UsrCtrl\Cours\CoursImage.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\View\UsrCtrl\Cours\CoursTexte.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\View\UsrCtrl\eleveCtrls\ChangerPwd.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\View\UsrCtrl\eleveCtrls\confirmSauvParam.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\View\UsrCtrl\eleveCtrls\modifierInfo.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\View\UsrCtrl\Exam\Exam1.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\View\UsrCtrl\Exam\Exam2.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\View\UsrCtrl\Exam\NoteExam.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Animaux.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Mounakh.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\NoteCouleur.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Pluie.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Tadaris.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Temperatures.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\BonneReponseVide.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\DraggableTextBlock.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\Exercice.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\ExerciceReponse.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\ExerciceTemps.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\Note.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\QuestionDragAndDrop.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\QuestionQCM.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\QuestionTrueOrFalse.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\UserControls\LOGIN\LoginChooseType.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\UserControls\LOGIN\formulaire.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\UserControls\LOGIN\LogSignUser.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\AdminWindow.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\App.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\Projet_MarkupCompile.cache
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\Projet_MarkupCompile.lref
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\App.baml
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\UserControls\ELEVE\EleveUserControl.baml
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\LoginWindow.baml
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\EleveWindow.baml
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\UserControls\ELEVE\EtatAncienneSession.baml
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\UserControls\ELEVE\Examens.baml
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\UserControls\ELEVE\HelpLateral.baml
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\UserControls\GENERAL\APropos.baml
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\UserControls\ELEVE\BarMenu.baml
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\UserControls\ELEVE\CenterContent.baml
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\UserControls\ELEVE\Chap2MenuMaps.baml
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\UserControls\ELEVE\ContentCenter.baml
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\UserControls\ELEVE\Courses.baml
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\UserControls\ELEVE\Exercices.baml
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\UserControls\ELEVE\LateralMenuEleve.baml
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\UserControls\GENERAL\LogoUC.baml
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\UserControls\ELEVE\MapsMenu.baml
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\UserControls\ELEVE\TopBar.baml
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\UserControls\LOGIN\AdminSign.baml
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\ChangingPassAdmin.baml
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\ConfirmationSupprimAll.baml
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\ConfirmationSupprimEleve.baml
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\Contenu.baml
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\EleveInfo.baml
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\EleveInfoTitle.baml
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\help.baml
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\MenuLaterale.baml
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\parametresAdmin.baml
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\TitleAccueil.baml
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\TitleParametres.baml
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\View\UsrCtrl\Cours\Cours.baml
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\View\UsrCtrl\Cours\CoursImage.baml
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\View\UsrCtrl\Cours\CoursTexte.baml
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\View\UsrCtrl\eleveCtrls\ChangerPwd.baml
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\View\UsrCtrl\eleveCtrls\confirmSauvParam.baml
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\View\UsrCtrl\eleveCtrls\modifierInfo.baml
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\View\UsrCtrl\Exam\Exam1.baml
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\View\UsrCtrl\Exam\Exam2.baml
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\View\UsrCtrl\Exam\NoteExam.baml
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Animaux.baml
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Mounakh.baml
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\NoteCouleur.baml
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Pluie.baml
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Tadaris.baml
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Temperatures.baml
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\BonneReponseVide.baml
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\DraggableTextBlock.baml
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\Exercice.baml
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\ExerciceReponse.baml
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\ExerciceTemps.baml
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\Note.baml
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\QuestionDragAndDrop.baml
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\QuestionQCM.baml
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\QuestionTrueOrFalse.baml
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\UserControls\LOGIN\LoginChooseType.baml
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\UserControls\LOGIN\formulaire.baml
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\UserControls\LOGIN\LogSignUser.baml
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\AdminWindow.baml
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\Projet.g.resources
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\Projet.Properties.Resources.resources
+C:\Users\Yacine\Desktop\ProjetS2\15_4\Projet\Projet\obj\Debug\Projet.csproj.GenerateResource.Cache
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\bin\Debug\Projet.exe.config
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\bin\Debug\Projet.exe
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\bin\Debug\Projet.pdb
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\bin\Debug\MahApps.Metro.dll
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\bin\Debug\Nicenis.dll
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\bin\Debug\MahApps.Metro.pdb
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\bin\Debug\MahApps.Metro.xml
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\bin\Debug\Nicenis.pdb
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\bin\Debug\Nicenis.xml
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\Projet.csprojResolveAssemblyReference.cache
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\Resources\Icons.baml
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\EleveUserControl.g.cs
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\LoginWindow.g.cs
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\EleveWindow.g.cs
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\EtatAncienneSession.g.cs
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\Examens.g.cs
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\HelpLateral.g.cs
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\UserControls\GENERAL\APropos.g.cs
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\BarMenu.g.cs
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\CenterContent.g.cs
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\Chap2MenuMaps.g.cs
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\ContentCenter.g.cs
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\Courses.g.cs
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\Exercices.g.cs
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\LateralMenuEleve.g.cs
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\UserControls\GENERAL\LogoUC.g.cs
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\MapsMenu.g.cs
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\TopBar.g.cs
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\UserControls\LOGIN\AdminSign.g.cs
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\ChangingPassAdmin.g.cs
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\ConfirmationSupprimAll.g.cs
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\ConfirmationSupprimEleve.g.cs
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\Contenu.g.cs
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\EleveInfo.g.cs
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\EleveInfoTitle.g.cs
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\help.g.cs
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\MenuLaterale.g.cs
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\parametresAdmin.g.cs
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\TitleAccueil.g.cs
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\TitleParametres.g.cs
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Cours\Cours.g.cs
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Cours\CoursImage.g.cs
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Cours\CoursTexte.g.cs
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\eleveCtrls\ChangerPwd.g.cs
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\eleveCtrls\confirmSauvParam.g.cs
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\eleveCtrls\modifierInfo.g.cs
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Exam\Exam1.g.cs
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Exam\Exam2.g.cs
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Exam\NoteExam.g.cs
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Animaux.g.cs
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Mounakh.g.cs
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\NoteCouleur.g.cs
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Pluie.g.cs
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Tadaris.g.cs
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Temperatures.g.cs
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\BonneReponseVide.g.cs
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\DraggableTextBlock.g.cs
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\Exercice.g.cs
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\ExerciceReponse.g.cs
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\ExerciceTemps.g.cs
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\Note.g.cs
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\QuestionDragAndDrop.g.cs
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\QuestionQCM.g.cs
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\QuestionTrueOrFalse.g.cs
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\UserControls\LOGIN\LoginChooseType.g.cs
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\UserControls\LOGIN\formulaire.g.cs
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\UserControls\LOGIN\LogSignUser.g.cs
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\AdminWindow.g.cs
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\App.g.cs
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\Projet_MarkupCompile.cache
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\Projet_MarkupCompile.lref
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\App.baml
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\EleveUserControl.baml
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\LoginWindow.baml
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\EleveWindow.baml
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\EtatAncienneSession.baml
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\Examens.baml
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\HelpLateral.baml
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\UserControls\GENERAL\APropos.baml
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\BarMenu.baml
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\CenterContent.baml
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\Chap2MenuMaps.baml
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\ContentCenter.baml
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\Courses.baml
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\Exercices.baml
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\LateralMenuEleve.baml
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\UserControls\GENERAL\LogoUC.baml
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\MapsMenu.baml
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\TopBar.baml
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\UserControls\LOGIN\AdminSign.baml
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\ChangingPassAdmin.baml
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\ConfirmationSupprimAll.baml
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\ConfirmationSupprimEleve.baml
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\Contenu.baml
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\EleveInfo.baml
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\EleveInfoTitle.baml
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\help.baml
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\MenuLaterale.baml
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\parametresAdmin.baml
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\TitleAccueil.baml
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\TitleParametres.baml
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Cours\Cours.baml
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Cours\CoursImage.baml
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Cours\CoursTexte.baml
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\eleveCtrls\ChangerPwd.baml
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\eleveCtrls\confirmSauvParam.baml
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\eleveCtrls\modifierInfo.baml
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Exam\Exam1.baml
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Exam\Exam2.baml
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Exam\NoteExam.baml
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Animaux.baml
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Mounakh.baml
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\NoteCouleur.baml
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Pluie.baml
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Tadaris.baml
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Temperatures.baml
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\BonneReponseVide.baml
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\DraggableTextBlock.baml
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\Exercice.baml
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\ExerciceReponse.baml
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\ExerciceTemps.baml
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\Note.baml
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\QuestionDragAndDrop.baml
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\QuestionQCM.baml
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\QuestionTrueOrFalse.baml
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\UserControls\LOGIN\LoginChooseType.baml
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\UserControls\LOGIN\formulaire.baml
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\UserControls\LOGIN\LogSignUser.baml
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\AdminWindow.baml
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\Projet.g.resources
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\Projet.Properties.Resources.resources
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\Projet.csproj.GenerateResource.Cache
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\Projet.exe
+C:\Users\Ryad\Desktop\projetV1504\Projet\Projet\obj\Debug\Projet.pdb
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\bin\Debug\Projet.exe.config
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\Projet.exe
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\Projet.pdb
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\bin\Debug\Projet.exe
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\bin\Debug\Projet.pdb
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\bin\Debug\MahApps.Metro.dll
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\bin\Debug\Nicenis.dll
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\bin\Debug\MahApps.Metro.pdb
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\bin\Debug\MahApps.Metro.xml
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\bin\Debug\Nicenis.pdb
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\bin\Debug\Nicenis.xml
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\Projet.csprojResolveAssemblyReference.cache
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\Resources\Icons.baml
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\EleveUserControl.g.cs
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\LoginWindow.g.cs
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\EleveWindow.g.cs
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\EtatAncienneSession.g.cs
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\Examens.g.cs
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\HelpLateral.g.cs
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\UserControls\GENERAL\APropos.g.cs
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\BarMenu.g.cs
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\CenterContent.g.cs
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\Chap2MenuMaps.g.cs
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\ContentCenter.g.cs
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\Courses.g.cs
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\Exercices.g.cs
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\LateralMenuEleve.g.cs
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\UserControls\GENERAL\LogoUC.g.cs
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\MapsMenu.g.cs
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\TopBar.g.cs
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\UserControls\LOGIN\AdminSign.g.cs
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\ChangingPassAdmin.g.cs
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\ConfirmationSupprimAll.g.cs
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\ConfirmationSupprimEleve.g.cs
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\Contenu.g.cs
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\EleveInfo.g.cs
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\EleveInfoTitle.g.cs
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\help.g.cs
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\MenuLaterale.g.cs
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\parametresAdmin.g.cs
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\TitleAccueil.g.cs
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\TitleParametres.g.cs
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Cours\Cours.g.cs
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Cours\CoursImage.g.cs
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Cours\CoursTexte.g.cs
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\eleveCtrls\ChangerPwd.g.cs
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\eleveCtrls\confirmSauvParam.g.cs
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\eleveCtrls\modifierInfo.g.cs
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Exam\Exam1.g.cs
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Exam\Exam2.g.cs
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Exam\NoteExam.g.cs
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Animaux.g.cs
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Mounakh.g.cs
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\NoteCouleur.g.cs
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Pluie.g.cs
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Tadaris.g.cs
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Temperatures.g.cs
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\BonneReponseVide.g.cs
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\DraggableTextBlock.g.cs
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\Exercice.g.cs
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\ExerciceReponse.g.cs
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\ExerciceTemps.g.cs
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\Note.g.cs
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\QuestionDragAndDrop.g.cs
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\QuestionQCM.g.cs
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\QuestionTrueOrFalse.g.cs
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\UserControls\LOGIN\LoginChooseType.g.cs
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\UserControls\LOGIN\formulaire.g.cs
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\UserControls\LOGIN\LogSignUser.g.cs
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\AdminWindow.g.cs
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\App.g.cs
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\Projet_MarkupCompile.cache
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\Projet_MarkupCompile.lref
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\App.baml
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\EleveUserControl.baml
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\LoginWindow.baml
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\EleveWindow.baml
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\EtatAncienneSession.baml
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\Examens.baml
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\HelpLateral.baml
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\UserControls\GENERAL\APropos.baml
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\BarMenu.baml
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\CenterContent.baml
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\Chap2MenuMaps.baml
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\ContentCenter.baml
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\Courses.baml
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\Exercices.baml
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\LateralMenuEleve.baml
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\UserControls\GENERAL\LogoUC.baml
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\MapsMenu.baml
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\TopBar.baml
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\UserControls\LOGIN\AdminSign.baml
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\ChangingPassAdmin.baml
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\ConfirmationSupprimAll.baml
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\ConfirmationSupprimEleve.baml
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\Contenu.baml
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\EleveInfo.baml
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\EleveInfoTitle.baml
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\help.baml
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\MenuLaterale.baml
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\parametresAdmin.baml
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\TitleAccueil.baml
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\TitleParametres.baml
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Cours\Cours.baml
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Cours\CoursImage.baml
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Cours\CoursTexte.baml
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\eleveCtrls\ChangerPwd.baml
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\eleveCtrls\confirmSauvParam.baml
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\eleveCtrls\modifierInfo.baml
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Exam\Exam1.baml
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Exam\Exam2.baml
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Exam\NoteExam.baml
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Animaux.baml
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Mounakh.baml
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\NoteCouleur.baml
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Pluie.baml
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Tadaris.baml
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Temperatures.baml
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\BonneReponseVide.baml
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\DraggableTextBlock.baml
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\Exercice.baml
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\ExerciceReponse.baml
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\ExerciceTemps.baml
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\Note.baml
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\QuestionDragAndDrop.baml
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\QuestionQCM.baml
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\QuestionTrueOrFalse.baml
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\UserControls\LOGIN\LoginChooseType.baml
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\UserControls\LOGIN\formulaire.baml
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\UserControls\LOGIN\LogSignUser.baml
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\AdminWindow.baml
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\Projet.g.resources
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\Projet.Properties.Resources.resources
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\Projet.csproj.GenerateResource.Cache
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Stats\stats.g.cs
+C:\Users\ACER\Desktop\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Stats\stats.baml
+E:\projetV1504\Projet\Projet\bin\Debug\Projet.exe.config
+E:\projetV1504\Projet\Projet\bin\Debug\Projet.exe
+E:\projetV1504\Projet\Projet\bin\Debug\Projet.pdb
+E:\projetV1504\Projet\Projet\bin\Debug\MahApps.Metro.dll
+E:\projetV1504\Projet\Projet\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\projetV1504\Projet\Projet\bin\Debug\Nicenis.dll
+E:\projetV1504\Projet\Projet\bin\Debug\System.Windows.Interactivity.dll
+E:\projetV1504\Projet\Projet\bin\Debug\MahApps.Metro.pdb
+E:\projetV1504\Projet\Projet\bin\Debug\MahApps.Metro.xml
+E:\projetV1504\Projet\Projet\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\projetV1504\Projet\Projet\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\projetV1504\Projet\Projet\bin\Debug\Nicenis.pdb
+E:\projetV1504\Projet\Projet\bin\Debug\Nicenis.xml
+E:\projetV1504\Projet\Projet\obj\Debug\Projet.csprojResolveAssemblyReference.cache
+E:\projetV1504\Projet\Projet\obj\Debug\Resources\Icons.baml
+E:\projetV1504\Projet\Projet\obj\Debug\Resources\IconsNonShared.baml
+E:\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\EleveUserControl.g.cs
+E:\projetV1504\Projet\Projet\obj\Debug\LoginWindow.g.cs
+E:\projetV1504\Projet\Projet\obj\Debug\EleveWindow.g.cs
+E:\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\EtatAncienneSession.g.cs
+E:\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\Examens.g.cs
+E:\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\HelpLateral.g.cs
+E:\projetV1504\Projet\Projet\obj\Debug\UserControls\GENERAL\APropos.g.cs
+E:\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\BarMenu.g.cs
+E:\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\CenterContent.g.cs
+E:\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\Chap2MenuMaps.g.cs
+E:\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\ContentCenter.g.cs
+E:\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\Courses.g.cs
+E:\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\Exercices.g.cs
+E:\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\LateralMenuEleve.g.cs
+E:\projetV1504\Projet\Projet\obj\Debug\UserControls\GENERAL\LogoUC.g.cs
+E:\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\MapsMenu.g.cs
+E:\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\TopBar.g.cs
+E:\projetV1504\Projet\Projet\obj\Debug\UserControls\LOGIN\AdminSign.g.cs
+E:\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\ChangingPassAdmin.g.cs
+E:\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\ConfirmationSupprimAll.g.cs
+E:\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\ConfirmationSupprimEleve.g.cs
+E:\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\Contenu.g.cs
+E:\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\EleveInfo.g.cs
+E:\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\EleveInfoTitle.g.cs
+E:\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\help.g.cs
+E:\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\MenuLaterale.g.cs
+E:\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\parametresAdmin.g.cs
+E:\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\TitleAccueil.g.cs
+E:\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\TitleParametres.g.cs
+E:\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Cours\Cours.g.cs
+E:\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Cours\CoursImage.g.cs
+E:\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Cours\CoursTexte.g.cs
+E:\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\eleveCtrls\ChangerPwd.g.cs
+E:\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\eleveCtrls\confirmSauvParam.g.cs
+E:\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\eleveCtrls\modifierInfo.g.cs
+E:\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Exam\Exam1.g.cs
+E:\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Exam\Exam2.g.cs
+E:\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Exam\NoteExam.g.cs
+E:\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Animaux.g.cs
+E:\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Mounakh.g.cs
+E:\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\NoteCouleur.g.cs
+E:\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Pluie.g.cs
+E:\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Tadaris.g.cs
+E:\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Temperatures.g.cs
+E:\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\BonneReponseVide.g.cs
+E:\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\DraggableTextBlock.g.cs
+E:\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\Exercice.g.cs
+E:\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\ExerciceReponse.g.cs
+E:\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\ExerciceTemps.g.cs
+E:\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\Note.g.cs
+E:\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\QuestionDragAndDrop.g.cs
+E:\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\QuestionQCM.g.cs
+E:\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\QuestionTrueOrFalse.g.cs
+E:\projetV1504\Projet\Projet\obj\Debug\UserControls\LOGIN\LoginChooseType.g.cs
+E:\projetV1504\Projet\Projet\obj\Debug\UserControls\LOGIN\formulaire.g.cs
+E:\projetV1504\Projet\Projet\obj\Debug\UserControls\LOGIN\LogSignUser.g.cs
+E:\projetV1504\Projet\Projet\obj\Debug\AdminWindow.g.cs
+E:\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Stats\stats.g.cs
+E:\projetV1504\Projet\Projet\obj\Debug\App.g.cs
+E:\projetV1504\Projet\Projet\obj\Debug\Projet_MarkupCompile.cache
+E:\projetV1504\Projet\Projet\obj\Debug\Projet_MarkupCompile.lref
+E:\projetV1504\Projet\Projet\obj\Debug\App.baml
+E:\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\EleveUserControl.baml
+E:\projetV1504\Projet\Projet\obj\Debug\LoginWindow.baml
+E:\projetV1504\Projet\Projet\obj\Debug\EleveWindow.baml
+E:\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\EtatAncienneSession.baml
+E:\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\Examens.baml
+E:\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\HelpLateral.baml
+E:\projetV1504\Projet\Projet\obj\Debug\UserControls\GENERAL\APropos.baml
+E:\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\BarMenu.baml
+E:\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\CenterContent.baml
+E:\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\Chap2MenuMaps.baml
+E:\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\ContentCenter.baml
+E:\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\Courses.baml
+E:\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\Exercices.baml
+E:\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\LateralMenuEleve.baml
+E:\projetV1504\Projet\Projet\obj\Debug\UserControls\GENERAL\LogoUC.baml
+E:\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\MapsMenu.baml
+E:\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\TopBar.baml
+E:\projetV1504\Projet\Projet\obj\Debug\UserControls\LOGIN\AdminSign.baml
+E:\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\ChangingPassAdmin.baml
+E:\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\ConfirmationSupprimAll.baml
+E:\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\ConfirmationSupprimEleve.baml
+E:\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\Contenu.baml
+E:\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\EleveInfo.baml
+E:\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\EleveInfoTitle.baml
+E:\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\help.baml
+E:\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\MenuLaterale.baml
+E:\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\parametresAdmin.baml
+E:\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\TitleAccueil.baml
+E:\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\TitleParametres.baml
+E:\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Cours\Cours.baml
+E:\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Cours\CoursImage.baml
+E:\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Cours\CoursTexte.baml
+E:\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\eleveCtrls\ChangerPwd.baml
+E:\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\eleveCtrls\confirmSauvParam.baml
+E:\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\eleveCtrls\modifierInfo.baml
+E:\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Exam\Exam1.baml
+E:\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Exam\Exam2.baml
+E:\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Exam\NoteExam.baml
+E:\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Animaux.baml
+E:\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Mounakh.baml
+E:\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\NoteCouleur.baml
+E:\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Pluie.baml
+E:\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Tadaris.baml
+E:\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Temperatures.baml
+E:\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\BonneReponseVide.baml
+E:\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\DraggableTextBlock.baml
+E:\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\Exercice.baml
+E:\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\ExerciceReponse.baml
+E:\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\ExerciceTemps.baml
+E:\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\Note.baml
+E:\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\QuestionDragAndDrop.baml
+E:\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\QuestionQCM.baml
+E:\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\QuestionTrueOrFalse.baml
+E:\projetV1504\Projet\Projet\obj\Debug\UserControls\LOGIN\LoginChooseType.baml
+E:\projetV1504\Projet\Projet\obj\Debug\UserControls\LOGIN\formulaire.baml
+E:\projetV1504\Projet\Projet\obj\Debug\UserControls\LOGIN\LogSignUser.baml
+E:\projetV1504\Projet\Projet\obj\Debug\AdminWindow.baml
+E:\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Stats\stats.baml
+E:\projetV1504\Projet\Projet\obj\Debug\Projet.g.resources
+E:\projetV1504\Projet\Projet\obj\Debug\Projet.Properties.Resources.resources
+E:\projetV1504\Projet\Projet\obj\Debug\Projet.csproj.GenerateResource.Cache
+E:\projetV1504\Projet\Projet\obj\Debug\Projet.exe
+E:\projetV1504\Projet\Projet\obj\Debug\Projet.pdb
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\bin\Debug\Projet.exe.config
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\Projet.exe
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\Projet.pdb
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\bin\Debug\Projet.exe
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\bin\Debug\Projet.pdb
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\bin\Debug\MahApps.Metro.dll
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\bin\Debug\Nicenis.dll
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\bin\Debug\MahApps.Metro.pdb
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\bin\Debug\MahApps.Metro.xml
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\bin\Debug\Nicenis.pdb
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\bin\Debug\Nicenis.xml
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\Projet.csprojResolveAssemblyReference.cache
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\Resources\Icons.baml
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\EleveUserControl.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\LoginWindow.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\EleveWindow.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\EtatAncienneSession.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\Examens.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\HelpLateral.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\UserControls\GENERAL\APropos.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\BarMenu.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\CenterContent.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\Chap2MenuMaps.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\ContentCenter.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\Courses.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\Exercices.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\LateralMenuEleve.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\UserControls\GENERAL\LogoUC.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\MapsMenu.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\TopBar.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\UserControls\LOGIN\AdminSign.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\ChangingPassAdmin.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\ConfirmationSupprimAll.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\ConfirmationSupprimEleve.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\Contenu.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\EleveInfo.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\EleveInfoTitle.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\help.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\MenuLaterale.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\parametresAdmin.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\TitleAccueil.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\TitleParametres.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Cours\Cours.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Cours\CoursImage.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Cours\CoursTexte.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\eleveCtrls\ChangerPwd.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\eleveCtrls\confirmSauvParam.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\eleveCtrls\modifierInfo.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Exam\Exam1.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Exam\Exam2.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Exam\NoteExam.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Animaux.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Mounakh.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\NoteCouleur.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Pluie.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Tadaris.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Temperatures.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\BonneReponseVide.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\DraggableTextBlock.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\Exercice.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\ExerciceReponse.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\ExerciceTemps.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\Note.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\QuestionDragAndDrop.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\QuestionQCM.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\QuestionTrueOrFalse.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\UserControls\LOGIN\LoginChooseType.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\UserControls\LOGIN\formulaire.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\UserControls\LOGIN\LogSignUser.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\AdminWindow.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Stats\stats.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\App.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\Projet_MarkupCompile.cache
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\Projet_MarkupCompile.lref
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\App.baml
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\EleveUserControl.baml
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\LoginWindow.baml
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\EleveWindow.baml
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\EtatAncienneSession.baml
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\Examens.baml
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\HelpLateral.baml
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\UserControls\GENERAL\APropos.baml
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\BarMenu.baml
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\CenterContent.baml
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\Chap2MenuMaps.baml
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\ContentCenter.baml
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\Courses.baml
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\Exercices.baml
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\LateralMenuEleve.baml
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\UserControls\GENERAL\LogoUC.baml
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\MapsMenu.baml
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\UserControls\ELEVE\TopBar.baml
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\UserControls\LOGIN\AdminSign.baml
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\ChangingPassAdmin.baml
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\ConfirmationSupprimAll.baml
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\ConfirmationSupprimEleve.baml
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\Contenu.baml
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\EleveInfo.baml
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\EleveInfoTitle.baml
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\help.baml
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\MenuLaterale.baml
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\parametresAdmin.baml
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\TitleAccueil.baml
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\TitleParametres.baml
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Cours\Cours.baml
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Cours\CoursImage.baml
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Cours\CoursTexte.baml
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\eleveCtrls\ChangerPwd.baml
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\eleveCtrls\confirmSauvParam.baml
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\eleveCtrls\modifierInfo.baml
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Exam\Exam1.baml
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Exam\Exam2.baml
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Exam\NoteExam.baml
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Animaux.baml
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Mounakh.baml
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\NoteCouleur.baml
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Pluie.baml
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Tadaris.baml
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Temperatures.baml
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\BonneReponseVide.baml
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\DraggableTextBlock.baml
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\Exercice.baml
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\ExerciceReponse.baml
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\ExerciceTemps.baml
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\Note.baml
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\QuestionDragAndDrop.baml
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\QuestionQCM.baml
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\QuestionTrueOrFalse.baml
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\UserControls\LOGIN\LoginChooseType.baml
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\UserControls\LOGIN\formulaire.baml
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\UserControls\LOGIN\LogSignUser.baml
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\AdminWindow.baml
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\View\UsrCtrl\Stats\stats.baml
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\Projet.g.resources
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\Projet.Properties.Resources.resources
+C:\Users\Yacine\Desktop\ProjetS2\projetV1504\Projet\Projet\obj\Debug\Projet.csproj.GenerateResource.Cache
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\bin\Debug\Projet.exe.config
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\Projet.exe
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\Projet.pdb
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\bin\Debug\Projet.exe
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\bin\Debug\Projet.pdb
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\bin\Debug\MahApps.Metro.dll
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\bin\Debug\Nicenis.dll
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\bin\Debug\MahApps.Metro.pdb
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\bin\Debug\MahApps.Metro.xml
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\bin\Debug\Nicenis.pdb
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\bin\Debug\Nicenis.xml
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\Projet.csprojResolveAssemblyReference.cache
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\Resources\Icons.baml
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\UserControls\ELEVE\EleveUserControl.g.cs
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\LoginWindow.g.cs
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\EleveWindow.g.cs
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\UserControls\ELEVE\EtatAncienneSession.g.cs
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\UserControls\ELEVE\Examens.g.cs
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\UserControls\ELEVE\HelpLateral.g.cs
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\UserControls\GENERAL\APropos.g.cs
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\UserControls\ELEVE\BarMenu.g.cs
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\UserControls\ELEVE\CenterContent.g.cs
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\UserControls\ELEVE\Chap2MenuMaps.g.cs
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\UserControls\ELEVE\ContentCenter.g.cs
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\UserControls\ELEVE\Courses.g.cs
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\UserControls\ELEVE\Exercices.g.cs
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\UserControls\ELEVE\LateralMenuEleve.g.cs
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\UserControls\GENERAL\LogoUC.g.cs
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\UserControls\ELEVE\MapsMenu.g.cs
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\UserControls\ELEVE\TopBar.g.cs
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\UserControls\LOGIN\AdminSign.g.cs
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\ChangingPassAdmin.g.cs
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\ConfirmationSupprimAll.g.cs
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\ConfirmationSupprimEleve.g.cs
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\Contenu.g.cs
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\EleveInfo.g.cs
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\EleveInfoTitle.g.cs
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\help.g.cs
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\MenuLaterale.g.cs
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\parametresAdmin.g.cs
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\TitleAccueil.g.cs
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\TitleParametres.g.cs
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\View\UsrCtrl\Cours\Cours.g.cs
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\View\UsrCtrl\Cours\CoursImage.g.cs
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\View\UsrCtrl\Cours\CoursTexte.g.cs
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\View\UsrCtrl\eleveCtrls\ChangerPwd.g.cs
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\View\UsrCtrl\eleveCtrls\confirmSauvParam.g.cs
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\View\UsrCtrl\eleveCtrls\modifierInfo.g.cs
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\View\UsrCtrl\Exam\Exam1.g.cs
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\View\UsrCtrl\Exam\Exam2.g.cs
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\View\UsrCtrl\Exam\NoteExam.g.cs
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Animaux.g.cs
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Mounakh.g.cs
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\NoteCouleur.g.cs
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Pluie.g.cs
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Tadaris.g.cs
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Temperatures.g.cs
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\BonneReponseVide.g.cs
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\DraggableTextBlock.g.cs
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\Exercice.g.cs
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\ExerciceReponse.g.cs
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\ExerciceTemps.g.cs
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\Note.g.cs
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\QuestionDragAndDrop.g.cs
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\QuestionQCM.g.cs
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\QuestionTrueOrFalse.g.cs
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\UserControls\LOGIN\LoginChooseType.g.cs
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\UserControls\LOGIN\formulaire.g.cs
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\UserControls\LOGIN\LogSignUser.g.cs
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\AdminWindow.g.cs
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\View\UsrCtrl\Stats\stats.g.cs
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\App.g.cs
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\Projet_MarkupCompile.cache
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\Projet_MarkupCompile.lref
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\App.baml
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\UserControls\ELEVE\EleveUserControl.baml
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\LoginWindow.baml
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\EleveWindow.baml
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\UserControls\ELEVE\EtatAncienneSession.baml
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\UserControls\ELEVE\Examens.baml
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\UserControls\ELEVE\HelpLateral.baml
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\UserControls\GENERAL\APropos.baml
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\UserControls\ELEVE\BarMenu.baml
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\UserControls\ELEVE\CenterContent.baml
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\UserControls\ELEVE\Chap2MenuMaps.baml
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\UserControls\ELEVE\ContentCenter.baml
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\UserControls\ELEVE\Courses.baml
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\UserControls\ELEVE\Exercices.baml
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\UserControls\ELEVE\LateralMenuEleve.baml
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\UserControls\GENERAL\LogoUC.baml
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\UserControls\ELEVE\MapsMenu.baml
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\UserControls\ELEVE\TopBar.baml
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\UserControls\LOGIN\AdminSign.baml
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\ChangingPassAdmin.baml
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\ConfirmationSupprimAll.baml
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\ConfirmationSupprimEleve.baml
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\Contenu.baml
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\EleveInfo.baml
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\EleveInfoTitle.baml
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\help.baml
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\MenuLaterale.baml
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\parametresAdmin.baml
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\TitleAccueil.baml
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\TitleParametres.baml
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\View\UsrCtrl\Cours\Cours.baml
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\View\UsrCtrl\Cours\CoursImage.baml
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\View\UsrCtrl\Cours\CoursTexte.baml
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\View\UsrCtrl\eleveCtrls\ChangerPwd.baml
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\View\UsrCtrl\eleveCtrls\confirmSauvParam.baml
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\View\UsrCtrl\eleveCtrls\modifierInfo.baml
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\View\UsrCtrl\Exam\Exam1.baml
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\View\UsrCtrl\Exam\Exam2.baml
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\View\UsrCtrl\Exam\NoteExam.baml
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Animaux.baml
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Mounakh.baml
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\NoteCouleur.baml
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Pluie.baml
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Tadaris.baml
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Temperatures.baml
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\BonneReponseVide.baml
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\DraggableTextBlock.baml
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\Exercice.baml
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\ExerciceReponse.baml
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\ExerciceTemps.baml
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\Note.baml
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\QuestionDragAndDrop.baml
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\QuestionQCM.baml
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\QuestionTrueOrFalse.baml
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\UserControls\LOGIN\LoginChooseType.baml
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\UserControls\LOGIN\formulaire.baml
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\UserControls\LOGIN\LogSignUser.baml
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\AdminWindow.baml
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\View\UsrCtrl\Stats\stats.baml
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\Projet.g.resources
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\Projet.Properties.Resources.resources
+C:\Users\Shizuka\Desktop\V_04_15-20170415T153505Z-001\V_04_15\Projet\Projet\obj\Debug\Projet.csproj.GenerateResource.Cache
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\bin\Debug\Projet.exe.config
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\Projet.exe
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\Projet.pdb
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\bin\Debug\Projet.exe
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\bin\Debug\Projet.pdb
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\bin\Debug\MahApps.Metro.dll
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\bin\Debug\Nicenis.dll
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\bin\Debug\MahApps.Metro.pdb
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\bin\Debug\MahApps.Metro.xml
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\bin\Debug\Nicenis.pdb
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\bin\Debug\Nicenis.xml
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\Resources\Icons.baml
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\UserControls\ELEVE\EleveUserControl.g.cs
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\LoginWindow.g.cs
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\EleveWindow.g.cs
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\UserControls\ELEVE\EtatAncienneSession.g.cs
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\UserControls\ELEVE\Examens.g.cs
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\UserControls\ELEVE\HelpLateral.g.cs
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\UserControls\GENERAL\APropos.g.cs
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\UserControls\ELEVE\BarMenu.g.cs
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\UserControls\ELEVE\CenterContent.g.cs
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\UserControls\ELEVE\Chap2MenuMaps.g.cs
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\UserControls\ELEVE\ContentCenter.g.cs
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\UserControls\ELEVE\Courses.g.cs
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\UserControls\ELEVE\Exercices.g.cs
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\UserControls\ELEVE\LateralMenuEleve.g.cs
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\UserControls\GENERAL\LogoUC.g.cs
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\UserControls\ELEVE\MapsMenu.g.cs
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\UserControls\ELEVE\TopBar.g.cs
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\UserControls\LOGIN\AdminSign.g.cs
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\ChangingPassAdmin.g.cs
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\ConfirmationSupprimAll.g.cs
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\ConfirmationSupprimEleve.g.cs
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\Contenu.g.cs
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\EleveInfo.g.cs
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\EleveInfoTitle.g.cs
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\help.g.cs
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\MenuLaterale.g.cs
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\parametresAdmin.g.cs
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\TitleAccueil.g.cs
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\TitleParametres.g.cs
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Cours\Cours.g.cs
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Cours\CoursImage.g.cs
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Cours\CoursTexte.g.cs
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\eleveCtrls\ChangerPwd.g.cs
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\eleveCtrls\confirmSauvParam.g.cs
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\eleveCtrls\modifierInfo.g.cs
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Exam\Exam1.g.cs
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Exam\Exam2.g.cs
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Exam\NoteExam.g.cs
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Animaux.g.cs
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Mounakh.g.cs
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\NoteCouleur.g.cs
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Pluie.g.cs
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Tadaris.g.cs
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Temperatures.g.cs
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\BonneReponseVide.g.cs
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\DraggableTextBlock.g.cs
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\Exercice.g.cs
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\ExerciceReponse.g.cs
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\ExerciceTemps.g.cs
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\Note.g.cs
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\QuestionDragAndDrop.g.cs
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\QuestionQCM.g.cs
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\QuestionTrueOrFalse.g.cs
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\UserControls\LOGIN\LoginChooseType.g.cs
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\UserControls\LOGIN\formulaire.g.cs
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\UserControls\LOGIN\LogSignUser.g.cs
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\AdminWindow.g.cs
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Stats\stats.g.cs
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\App.g.cs
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\Projet_MarkupCompile.cache
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\Projet_MarkupCompile.lref
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\App.baml
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\UserControls\ELEVE\EleveUserControl.baml
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\LoginWindow.baml
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\EleveWindow.baml
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\UserControls\ELEVE\EtatAncienneSession.baml
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\UserControls\ELEVE\Examens.baml
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\UserControls\ELEVE\HelpLateral.baml
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\UserControls\GENERAL\APropos.baml
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\UserControls\ELEVE\BarMenu.baml
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\UserControls\ELEVE\CenterContent.baml
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\UserControls\ELEVE\Chap2MenuMaps.baml
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\UserControls\ELEVE\ContentCenter.baml
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\UserControls\ELEVE\Courses.baml
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\UserControls\ELEVE\Exercices.baml
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\UserControls\ELEVE\LateralMenuEleve.baml
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\UserControls\GENERAL\LogoUC.baml
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\UserControls\ELEVE\MapsMenu.baml
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\UserControls\ELEVE\TopBar.baml
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\UserControls\LOGIN\AdminSign.baml
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\ChangingPassAdmin.baml
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\ConfirmationSupprimAll.baml
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\ConfirmationSupprimEleve.baml
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\Contenu.baml
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\EleveInfo.baml
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\EleveInfoTitle.baml
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\help.baml
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\MenuLaterale.baml
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\parametresAdmin.baml
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\TitleAccueil.baml
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\TitleParametres.baml
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Cours\Cours.baml
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Cours\CoursImage.baml
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Cours\CoursTexte.baml
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\eleveCtrls\ChangerPwd.baml
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\eleveCtrls\confirmSauvParam.baml
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\eleveCtrls\modifierInfo.baml
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Exam\Exam1.baml
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Exam\Exam2.baml
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Exam\NoteExam.baml
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Animaux.baml
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Mounakh.baml
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\NoteCouleur.baml
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Pluie.baml
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Tadaris.baml
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Temperatures.baml
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\BonneReponseVide.baml
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\DraggableTextBlock.baml
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\Exercice.baml
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\ExerciceReponse.baml
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\ExerciceTemps.baml
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\Note.baml
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\QuestionDragAndDrop.baml
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\QuestionQCM.baml
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\QuestionTrueOrFalse.baml
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\UserControls\LOGIN\LoginChooseType.baml
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\UserControls\LOGIN\formulaire.baml
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\UserControls\LOGIN\LogSignUser.baml
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\AdminWindow.baml
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Stats\stats.baml
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\Projet.g.resources
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\Projet.Properties.Resources.resources
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\Projet.csproj.GenerateResource.Cache
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\Projet.csprojResolveAssemblyReference.cache
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\UserControls\ELEVE\Trophy.g.cs
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\UserControls\ELEVE\Trophy.baml
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\UserControls\ELEVE\TrophyContainer.g.cs
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\UserControls\ELEVE\TrophyContainer.baml
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\TopBarAPropos.g.cs
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\TopBarAPropos.baml
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Cours\FinCours.g.cs
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Cours\FinCours.baml
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\UserControls\ELEVE\ExerciceFinTemps.g.cs
+C:\Users\Mehdi Nassim\Desktop\Last Version\Projet\Projet\obj\Debug\UserControls\ELEVE\ExerciceFinTemps.baml
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\bin\Debug\Projet.exe.config
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\Projet.exe
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\Projet.pdb
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\bin\Debug\Projet.exe
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\bin\Debug\Projet.pdb
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\bin\Debug\MahApps.Metro.dll
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\bin\Debug\Nicenis.dll
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\bin\Debug\MahApps.Metro.pdb
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\bin\Debug\MahApps.Metro.xml
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\bin\Debug\Nicenis.pdb
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\bin\Debug\Nicenis.xml
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\Resources\Icons.baml
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\UserControls\ELEVE\ContentCenter.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\UserControls\ELEVE\EleveUserControl.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\LoginWindow.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\EleveWindow.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\UserControls\ELEVE\EtatAncienneSession.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\UserControls\ELEVE\Examens.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\UserControls\ELEVE\ExerciceFinTemps.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\UserControls\ELEVE\HelpLateral.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\UserControls\ELEVE\Trophy.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\UserControls\ELEVE\TrophyContainer.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\UserControls\GENERAL\APropos.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\UserControls\ELEVE\BarMenu.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\UserControls\ELEVE\CenterContent.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\UserControls\ELEVE\Chap2MenuMaps.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\UserControls\ELEVE\Courses.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\UserControls\ELEVE\Exercices.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\UserControls\ELEVE\LateralMenuEleve.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\UserControls\GENERAL\LogoUC.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\UserControls\ELEVE\MapsMenu.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\UserControls\ELEVE\TopBar.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\UserControls\LOGIN\AdminSign.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\ChangingPassAdmin.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\ConfirmationSupprimAll.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\ConfirmationSupprimEleve.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\Contenu.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\EleveInfo.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\EleveInfoTitle.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\help.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\MenuLaterale.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\parametresAdmin.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\TitleAccueil.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\TitleParametres.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\TopBarAPropos.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Cours\Cours.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Cours\CoursImage.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Cours\CoursTexte.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Cours\FinCours.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\eleveCtrls\ChangerPwd.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\eleveCtrls\confirmSauvParam.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\eleveCtrls\modifierInfo.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Exam\Exam1.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Exam\Exam2.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Exam\NoteExam.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Animaux.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Mounakh.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\NoteCouleur.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Pluie.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Tadaris.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Temperatures.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\BonneReponseVide.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\DraggableTextBlock.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\Exercice.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\ExerciceReponse.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\ExerciceTemps.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\Note.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\QuestionDragAndDrop.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\QuestionQCM.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\QuestionTrueOrFalse.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\UserControls\LOGIN\LoginChooseType.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\UserControls\LOGIN\formulaire.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\UserControls\LOGIN\LogSignUser.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\AdminWindow.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Stats\stats.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\App.g.cs
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\Projet_MarkupCompile.cache
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\Projet_MarkupCompile.lref
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\App.baml
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\UserControls\ELEVE\ContentCenter.baml
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\UserControls\ELEVE\EleveUserControl.baml
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\LoginWindow.baml
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\EleveWindow.baml
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\UserControls\ELEVE\EtatAncienneSession.baml
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\UserControls\ELEVE\Examens.baml
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\UserControls\ELEVE\ExerciceFinTemps.baml
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\UserControls\ELEVE\HelpLateral.baml
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\UserControls\ELEVE\Trophy.baml
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\UserControls\ELEVE\TrophyContainer.baml
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\UserControls\GENERAL\APropos.baml
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\UserControls\ELEVE\BarMenu.baml
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\UserControls\ELEVE\CenterContent.baml
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\UserControls\ELEVE\Chap2MenuMaps.baml
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\UserControls\ELEVE\Courses.baml
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\UserControls\ELEVE\Exercices.baml
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\UserControls\ELEVE\LateralMenuEleve.baml
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\UserControls\GENERAL\LogoUC.baml
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\UserControls\ELEVE\MapsMenu.baml
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\UserControls\ELEVE\TopBar.baml
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\UserControls\LOGIN\AdminSign.baml
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\ChangingPassAdmin.baml
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\ConfirmationSupprimAll.baml
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\ConfirmationSupprimEleve.baml
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\Contenu.baml
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\EleveInfo.baml
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\EleveInfoTitle.baml
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\help.baml
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\MenuLaterale.baml
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\parametresAdmin.baml
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\TitleAccueil.baml
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\TitleParametres.baml
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\TopBarAPropos.baml
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Cours\Cours.baml
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Cours\CoursImage.baml
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Cours\CoursTexte.baml
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Cours\FinCours.baml
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\eleveCtrls\ChangerPwd.baml
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\eleveCtrls\confirmSauvParam.baml
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\eleveCtrls\modifierInfo.baml
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Exam\Exam1.baml
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Exam\Exam2.baml
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Exam\NoteExam.baml
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Animaux.baml
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Mounakh.baml
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\NoteCouleur.baml
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Pluie.baml
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Tadaris.baml
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Temperatures.baml
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\BonneReponseVide.baml
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\DraggableTextBlock.baml
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\Exercice.baml
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\ExerciceReponse.baml
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\ExerciceTemps.baml
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\Note.baml
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\QuestionDragAndDrop.baml
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\QuestionQCM.baml
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\QuestionTrueOrFalse.baml
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\UserControls\LOGIN\LoginChooseType.baml
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\UserControls\LOGIN\formulaire.baml
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\UserControls\LOGIN\LogSignUser.baml
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\AdminWindow.baml
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\View\UsrCtrl\Stats\stats.baml
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\Projet.g.resources
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\Projet.Properties.Resources.resources
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\Projet.csproj.GenerateResource.Cache
+C:\Users\Yacine\Desktop\ProjetS2\Last Version\Projet\Projet\obj\Debug\Projet.csprojResolveAssemblyReference.cache
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\bin\Debug\Projet.exe.config
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\Projet.exe
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\Projet.pdb
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\bin\Debug\Projet.exe
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\bin\Debug\Projet.pdb
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\bin\Debug\MahApps.Metro.dll
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\bin\Debug\Nicenis.dll
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\bin\Debug\MahApps.Metro.pdb
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\bin\Debug\MahApps.Metro.xml
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\bin\Debug\Nicenis.pdb
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\bin\Debug\Nicenis.xml
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\Projet.csprojResolveAssemblyReference.cache
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\Resources\Icons.baml
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\UserControls\ELEVE\ContentCenter.g.cs
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\UserControls\ELEVE\EleveUserControl.g.cs
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\LoginWindow.g.cs
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\EleveWindow.g.cs
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\UserControls\ELEVE\EtatAncienneSession.g.cs
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\UserControls\ELEVE\Examens.g.cs
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\UserControls\ELEVE\ExerciceFinTemps.g.cs
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\UserControls\ELEVE\HelpLateral.g.cs
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\UserControls\ELEVE\Trophy.g.cs
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\UserControls\ELEVE\TrophyContainer.g.cs
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\UserControls\GENERAL\APropos.g.cs
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\UserControls\ELEVE\BarMenu.g.cs
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\UserControls\ELEVE\CenterContent.g.cs
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\UserControls\ELEVE\Chap2MenuMaps.g.cs
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\UserControls\ELEVE\Courses.g.cs
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\UserControls\ELEVE\Exercices.g.cs
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\UserControls\ELEVE\LateralMenuEleve.g.cs
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\UserControls\GENERAL\LogoUC.g.cs
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\UserControls\ELEVE\MapsMenu.g.cs
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\UserControls\ELEVE\TopBar.g.cs
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\UserControls\LOGIN\AdminSign.g.cs
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\ChangingPassAdmin.g.cs
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\ConfirmationSupprimAll.g.cs
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\ConfirmationSupprimEleve.g.cs
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\Contenu.g.cs
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\EleveInfo.g.cs
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\EleveInfoTitle.g.cs
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\help.g.cs
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\MenuLaterale.g.cs
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\parametresAdmin.g.cs
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\TitleAccueil.g.cs
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\TitleParametres.g.cs
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\TopBarAPropos.g.cs
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Cours\Cours.g.cs
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Cours\CoursImage.g.cs
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Cours\CoursTexte.g.cs
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Cours\FinCours.g.cs
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\eleveCtrls\ChangerPwd.g.cs
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\eleveCtrls\confirmSauvParam.g.cs
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\eleveCtrls\modifierInfo.g.cs
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Exam\Exam1.g.cs
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Exam\Exam2.g.cs
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Exam\NoteExam.g.cs
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Animaux.g.cs
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Mounakh.g.cs
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\NoteCouleur.g.cs
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Pluie.g.cs
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Tadaris.g.cs
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Temperatures.g.cs
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\BonneReponseVide.g.cs
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\DraggableTextBlock.g.cs
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\Exercice.g.cs
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\ExerciceReponse.g.cs
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\ExerciceTemps.g.cs
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\Note.g.cs
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\QuestionDragAndDrop.g.cs
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\QuestionQCM.g.cs
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\QuestionTrueOrFalse.g.cs
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\UserControls\LOGIN\LoginChooseType.g.cs
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\UserControls\LOGIN\formulaire.g.cs
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\UserControls\LOGIN\LogSignUser.g.cs
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\AdminWindow.g.cs
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Stats\stats.g.cs
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\App.g.cs
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\Projet_MarkupCompile.cache
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\Projet_MarkupCompile.lref
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\App.baml
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\UserControls\ELEVE\ContentCenter.baml
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\UserControls\ELEVE\EleveUserControl.baml
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\LoginWindow.baml
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\EleveWindow.baml
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\UserControls\ELEVE\EtatAncienneSession.baml
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\UserControls\ELEVE\Examens.baml
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\UserControls\ELEVE\ExerciceFinTemps.baml
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\UserControls\ELEVE\HelpLateral.baml
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\UserControls\ELEVE\Trophy.baml
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\UserControls\ELEVE\TrophyContainer.baml
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\UserControls\GENERAL\APropos.baml
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\UserControls\ELEVE\BarMenu.baml
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\UserControls\ELEVE\CenterContent.baml
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\UserControls\ELEVE\Chap2MenuMaps.baml
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\UserControls\ELEVE\Courses.baml
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\UserControls\ELEVE\Exercices.baml
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\UserControls\ELEVE\LateralMenuEleve.baml
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\UserControls\GENERAL\LogoUC.baml
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\UserControls\ELEVE\MapsMenu.baml
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\UserControls\ELEVE\TopBar.baml
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\UserControls\LOGIN\AdminSign.baml
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\ChangingPassAdmin.baml
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\ConfirmationSupprimAll.baml
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\ConfirmationSupprimEleve.baml
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\Contenu.baml
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\EleveInfo.baml
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\EleveInfoTitle.baml
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\help.baml
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\MenuLaterale.baml
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\parametresAdmin.baml
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\TitleAccueil.baml
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\TitleParametres.baml
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\TopBarAPropos.baml
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Cours\Cours.baml
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Cours\CoursImage.baml
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Cours\CoursTexte.baml
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Cours\FinCours.baml
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\eleveCtrls\ChangerPwd.baml
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\eleveCtrls\confirmSauvParam.baml
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\eleveCtrls\modifierInfo.baml
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Exam\Exam1.baml
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Exam\Exam2.baml
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Exam\NoteExam.baml
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Animaux.baml
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Mounakh.baml
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\NoteCouleur.baml
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Pluie.baml
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Tadaris.baml
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Temperatures.baml
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\BonneReponseVide.baml
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\DraggableTextBlock.baml
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\Exercice.baml
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\ExerciceReponse.baml
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\ExerciceTemps.baml
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\Note.baml
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\QuestionDragAndDrop.baml
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\QuestionQCM.baml
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\QuestionTrueOrFalse.baml
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\UserControls\LOGIN\LoginChooseType.baml
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\UserControls\LOGIN\formulaire.baml
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\UserControls\LOGIN\LogSignUser.baml
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\AdminWindow.baml
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Stats\stats.baml
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\Projet.g.resources
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\Projet.Properties.Resources.resources
+C:\Users\Mehdi Nassim\Desktop\V_30_4_9rib_the_last-20170501T234227Z-001\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\Projet.csproj.GenerateResource.Cache
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\bin\Debug\Projet.exe.config
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\Projet.exe
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\Projet.pdb
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\bin\Debug\Projet.exe
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\bin\Debug\Projet.pdb
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\bin\Debug\MahApps.Metro.dll
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\bin\Debug\Nicenis.dll
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\bin\Debug\MahApps.Metro.pdb
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\bin\Debug\MahApps.Metro.xml
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\bin\Debug\Nicenis.pdb
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\bin\Debug\Nicenis.xml
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\Projet.csprojResolveAssemblyReference.cache
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\Resources\Icons.baml
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\UserControls\ELEVE\ContentCenter.g.cs
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\UserControls\ELEVE\EleveUserControl.g.cs
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\LoginWindow.g.cs
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\EleveWindow.g.cs
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\UserControls\ELEVE\EtatAncienneSession.g.cs
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\UserControls\ELEVE\Examens.g.cs
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\UserControls\ELEVE\ExerciceFinTemps.g.cs
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\UserControls\ELEVE\HelpLateral.g.cs
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\UserControls\ELEVE\Trophy.g.cs
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\UserControls\ELEVE\TrophyContainer.g.cs
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\UserControls\GENERAL\APropos.g.cs
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\UserControls\ELEVE\BarMenu.g.cs
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\UserControls\ELEVE\CenterContent.g.cs
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\UserControls\ELEVE\Chap2MenuMaps.g.cs
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\UserControls\ELEVE\Courses.g.cs
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\UserControls\ELEVE\Exercices.g.cs
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\UserControls\ELEVE\LateralMenuEleve.g.cs
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\UserControls\GENERAL\LogoUC.g.cs
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\UserControls\ELEVE\MapsMenu.g.cs
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\UserControls\ELEVE\TopBar.g.cs
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\UserControls\LOGIN\AdminSign.g.cs
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\ChangingPassAdmin.g.cs
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\ConfirmationSupprimAll.g.cs
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\ConfirmationSupprimEleve.g.cs
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\Contenu.g.cs
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\EleveInfo.g.cs
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\EleveInfoTitle.g.cs
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\help.g.cs
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\MenuLaterale.g.cs
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\parametresAdmin.g.cs
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\TitleAccueil.g.cs
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\TitleParametres.g.cs
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\TopBarAPropos.g.cs
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Cours\Cours.g.cs
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Cours\CoursImage.g.cs
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Cours\CoursTexte.g.cs
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Cours\FinCours.g.cs
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\eleveCtrls\ChangerPwd.g.cs
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\eleveCtrls\confirmSauvParam.g.cs
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\eleveCtrls\modifierInfo.g.cs
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Exam\Exam1.g.cs
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Exam\Exam2.g.cs
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Exam\NoteExam.g.cs
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Animaux.g.cs
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Mounakh.g.cs
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\NoteCouleur.g.cs
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Pluie.g.cs
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Tadaris.g.cs
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Temperatures.g.cs
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\BonneReponseVide.g.cs
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\DraggableTextBlock.g.cs
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\Exercice.g.cs
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\ExerciceReponse.g.cs
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\ExerciceTemps.g.cs
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\Note.g.cs
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\QuestionDragAndDrop.g.cs
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\QuestionQCM.g.cs
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\QuestionTrueOrFalse.g.cs
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\UserControls\LOGIN\LoginChooseType.g.cs
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\UserControls\LOGIN\formulaire.g.cs
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\UserControls\LOGIN\LogSignUser.g.cs
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\AdminWindow.g.cs
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Stats\stats.g.cs
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\App.g.cs
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\Projet_MarkupCompile.cache
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\Projet_MarkupCompile.lref
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\App.baml
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\UserControls\ELEVE\ContentCenter.baml
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\UserControls\ELEVE\EleveUserControl.baml
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\LoginWindow.baml
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\EleveWindow.baml
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\UserControls\ELEVE\EtatAncienneSession.baml
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\UserControls\ELEVE\Examens.baml
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\UserControls\ELEVE\ExerciceFinTemps.baml
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\UserControls\ELEVE\HelpLateral.baml
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\UserControls\ELEVE\Trophy.baml
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\UserControls\ELEVE\TrophyContainer.baml
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\UserControls\GENERAL\APropos.baml
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\UserControls\ELEVE\BarMenu.baml
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\UserControls\ELEVE\CenterContent.baml
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\UserControls\ELEVE\Chap2MenuMaps.baml
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\UserControls\ELEVE\Courses.baml
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\UserControls\ELEVE\Exercices.baml
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\UserControls\ELEVE\LateralMenuEleve.baml
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\UserControls\GENERAL\LogoUC.baml
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\UserControls\ELEVE\MapsMenu.baml
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\UserControls\ELEVE\TopBar.baml
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\UserControls\LOGIN\AdminSign.baml
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\ChangingPassAdmin.baml
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\ConfirmationSupprimAll.baml
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\ConfirmationSupprimEleve.baml
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\Contenu.baml
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\EleveInfo.baml
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\EleveInfoTitle.baml
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\help.baml
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\MenuLaterale.baml
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\parametresAdmin.baml
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\TitleAccueil.baml
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\TitleParametres.baml
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\TopBarAPropos.baml
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Cours\Cours.baml
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Cours\CoursImage.baml
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Cours\CoursTexte.baml
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Cours\FinCours.baml
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\eleveCtrls\ChangerPwd.baml
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\eleveCtrls\confirmSauvParam.baml
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\eleveCtrls\modifierInfo.baml
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Exam\Exam1.baml
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Exam\Exam2.baml
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Exam\NoteExam.baml
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Animaux.baml
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Mounakh.baml
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\NoteCouleur.baml
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Pluie.baml
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Tadaris.baml
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Temperatures.baml
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\BonneReponseVide.baml
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\DraggableTextBlock.baml
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\Exercice.baml
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\ExerciceReponse.baml
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\ExerciceTemps.baml
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\Note.baml
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\QuestionDragAndDrop.baml
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\QuestionQCM.baml
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\QuestionTrueOrFalse.baml
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\UserControls\LOGIN\LoginChooseType.baml
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\UserControls\LOGIN\formulaire.baml
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\UserControls\LOGIN\LogSignUser.baml
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\AdminWindow.baml
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\View\UsrCtrl\Stats\stats.baml
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\Projet.g.resources
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\Projet.Properties.Resources.resources
+C:\Users\Mehdi Nassim\Desktop\version_final\V_30_4_9rib_the_last\Projet\Projet\obj\Debug\Projet.csproj.GenerateResource.Cache
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\bin\Debug\Projet.exe.config
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\bin\Debug\Projet.exe
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\bin\Debug\Projet.pdb
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\bin\Debug\Projet.exe.CodeAnalysisLog.xml
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\bin\Debug\Projet.exe.lastcodeanalysissucceeded
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\bin\Debug\MahApps.Metro.dll
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\bin\Debug\MaterialDesignThemes.Wpf.dll
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\bin\Debug\Nicenis.dll
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\bin\Debug\System.Windows.Interactivity.dll
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\bin\Debug\MahApps.Metro.pdb
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\bin\Debug\MahApps.Metro.xml
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\bin\Debug\MaterialDesignThemes.Wpf.pdb
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\bin\Debug\MaterialDesignThemes.Wpf.xml
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\bin\Debug\Nicenis.pdb
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\bin\Debug\Nicenis.xml
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\Projet.csprojResolveAssemblyReference.cache
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\Resources\Icons.baml
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\Resources\IconsNonShared.baml
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\UserControls\ELEVE\ContentCenter.g.cs
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\UserControls\ELEVE\EleveUserControl.g.cs
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\LoginWindow.g.cs
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\EleveWindow.g.cs
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\UserControls\ELEVE\EtatAncienneSession.g.cs
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\UserControls\ELEVE\Examens.g.cs
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\UserControls\ELEVE\ExerciceFinTemps.g.cs
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\UserControls\ELEVE\HelpLateral.g.cs
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\UserControls\ELEVE\Trophy.g.cs
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\UserControls\ELEVE\TrophyContainer.g.cs
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\UserControls\GENERAL\APropos.g.cs
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\UserControls\ELEVE\BarMenu.g.cs
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\UserControls\ELEVE\CenterContent.g.cs
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\UserControls\ELEVE\Chap2MenuMaps.g.cs
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\UserControls\ELEVE\Courses.g.cs
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\UserControls\ELEVE\Exercices.g.cs
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\UserControls\ELEVE\LateralMenuEleve.g.cs
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\UserControls\GENERAL\LogoUC.g.cs
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\UserControls\ELEVE\MapsMenu.g.cs
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\UserControls\ELEVE\TopBar.g.cs
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\UserControls\LOGIN\AdminSign.g.cs
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\ChangingPassAdmin.g.cs
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\ConfirmationSupprimAll.g.cs
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\ConfirmationSupprimEleve.g.cs
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\Contenu.g.cs
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\EleveInfo.g.cs
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\EleveInfoTitle.g.cs
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\help.g.cs
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\MenuLaterale.g.cs
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\parametresAdmin.g.cs
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\TitleAccueil.g.cs
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\TitleParametres.g.cs
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\TopBarAPropos.g.cs
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\View\UsrCtrl\Cours\Cours.g.cs
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\View\UsrCtrl\Cours\CoursImage.g.cs
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\View\UsrCtrl\Cours\CoursTexte.g.cs
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\View\UsrCtrl\Cours\FinCours.g.cs
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\View\UsrCtrl\eleveCtrls\ChangerPwd.g.cs
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\View\UsrCtrl\eleveCtrls\confirmSauvParam.g.cs
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\View\UsrCtrl\eleveCtrls\modifierInfo.g.cs
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\View\UsrCtrl\Exam\Exam1.g.cs
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\View\UsrCtrl\Exam\Exam2.g.cs
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\View\UsrCtrl\Exam\NoteExam.g.cs
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Animaux.g.cs
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Mounakh.g.cs
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\NoteCouleur.g.cs
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Pluie.g.cs
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Tadaris.g.cs
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Temperatures.g.cs
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\BonneReponseVide.g.cs
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\DraggableTextBlock.g.cs
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\Exercice.g.cs
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\ExerciceReponse.g.cs
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\ExerciceTemps.g.cs
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\Note.g.cs
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\QuestionDragAndDrop.g.cs
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\QuestionQCM.g.cs
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\QuestionTrueOrFalse.g.cs
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\UserControls\LOGIN\LoginChooseType.g.cs
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\UserControls\LOGIN\formulaire.g.cs
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\UserControls\LOGIN\LogSignUser.g.cs
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\AdminWindow.g.cs
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\View\UsrCtrl\Stats\stats.g.cs
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\App.g.cs
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\Projet_MarkupCompile.cache
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\Projet_MarkupCompile.lref
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\App.baml
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\UserControls\ELEVE\ContentCenter.baml
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\UserControls\ELEVE\EleveUserControl.baml
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\LoginWindow.baml
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\EleveWindow.baml
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\UserControls\ELEVE\EtatAncienneSession.baml
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\UserControls\ELEVE\Examens.baml
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\UserControls\ELEVE\ExerciceFinTemps.baml
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\UserControls\ELEVE\HelpLateral.baml
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\UserControls\ELEVE\Trophy.baml
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\UserControls\ELEVE\TrophyContainer.baml
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\UserControls\GENERAL\APropos.baml
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\UserControls\ELEVE\BarMenu.baml
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\UserControls\ELEVE\CenterContent.baml
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\UserControls\ELEVE\Chap2MenuMaps.baml
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\UserControls\ELEVE\Courses.baml
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\UserControls\ELEVE\Exercices.baml
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\UserControls\ELEVE\LateralMenuEleve.baml
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\UserControls\GENERAL\LogoUC.baml
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\UserControls\ELEVE\MapsMenu.baml
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\UserControls\ELEVE\TopBar.baml
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\UserControls\LOGIN\AdminSign.baml
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\ChangingPassAdmin.baml
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\ConfirmationSupprimAll.baml
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\ConfirmationSupprimEleve.baml
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\Contenu.baml
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\EleveInfo.baml
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\EleveInfoTitle.baml
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\help.baml
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\MenuLaterale.baml
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\parametresAdmin.baml
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\TitleAccueil.baml
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\TitleParametres.baml
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\View\UsrCtrl\Admin\TopBarAPropos.baml
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\View\UsrCtrl\Cours\Cours.baml
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\View\UsrCtrl\Cours\CoursImage.baml
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\View\UsrCtrl\Cours\CoursTexte.baml
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\View\UsrCtrl\Cours\FinCours.baml
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\View\UsrCtrl\eleveCtrls\ChangerPwd.baml
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\View\UsrCtrl\eleveCtrls\confirmSauvParam.baml
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\View\UsrCtrl\eleveCtrls\modifierInfo.baml
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\View\UsrCtrl\Exam\Exam1.baml
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\View\UsrCtrl\Exam\Exam2.baml
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\View\UsrCtrl\Exam\NoteExam.baml
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Animaux.baml
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Mounakh.baml
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\NoteCouleur.baml
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Pluie.baml
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Tadaris.baml
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\View\UsrCtrl\ExercicesDragCouleur\Temperatures.baml
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\BonneReponseVide.baml
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\DraggableTextBlock.baml
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\Exercice.baml
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\ExerciceReponse.baml
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\ExerciceTemps.baml
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\Note.baml
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\QuestionDragAndDrop.baml
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\QuestionQCM.baml
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\View\UsrCtrl\Exercices\QuestionTrueOrFalse.baml
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\UserControls\LOGIN\LoginChooseType.baml
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\UserControls\LOGIN\formulaire.baml
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\UserControls\LOGIN\LogSignUser.baml
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\AdminWindow.baml
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\View\UsrCtrl\Stats\stats.baml
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\Projet.g.resources
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\Projet.Properties.Resources.resources
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\Projet.csproj.GenerateResource.Cache
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\Projet.exe
+Z:\PRJ1_ EQ35_AYAD_BELATTAR_ CodeSource_2017\Projet\Projet\obj\Debug\Projet.pdb

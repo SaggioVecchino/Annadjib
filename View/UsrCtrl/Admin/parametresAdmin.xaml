@@ -1,0 +1,337 @@
+﻿<UserControl
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Projet.View.UsrCtrl.Admin"
+             xmlns:Custom="http://metro.mahapps.com/winfx/xaml/controls" x:Class="Projet.View.UsrCtrl.Admin.parametresAdmin"
+             mc:Ignorable="d" 
+             d:DesignHeight="570" d:DesignWidth="690">
+    <Grid Height="570" Width="690">
+        <Border x:Name="backgrnd" Background="#FFFFFF" CornerRadius="3">
+            <Border.Effect>
+                <DropShadowEffect BlurRadius="5" ShadowDepth="0" Opacity="0.2"/>
+            </Border.Effect>
+        </Border>
+        <Grid>
+            <Button x:Name="buttonClose" ToolTip="اغلاق نافذة الإعدادات" Width="35" Height="35" Style="{DynamicResource ButtonClose}" VerticalAlignment="Top" HorizontalAlignment="Right" Margin="0,15,15,0" Click="buttonClose_Click">
+                <Button.Resources>
+                    <Style x:Key="ButtonClose" TargetType="{x:Type Button}">
+                        <Setter Property="Foreground" Value="{DynamicResource TextBrush}"/>
+                        <Setter Property="Background" Value="{DynamicResource GrayBrush10}"/>
+                        <Setter Property="BorderBrush" Value="{DynamicResource TextBoxBorderBrush}"/>
+                        <Setter Property="BorderThickness" Value="1"/>
+                        <Setter Property="Custom:ControlsHelper.ContentCharacterCasing" Value="Upper"/>
+                        <Setter Property="Custom:ControlsHelper.CornerRadius" Value="3"/>
+                        <Setter Property="FontFamily" Value="{DynamicResource DefaultFont}"/>
+                        <Setter Property="FontSize" Value="{DynamicResource UpperCaseContentFontSize}"/>
+                        <Setter Property="FontWeight" Value="Bold"/>
+                        <Setter Property="MinHeight" Value="25"/>
+                        <Setter Property="Padding" Value="5,6"/>
+                        <Setter Property="Template">
+                            <Setter.Value>
+                                <ControlTemplate TargetType="{x:Type Button}">
+                                    <Grid>
+                                        <VisualStateManager.VisualStateGroups>
+                                            <VisualStateGroup x:Name="CommonStates">
+                                                <VisualState x:Name="Normal"/>
+                                                <VisualState x:Name="MouseOver">
+                                                    <Storyboard>
+                                                        <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="image">
+                                                            <EasingDoubleKeyFrame KeyTime="0" Value="0.7"/>
+                                                        </DoubleAnimationUsingKeyFrames>
+                                                    </Storyboard>
+                                                </VisualState>
+                                                <VisualState x:Name="Pressed">
+                                                    <Storyboard>
+                                                        <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="image">
+                                                            <EasingDoubleKeyFrame KeyTime="0" Value="0.75"/>
+                                                        </DoubleAnimationUsingKeyFrames>
+                                                    </Storyboard>
+                                                </VisualState>
+                                                <VisualState x:Name="Disabled"/>
+                                            </VisualStateGroup>
+                                        </VisualStateManager.VisualStateGroups>
+                                        <Image x:Name="image" Source="/IMAGES/BUTTONS/close.png" Width="35" Height="35" Opacity="0.6"/>
+                                    </Grid>
+                                    <ControlTemplate.Triggers>
+                                        <Trigger Property="IsMouseOver" Value="True"/>
+                                        <Trigger Property="IsPressed" Value="True"/>
+                                        <Trigger Property="IsKeyboardFocusWithin" Value="True"/>
+                                        <Trigger Property="IsEnabled" Value="False"/>
+                                    </ControlTemplate.Triggers>
+                                </ControlTemplate>
+                            </Setter.Value>
+                        </Setter>
+                    </Style>
+                </Button.Resources>
+
+            </Button>
+            <StackPanel Orientation="Vertical">
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,120,0,0" FlowDirection="RightToLeft">
+                    <TextBlock x:Name="textBlock" Foreground="#757575" VerticalAlignment="Center" TextWrapping="Wrap" Text="اسم المؤسسة :" FontSize="26" Margin="0,0,10,0"/>
+                    <TextBox Foreground="White" Padding="10" Background="#757575" ToolTip="تعديل اسم المؤسسة ثم حفظ"  BorderThickness="0" x:Name="textBox" MaxWidth="250" FontSize="22" VerticalAlignment="Center" Text="{Binding NomEcole, Mode=OneWay}"  HorizontalContentAlignment="Center" TextWrapping="Wrap"  SpellCheck.IsEnabled="False" AutomationProperties.IsRowHeader="True" AutomationProperties.IsRequiredForForm="True" FontFamily="/Projet;component/Resources/#TheSans Plain" FlowDirection="RightToLeft" GotFocus="textBox_GotFocus">
+                        <TextBox.Resources>
+                            <Style TargetType="{x:Type Border}">
+                                <Setter Property="CornerRadius" Value="15"/>
+                            </Style>
+                        </TextBox.Resources>
+                    </TextBox>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,40,0,50" FlowDirection="RightToLeft">
+                    <Button x:Name="save" ToolTip="حفظ التغييرات"  Click="save_Click" Height="40" VerticalAlignment="Top" Background="#2196F3" Width="100" Style="{DynamicResource ButtonStyle1}">
+                        <Button.Resources>
+                            <Style x:Key="ButtonStyle1" TargetType="{x:Type Button}">
+                                <Setter Property="Foreground" Value="{DynamicResource TextBrush}"/>
+                                <Setter Property="Background" Value="{DynamicResource GrayBrush10}"/>
+                                <Setter Property="BorderBrush" Value="{DynamicResource TextBoxBorderBrush}"/>
+                                <Setter Property="BorderThickness" Value="1"/>
+                                <Setter Property="Custom:ControlsHelper.ContentCharacterCasing" Value="Upper"/>
+                                <Setter Property="Custom:ControlsHelper.CornerRadius" Value="3"/>
+                                <Setter Property="FontFamily" Value="{DynamicResource DefaultFont}"/>
+                                <Setter Property="FontSize" Value="{DynamicResource UpperCaseContentFontSize}"/>
+                                <Setter Property="FontWeight" Value="Bold"/>
+                                <Setter Property="MinHeight" Value="25"/>
+                                <Setter Property="Padding" Value="5,6"/>
+                                <Setter Property="Template">
+                                    <Setter.Value>
+                                        <ControlTemplate TargetType="{x:Type Button}">
+                                            <Grid>
+                                                <VisualStateManager.VisualStateGroups>
+                                                    <VisualStateGroup x:Name="CommonStates">
+                                                        <VisualState x:Name="Normal"/>
+                                                        <VisualState x:Name="MouseOver">
+                                                            <Storyboard>
+                                                                <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="rectangle">
+                                                                    <EasingDoubleKeyFrame KeyTime="0" Value="0.05"/>
+                                                                </DoubleAnimationUsingKeyFrames>
+                                                            </Storyboard>
+                                                        </VisualState>
+                                                        <VisualState x:Name="Pressed">
+                                                            <Storyboard>
+                                                                <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="rectangle">
+                                                                    <EasingDoubleKeyFrame KeyTime="0" Value="0.1"/>
+                                                                </DoubleAnimationUsingKeyFrames>
+                                                            </Storyboard>
+                                                        </VisualState>
+                                                        <VisualState x:Name="Disabled"/>
+                                                    </VisualStateGroup>
+                                                </VisualStateManager.VisualStateGroups>
+                                                <Rectangle Fill="#FF2196F3" Margin="0" RadiusY="5" RadiusX="5" Stroke="{x:Null}" StrokeThickness="0" Width="100" Height="40"/>
+                                                <Rectangle x:Name="rectangle" Fill="Black" Margin="0" RadiusY="5" RadiusX="5" Stroke="{x:Null}" StrokeThickness="0" Width="100" Height="40" Opacity="0"/>
+                                                <Border x:Name="DisabledVisualElement" Background="{DynamicResource ControlsDisabledBrush}" CornerRadius="{Binding (Custom:ControlsHelper.CornerRadius), Mode=OneWay, RelativeSource={RelativeSource TemplatedParent}}" IsHitTestVisible="False" Opacity="0" SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}"/>
+                                                <Custom:ContentControlEx x:Name="PART_ContentPresenter" ContentCharacterCasing="{Binding (Custom:ControlsHelper.ContentCharacterCasing), RelativeSource={RelativeSource TemplatedParent}}" ContentTemplate="{TemplateBinding ContentTemplate}" Content="{TemplateBinding Content}" ContentStringFormat="{TemplateBinding ContentStringFormat}" HorizontalContentAlignment="{TemplateBinding HorizontalContentAlignment}" Margin="{TemplateBinding BorderThickness}" Padding="{TemplateBinding Padding}" RecognizesAccessKey="True" SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}" VerticalContentAlignment="{TemplateBinding VerticalContentAlignment}"/>
+                                            </Grid>
+                                            <ControlTemplate.Triggers>
+                                                <Trigger Property="IsMouseOver" Value="True"/>
+                                                <Trigger Property="IsPressed" Value="True"/>
+                                                <Trigger Property="IsKeyboardFocusWithin" Value="True"/>
+                                                <Trigger Property="IsEnabled" Value="False">
+                                                    <Setter Property="Opacity" TargetName="DisabledVisualElement" Value="0.7"/>
+                                                    <Setter Property="Opacity" TargetName="PART_ContentPresenter" Value="0.3"/>
+                                                </Trigger>
+                                            </ControlTemplate.Triggers>
+                                        </ControlTemplate>
+                                    </Setter.Value>
+                                </Setter>
+                            </Style>
+                        </Button.Resources>
+                        <StackPanel Orientation="Horizontal" FlowDirection="LeftToRight">
+                            <TextBlock Margin="4,0,4,0"  FontSize="16" Foreground="White">حفظ</TextBlock>
+                            <Image Width="34" Source="/IMAGES/BUTTONS/save.png"/>
+                        </StackPanel>
+                    </Button>
+                    <Button x:Name="cancel" ToolTip="إلغاء التغييرات"  Click="cancel_Click" Height="40" VerticalAlignment="Top" Background="#2196F3" Width="100" Margin="40,0,0,0" Style="{DynamicResource ButtonStyle1}">
+                        <Button.Resources>
+                            <Style x:Key="ButtonStyle1" TargetType="{x:Type Button}">
+                                <Setter Property="Foreground" Value="{DynamicResource TextBrush}"/>
+                                <Setter Property="Background" Value="{DynamicResource GrayBrush10}"/>
+                                <Setter Property="BorderBrush" Value="{DynamicResource TextBoxBorderBrush}"/>
+                                <Setter Property="BorderThickness" Value="1"/>
+                                <Setter Property="Custom:ControlsHelper.ContentCharacterCasing" Value="Upper"/>
+                                <Setter Property="Custom:ControlsHelper.CornerRadius" Value="3"/>
+                                <Setter Property="FontFamily" Value="{DynamicResource DefaultFont}"/>
+                                <Setter Property="FontSize" Value="{DynamicResource UpperCaseContentFontSize}"/>
+                                <Setter Property="FontWeight" Value="Bold"/>
+                                <Setter Property="MinHeight" Value="25"/>
+                                <Setter Property="Padding" Value="5,6"/>
+                                <Setter Property="Template">
+                                    <Setter.Value>
+                                        <ControlTemplate TargetType="{x:Type Button}">
+                                            <Grid>
+                                                <VisualStateManager.VisualStateGroups>
+                                                    <VisualStateGroup x:Name="CommonStates">
+                                                        <VisualState x:Name="Normal"/>
+                                                        <VisualState x:Name="MouseOver">
+                                                            <Storyboard>
+                                                                <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="rectangle">
+                                                                    <EasingDoubleKeyFrame KeyTime="0" Value="0.05"/>
+                                                                </DoubleAnimationUsingKeyFrames>
+                                                            </Storyboard>
+                                                        </VisualState>
+                                                        <VisualState x:Name="Pressed">
+                                                            <Storyboard>
+                                                                <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="rectangle">
+                                                                    <EasingDoubleKeyFrame KeyTime="0" Value="0.1"/>
+                                                                </DoubleAnimationUsingKeyFrames>
+                                                            </Storyboard>
+                                                        </VisualState>
+                                                        <VisualState x:Name="Disabled"/>
+                                                    </VisualStateGroup>
+                                                </VisualStateManager.VisualStateGroups>
+                                                <Rectangle Fill="#1976D2" Margin="0" RadiusY="5" RadiusX="5" Stroke="{x:Null}" StrokeThickness="0" Width="100" Height="40"/>
+                                                <Rectangle x:Name="rectangle" Fill="Black" Margin="0" RadiusY="5" RadiusX="5" Stroke="{x:Null}" StrokeThickness="0" Width="100" Height="40" Opacity="0"/>
+                                                <Border x:Name="DisabledVisualElement" Background="{DynamicResource ControlsDisabledBrush}" CornerRadius="{Binding (Custom:ControlsHelper.CornerRadius), Mode=OneWay, RelativeSource={RelativeSource TemplatedParent}}" IsHitTestVisible="False" Opacity="0" SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}"/>
+                                                <Custom:ContentControlEx x:Name="PART_ContentPresenter" ContentCharacterCasing="{Binding (Custom:ControlsHelper.ContentCharacterCasing), RelativeSource={RelativeSource TemplatedParent}}" ContentTemplate="{TemplateBinding ContentTemplate}" Content="{TemplateBinding Content}" ContentStringFormat="{TemplateBinding ContentStringFormat}" HorizontalContentAlignment="{TemplateBinding HorizontalContentAlignment}" Margin="{TemplateBinding BorderThickness}" Padding="{TemplateBinding Padding}" RecognizesAccessKey="True" SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}" VerticalContentAlignment="{TemplateBinding VerticalContentAlignment}"/>
+                                            </Grid>
+                                            <ControlTemplate.Triggers>
+                                                <Trigger Property="IsMouseOver" Value="True"/>
+                                                <Trigger Property="IsPressed" Value="True"/>
+                                                <Trigger Property="IsKeyboardFocusWithin" Value="True"/>
+                                                <Trigger Property="IsEnabled" Value="False">
+                                                    <Setter Property="Opacity" TargetName="DisabledVisualElement" Value="0.7"/>
+                                                    <Setter Property="Opacity" TargetName="PART_ContentPresenter" Value="0.3"/>
+                                                </Trigger>
+                                            </ControlTemplate.Triggers>
+                                        </ControlTemplate>
+                                    </Setter.Value>
+                                </Setter>
+                            </Style>
+                        </Button.Resources>
+                        <StackPanel Orientation="Horizontal" FlowDirection="LeftToRight">
+                            <TextBlock Margin="4,0,4,0"  FontSize="16" Foreground="White">إلغاء</TextBlock>
+                            <Image Width="34" Source="/IMAGES/BUTTONS/close_white.png"/>
+                        </StackPanel>
+                    </Button>
+                </StackPanel>
+                <TextBlock x:Name="message" Margin="0,10,0,10" HorizontalAlignment="Center" TextWrapping="Wrap" FontSize="22"/>
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" FlowDirection="RightToLeft" Margin="0,60,0,0">
+                    <Button x:Name="deleteAll" ToolTip="حذف كل التلاميذ"  Margin="0,0,50,0" Click="deleteAll_Click" Height="60" VerticalAlignment="Top" Background="#2196F3" Width="170" Style="{DynamicResource ButtonStyle1}">
+                        <Button.Resources>
+                            <Style x:Key="ButtonStyle1" TargetType="{x:Type Button}">
+                                <Setter Property="Foreground" Value="{DynamicResource TextBrush}"/>
+                                <Setter Property="Background" Value="{DynamicResource GrayBrush10}"/>
+                                <Setter Property="BorderBrush" Value="{DynamicResource TextBoxBorderBrush}"/>
+                                <Setter Property="BorderThickness" Value="1"/>
+                                <Setter Property="Custom:ControlsHelper.ContentCharacterCasing" Value="Upper"/>
+                                <Setter Property="Custom:ControlsHelper.CornerRadius" Value="3"/>
+                                <Setter Property="FontFamily" Value="{DynamicResource DefaultFont}"/>
+                                <Setter Property="FontSize" Value="{DynamicResource UpperCaseContentFontSize}"/>
+                                <Setter Property="FontWeight" Value="Bold"/>
+                                <Setter Property="MinHeight" Value="25"/>
+                                <Setter Property="Padding" Value="5,6"/>
+                                <Setter Property="Template">
+                                    <Setter.Value>
+                                        <ControlTemplate TargetType="{x:Type Button}">
+                                            <Grid>
+                                                <VisualStateManager.VisualStateGroups>
+                                                    <VisualStateGroup x:Name="CommonStates">
+                                                        <VisualState x:Name="Normal"/>
+                                                        <VisualState x:Name="MouseOver">
+                                                            <Storyboard>
+                                                                <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="rectangle">
+                                                                    <EasingDoubleKeyFrame KeyTime="0" Value="0.05"/>
+                                                                </DoubleAnimationUsingKeyFrames>
+                                                            </Storyboard>
+                                                        </VisualState>
+                                                        <VisualState x:Name="Pressed">
+                                                            <Storyboard>
+                                                                <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="rectangle">
+                                                                    <EasingDoubleKeyFrame KeyTime="0" Value="0.1"/>
+                                                                </DoubleAnimationUsingKeyFrames>
+                                                            </Storyboard>
+                                                        </VisualState>
+                                                        <VisualState x:Name="Disabled"/>
+                                                    </VisualStateGroup>
+                                                </VisualStateManager.VisualStateGroups>
+                                                <Rectangle Fill="#FF2196F3" Margin="0" RadiusY="15" RadiusX="15" Stroke="{x:Null}" StrokeThickness="0" Width="170" Height="60"/>
+                                                <Rectangle x:Name="rectangle" Fill="Black" Margin="0" RadiusY="15" RadiusX="15" Stroke="{x:Null}" StrokeThickness="0" Width="170" Height="60" Opacity="0"/>
+                                                <Border x:Name="DisabledVisualElement" Background="{DynamicResource ControlsDisabledBrush}" CornerRadius="{Binding (Custom:ControlsHelper.CornerRadius), Mode=OneWay, RelativeSource={RelativeSource TemplatedParent}}" IsHitTestVisible="False" Opacity="0" SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}"/>
+                                                <Custom:ContentControlEx x:Name="PART_ContentPresenter" ContentCharacterCasing="{Binding (Custom:ControlsHelper.ContentCharacterCasing), RelativeSource={RelativeSource TemplatedParent}}" ContentTemplate="{TemplateBinding ContentTemplate}" Content="{TemplateBinding Content}" ContentStringFormat="{TemplateBinding ContentStringFormat}" HorizontalContentAlignment="{TemplateBinding HorizontalContentAlignment}" Margin="{TemplateBinding BorderThickness}" Padding="{TemplateBinding Padding}" RecognizesAccessKey="True" SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}" VerticalContentAlignment="{TemplateBinding VerticalContentAlignment}"/>
+                                            </Grid>
+                                            <ControlTemplate.Triggers>
+                                                <Trigger Property="IsMouseOver" Value="True"/>
+                                                <Trigger Property="IsPressed" Value="True"/>
+                                                <Trigger Property="IsKeyboardFocusWithin" Value="True"/>
+                                                <Trigger Property="IsEnabled" Value="False">
+                                                    <Setter Property="Opacity" TargetName="DisabledVisualElement" Value="0.7"/>
+                                                    <Setter Property="Opacity" TargetName="PART_ContentPresenter" Value="0.3"/>
+                                                </Trigger>
+                                            </ControlTemplate.Triggers>
+                                        </ControlTemplate>
+                                    </Setter.Value>
+                                </Setter>
+                            </Style>
+                        </Button.Resources>
+                        <StackPanel Orientation="Horizontal" FlowDirection="LeftToRight">
+                            <TextBlock Margin="4,0,4,0"  FontSize="16" Foreground="White" VerticalAlignment="Center">حذف كل التلاميذ</TextBlock>
+                            <Image Width="34" Source="/IMAGES/BUTTONS/delete.png" VerticalAlignment="Center"/>
+                        </StackPanel>
+                    </Button>
+                    <Button x:Name="editAdminPass" ToolTip="تغيير كلمة مرور المعلم"  Click="editAdminPass_Click" Height="60" VerticalAlignment="Top" Background="#2196F3" Width="170" Style="{DynamicResource ButtonStyle1}">
+                        <Button.Resources>
+                            <Style x:Key="ButtonStyle1" TargetType="{x:Type Button}">
+                                <Setter Property="Foreground" Value="{DynamicResource TextBrush}"/>
+                                <Setter Property="Background" Value="{DynamicResource GrayBrush10}"/>
+                                <Setter Property="BorderBrush" Value="{DynamicResource TextBoxBorderBrush}"/>
+                                <Setter Property="BorderThickness" Value="1"/>
+                                <Setter Property="Custom:ControlsHelper.ContentCharacterCasing" Value="Upper"/>
+                                <Setter Property="Custom:ControlsHelper.CornerRadius" Value="3"/>
+                                <Setter Property="FontFamily" Value="{DynamicResource DefaultFont}"/>
+                                <Setter Property="FontSize" Value="{DynamicResource UpperCaseContentFontSize}"/>
+                                <Setter Property="FontWeight" Value="Bold"/>
+                                <Setter Property="MinHeight" Value="25"/>
+                                <Setter Property="Padding" Value="5,6"/>
+                                <Setter Property="Template">
+                                    <Setter.Value>
+                                        <ControlTemplate TargetType="{x:Type Button}">
+                                            <Grid>
+                                                <VisualStateManager.VisualStateGroups>
+                                                    <VisualStateGroup x:Name="CommonStates">
+                                                        <VisualState x:Name="Normal"/>
+                                                        <VisualState x:Name="MouseOver">
+                                                            <Storyboard>
+                                                                <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="rectangle">
+                                                                    <EasingDoubleKeyFrame KeyTime="0" Value="0.05"/>
+                                                                </DoubleAnimationUsingKeyFrames>
+                                                            </Storyboard>
+                                                        </VisualState>
+                                                        <VisualState x:Name="Pressed">
+                                                            <Storyboard>
+                                                                <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="rectangle">
+                                                                    <EasingDoubleKeyFrame KeyTime="0" Value="0.1"/>
+                                                                </DoubleAnimationUsingKeyFrames>
+                                                            </Storyboard>
+                                                        </VisualState>
+                                                        <VisualState x:Name="Disabled"/>
+                                                    </VisualStateGroup>
+                                                </VisualStateManager.VisualStateGroups>
+                                                <Rectangle Fill="#1976D2" Margin="0" RadiusY="15" RadiusX="15" Stroke="{x:Null}" StrokeThickness="0" Width="170" Height="60"/>
+                                                <Rectangle x:Name="rectangle" Fill="Black" Margin="0" RadiusY="15" RadiusX="15" Stroke="{x:Null}" StrokeThickness="0" Width="170" Height="60" Opacity="0"/>
+                                                <Border x:Name="DisabledVisualElement" Background="{DynamicResource ControlsDisabledBrush}" CornerRadius="{Binding (Custom:ControlsHelper.CornerRadius), Mode=OneWay, RelativeSource={RelativeSource TemplatedParent}}" IsHitTestVisible="False" Opacity="0" SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}"/>
+                                                <Custom:ContentControlEx x:Name="PART_ContentPresenter" ContentCharacterCasing="{Binding (Custom:ControlsHelper.ContentCharacterCasing), RelativeSource={RelativeSource TemplatedParent}}" ContentTemplate="{TemplateBinding ContentTemplate}" Content="{TemplateBinding Content}" ContentStringFormat="{TemplateBinding ContentStringFormat}" HorizontalContentAlignment="{TemplateBinding HorizontalContentAlignment}" Margin="{TemplateBinding BorderThickness}" Padding="{TemplateBinding Padding}" RecognizesAccessKey="True" SnapsToDevicePixels="{TemplateBinding SnapsToDevicePixels}" VerticalContentAlignment="{TemplateBinding VerticalContentAlignment}"/>
+                                            </Grid>
+                                            <ControlTemplate.Triggers>
+                                                <Trigger Property="IsMouseOver" Value="True"/>
+                                                <Trigger Property="IsPressed" Value="True"/>
+                                                <Trigger Property="IsKeyboardFocusWithin" Value="True"/>
+                                                <Trigger Property="IsEnabled" Value="False">
+                                                    <Setter Property="Opacity" TargetName="DisabledVisualElement" Value="0.7"/>
+                                                    <Setter Property="Opacity" TargetName="PART_ContentPresenter" Value="0.3"/>
+                                                </Trigger>
+                                            </ControlTemplate.Triggers>
+                                        </ControlTemplate>
+                                    </Setter.Value>
+                                </Setter>
+                            </Style>
+                        </Button.Resources>
+                        <StackPanel Orientation="Horizontal" FlowDirection="LeftToRight">
+                            <TextBlock Margin="4,0,4,0"  FontSize="16" Foreground="White" VerticalAlignment="Center">تغير كلمة السر</TextBlock>
+                            <Image Width="34" Source="/IMAGES/BUTTONS/edit.png" VerticalAlignment="Center"/>
+                        </StackPanel>
+                    </Button>
+                </StackPanel>
+            </StackPanel>
+        </Grid>
+    </Grid>
+</UserControl>

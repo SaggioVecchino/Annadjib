@@ -1,0 +1,29 @@
+﻿<UserControl x:Class="Projet.UserControls.ELEVE.EleveUserControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Projet.UserControls.ELEVE"
+             mc:Ignorable="d" 
+              xmlns:Custom="http://metro.mahapps.com/winfx/xaml/controls" 
+              VerticalAlignment="Stretch" HorizontalAlignment="Stretch" MinHeight="690" MinWidth="1200" Foreground="#616161" Background="#7FF5F5F5">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="/IMAGES/APP/background.png"  Opacity="0.3"/>
+        </Grid.Background>
+        <StackPanel Orientation="Vertical" HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
+            <ContentControl x:Name="barTopContent" Content="TopBarContentControl" HorizontalAlignment="Stretch" VerticalAlignment="Top" Height="60" MinWidth="1200"/>
+            <StackPanel HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
+                <Grid HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
+                    <ContentControl x:Name="lateralMenuContent" Content="LateralMenuContent" HorizontalAlignment="Left" VerticalAlignment="Stretch" MinHeight="630" Width="225"/>
+                    <ContentControl x:Name="centerContent" Content="CenterContent" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,0,0,0" Height="570" Width="690"/>
+                    <ContentControl x:Name="lateralHelpContent" Content="LateralHelpContent" HorizontalAlignment="Right" VerticalAlignment="Stretch" MinHeight="630" Width="225"/>
+                </Grid>
+            </StackPanel>
+        </StackPanel>
+        <ContentControl x:Name="PwdContenu" VerticalAlignment="Stretch" HorizontalAlignment="Stretch"/>
+        <ContentControl x:Name="confirmSauvPar" VerticalAlignment="Stretch" HorizontalAlignment="Stretch"/>
+        <ContentControl x:Name="EtatAncienneSession" VerticalAlignment="Stretch" HorizontalAlignment="Stretch"/>
+        <ContentControl x:Name="finTemps" VerticalAlignment="Stretch" HorizontalAlignment="Stretch"/>
+    </Grid>
+</UserControl>

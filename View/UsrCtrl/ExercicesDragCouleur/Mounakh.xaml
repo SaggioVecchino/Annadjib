@@ -1,0 +1,67 @@
+﻿<UserControl x:Class="Projet.View.UsrCtrl.ExercicesDragCouleur.Mounakh"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Projet.View.UsrCtrl.ExercicesDragCouleur"
+             mc:Ignorable="d" 
+               xmlns:n="clr-namespace:Nicenis.Windows;assembly=Nicenis"
+              d:DesignHeight="570" d:DesignWidth="690">
+    <Grid>
+        <Border Background="#FFFFFF" CornerRadius="3">
+            <Border.Effect>
+                <DropShadowEffect BlurRadius="5" ShadowDepth="0" Opacity="0.2"/>
+            </Border.Effect>
+        </Border>
+        <Grid Background="White">
+            <Canvas Margin="265,40,10,0" Height="448" VerticalAlignment="Top">
+                <Path x:Name="path1" AllowDrop="True" Data="M516.74 47.82L516.61 40.63L513.28 40.5L514.35 35.84L519.67 33.18L525.93 25.6L512.35 25.06L508.23 27.06L500.76 26.26L485.37 19.72L482.97 25.04L479.38 26.9L473.52 24.91L468.86 24.51L462.74 21.18L457.99 20.51L455.07 24.37L451.47 26.5L441.23 28.9L429.25 33.55L424.33 31.43L419.93 27.03L388.01 26.89L381.89 31.28L366.19 31.6L362.73 28.14L352.91 35.43L318.57 35.43L310.32 40.49L297.64 43.96L290.99 49.15L286.6 49.02L284.6 51.41L280.07 53.68L278.48 60.6L270.09 62.72L264.24 60.73L259.85 65.39L254.52 62.59L244.14 68.98L237.76 78.43L217.66 87.61L217.66 92L219.26 93.46L221.39 93.6L221.39 96.66L223.52 96.66L226.03 99.02L225.67 103.59L228.14 107.81L227.52 110.76L230.56 110.02L239.73 106.32L247.24 103.19L254.7 101.55L267.04 101.14L269.48 94.02L271.21 91.75L273.85 94.6L282.32 95.32L286.61 97.8L286.71 95.05L289.26 92.6L292.28 92.49L296.04 86.7L299.13 84.69L299.02 80.02L302.35 78.87L303.24 76.99L307.89 75.59L313.55 70.28L313.67 67.11L321.4 65.48L324.22 63.03L326.02 66.27L338.11 65.43L339.39 68.02L335.75 70.22L339.31 77.97L342.08 77.22L346.83 74.63L351.43 76.06L354.78 74.49L354.96 69.2L358.29 68.26L362.89 69.69L366.79 67.92L371.39 69.57L374.6 63.96L379.56 63.08L382.75 65.94L387.17 65.04L388.08 62.53L389.82 59.84L391.31 56.29L397.42 53.96L401.44 56.64L402.59 54.99L408.12 53.7L411.53 50.22L416.01 47.41L420.99 46.11L425.21 50.7L429.16 47.45L436.33 46.01L436.27 47.7L438.96 49.28L442.94 53.02L445.32 55.22L445.07 62.42L450.23 63.87L451.31 56.28L455.34 58.75L458.18 55.89L461.27 53.67L487.54 54.59L489.83 59.54L499.96 59.69L503.68 63L507.92 59.33L514.73 60.63L516.74 47.82Z" Canvas.Left="125" Height="66.999" Stretch="Fill" Width="200" Drop="Path_Drop" DragEnter="Path_DragEnter" DragLeave="Path_DragLeave" MouseLeave="Path_MouseLeave" StrokeThickness="1" RenderTransformOrigin="1.095,1.556" Canvas.Top="63.001" Stroke="#9E9E9E" Fill="White" />
+                <Path x:Name="path2" AllowDrop="True" Data="M515.21 59.76L514.79 72.01L516.71 74.86L516.63 80.29L509.69 98.98L498.51 105.49L498.44 110.44L497.19 111.38L493.28 114.17L490.72 114.28L481.73 116.53L479.19 115.38L476.74 113.2L472.74 112.99L468.74 107.68L468.82 102.07L470.97 97.6L468.96 93.98L466.31 95.17L463.21 98.94L461.62 98.32L461.82 89.86L458.4 94.4L457.65 90.59L453.69 93.75L453.75 89.26L451.2 88.46L449.49 90.95L447.01 90.75L448.57 82.65L441.05 82.75L438.88 83.51L438.09 87.99L432.88 88.46L427.02 89.7L424.66 86.92L421.22 86.97L418.62 84.45L416.63 85.86L415.64 93.44L412.54 94.83L409.25 94.57L405.27 96.19L400.43 96.62L397.76 98.73L396.82 102.75L394.59 105.11L397.8 111.07L394.89 114.6L398.59 117.01L398.95 123.23L404.59 122.2L407.16 125.46L410.02 126.7L411.46 130.22L417.2 131.09L423.96 129.8L414.88 144.01L418.44 148.23L418.1 154.84L411.5 153.16L401.9 151.85L389 148.91L366.37 159.09L339.56 156.94L335.7 181.45L330.14 185.85L300.14 199.79L280.87 218.27L258.11 196.84L266.79 184.24L269.13 169.83L253.81 175.08L248.06 175.3L246.34 172.85L238.98 172.51L240.41 168.48L243.32 166.21L235.92 159.4L232.04 151.41L232.11 147.22L229.66 143.83L230.12 129.67L227.69 124.66L228.14 110.58L231.16 109.82L240.32 105.94L247.81 102.67L255.23 100.97L267.47 100.65L270 93.05L271.75 90.64L274.32 93.71L282.7 94.56L286.93 97.26L287.06 94.31L289.63 91.71L292.63 91.63L296.45 85.45L299.54 83.33L299.51 78.34L302.82 77.13L303.73 75.13L308.37 73.67L314.07 68.05L314.23 64.65L321.92 62.97L324.76 60.38L326.5 63.87L338.49 63.07L339.72 65.86L336.08 68.18L339.49 76.51L342.24 75.73L346.99 73.01L351.54 74.58L354.88 72.93L355.14 67.27L358.45 66.29L363 67.87L366.89 66.01L371.42 67.81L374.7 61.84L379.63 60.94L382.74 64.04L387.14 63.11L388.08 60.43L389.84 57.56L391.38 53.78L397.48 51.35L401.41 54.25L402.59 52.49L408.08 51.17L411.52 47.47L416.01 44.51L420.96 43.15L425.08 48.11L429.04 44.67L436.18 43.19L436.09 45L438.73 46.72L442.62 50.76L444.95 53.14L444.58 60.84L449.67 62.44L450.87 54.33L454.82 57.01L457.68 53.97L460.78 51.62L486.81 52.85L489.01 58.17L499.05 58.42L502.69 62L506.95 58.12L513.67 59.57L515.21 59.76Z" Canvas.Left="130" Canvas.Top="80" Height="120" Stretch="Fill" Width="190" Drop="Path_Drop" DragEnter="Path_DragEnter" DragLeave="Path_DragLeave" MouseLeave="Path_MouseLeave" StrokeThickness="1" Fill="White" Stroke="#9E9E9E" />
+                <Path x:Name="path3" AllowDrop="True" Data="M492.46 129.83L487.86 121.53L501.12 111.65L498.21 110.21L496.96 111.15L493.05 113.94L490.49 114.05L481.5 116.3L478.96 115.15L476.51 112.97L472.51 112.76L468.51 107.45L468.59 101.84L470.74 97.36L468.73 93.75L466.08 94.94L462.98 98.71L461.39 98.09L461.59 89.62L458.17 94.17L457.42 90.36L453.45 93.52L453.52 89.03L450.97 88.23L449.26 90.72L446.78 90.52L448.34 82.42L440.82 82.52L438.64 83.28L437.86 87.76L432.65 88.23L426.79 89.47L424.43 86.69L420.99 86.74L418.39 84.22L416.4 85.63L415.41 93.21L412.31 94.6L409.02 94.34L405.04 95.96L400.2 96.39L397.53 98.5L396.59 102.52L394.36 104.87L397.57 110.84L394.66 114.37L398.36 116.77L398.72 123L404.36 121.97L406.93 125.23L409.79 126.47L411.23 129.99L416.97 130.86L423.73 129.57L414.65 143.78L418.21 148L417.87 154.61L411.27 152.93L401.67 151.62L388.77 148.68L366.13 158.86L339.33 156.71L335.47 181.22L329.91 185.62L299.91 199.56L280.64 218.04L257.88 196.61L266.56 184.01L268.9 169.6L253.58 174.85L247.83 175.07L246.11 172.62L239.68 171.72L239.46 176.03L241.32 177.33L242.01 179.68L239.06 180.05L236.88 177.66L206.71 177.14L200.42 178.64L196.58 182.24L193.67 182.24L192.63 179.5L190 179.5L190.3 188.39L187.52 188.71L176.68 195.49L172.41 195.49L169.91 193.33L165.48 193.52L162.6 196.03L162.6 202.25L164.89 203.1L167.77 204.21L163.07 206.7L162.63 213.15L165.16 210.44L167.39 210.92L167.71 214.11L172.34 217.7L163.15 218.92L158.43 220.04L144.6 229.49L140.38 229.49L129.57 235.67L126.38 239.61L126.72 243.04L120.16 248.34L102.88 256.66L83.91 256.27L83.91 263.16L77.36 263.43L75.16 260.67L71.98 263.66L68.56 260.68L63.21 268.09L58.79 268.33L54 272.56L47.63 272.23L24.62 290.35L25.57 343.93L304.89 539.4L304.89 545.39L308.01 546.57L304.89 548.41L304.89 553.81L309.72 553.92L321.01 558.22L320.31 565.47L324.02 565.42L330.06 571.64L338.98 571.62L340.97 576.07L344.97 578.6L354.9 578.29L358.25 581.38L359.25 583.7L364.03 582.84L365.49 584.51L365.49 588.18L368.05 590.62L365.94 593.54L368.86 597.94L366.07 599.39L365.93 610.67L368.91 614.88L375.08 614.41L383.81 612.5L390.52 608.21L399.09 608.08L437.53 596.61C491.13 558.05 529.03 529.26 551.25 510.27C575.79 494.75 596.57 479.89 613.6 465.71L613.6 460.79L600.34 438.72L584.26 432.11L568.19 432.54L561.73 423.31L559.72 404.24L554.53 395.07L543.73 385.07L541.1 377.99L543.88 373.2L553.1 368.44L552.97 336.77L555.82 326.9L555.48 318.86L552.95 311.86L555.28 296L550.38 273.57L539.39 255.8L539.8 246.86L546.47 241.87L543.89 240.15C543.3 231.65 542.27 222.72 540.8 213.37C539.33 204.02 537.41 194.26 535.05 184.07L532.06 184.07L521.71 174.71L510.15 170.25L510.34 159.07L504.39 148.36L494.07 143.82L492.46 129.83Z" Canvas.Top="106" Height="364" Stretch="Fill" Width="380" Drop="Path_Drop" DragEnter="Path_DragEnter" DragLeave="Path_DragLeave" MouseLeave="Path_MouseLeave" StrokeThickness="1" Fill="White" Stroke="#9E9E9E" />
+
+            </Canvas>
+            <Grid  HorizontalAlignment="Left" Margin="20,0,0,0" Width="215" VerticalAlignment="Center">
+                <Border Background="#FFFFFF" CornerRadius="3">
+                    <Border.Effect>
+                        <DropShadowEffect BlurRadius="5" ShadowDepth="0" Opacity="0.2"/>
+                    </Border.Effect>
+                </Border>
+                <Canvas Margin="140,15,0,0" HorizontalAlignment="Left" Width="70" Height="230" VerticalAlignment="Top">
+                    <Path x:Name="c1" 
+                                   n:DragSource.AllowDrag="True"
+        n:DragSource.Data="{Binding}"
+        n:DragSource.AllowedEffects="Copy"
+                                  Data="M12,2A10,10 0 0,1 22,12A10,10 0 0,1 12,22A10,10 0 0,1 2,12A10,10 0 0,1 12,2Z" Fill="#FFABF130" Height="40" Stretch="Fill" Width="40" Canvas.Top="28" GiveFeedback="Path_GiveFeedback" Canvas.Left="10" />
+                    <Path x:Name="c2"  
+                                 n:DragSource.AllowDrag="True"
+        n:DragSource.Data="{Binding}"
+        n:DragSource.AllowedEffects="Copy"
+                              Data="M12,2A10,10 0 0,1 22,12A10,10 0 0,1 12,22A10,10 0 0,1 2,12A10,10 0 0,1 12,2Z" Fill="#FFBBA61C" Canvas.Left="10" Canvas.Top="93" Height="40" Stretch="Fill" Width="40" GiveFeedback="Path_GiveFeedback" />
+                    <Path x:Name="c3"
+                               n:DragSource.AllowDrag="True"
+        n:DragSource.Data="{Binding}"
+        n:DragSource.AllowedEffects="Copy"
+                              Data="M12,2A10,10 0 0,1 22,12A10,10 0 0,1 12,22A10,10 0 0,1 2,12A10,10 0 0,1 12,2Z" Fill="Yellow" Canvas.Top="166.329" Height="40" Stretch="Fill" Width="40" Canvas.Left="10" GiveFeedback="Path_GiveFeedback" RenderTransformOrigin="0.109,0.8" />
+
+                </Canvas>
+                <TextBlock ToolTip="اسحب اللون لتلوين الخريطة" TextWrapping="Wrap" HorizontalAlignment="Center" Text="قم بتلوين الخريطة"  FontSize="14" FlowDirection="RightToLeft" Height="50" VerticalAlignment="Top" Margin="55,10,50,0"/>
+
+                <TextBlock x:Name="textBlock1" Margin="10,50,94,0" TextWrapping="Wrap" Text="مناخ البحر الأبيض المتوسط" RenderTransformOrigin="-0.099,0.313" FontSize="14" FlowDirection="RightToLeft" Height="50" VerticalAlignment="Top"/>
+                <TextBlock x:Name="textBlock1_Copy" Margin="21,118,89,92" TextWrapping="Wrap" Text="المناخ القاري" RenderTransformOrigin="-0.099,0.313" FlowDirection="RightToLeft" FontSize="14"/>
+                <TextBlock x:Name="textBlock1_Copy1" Margin="21,0,90,26" TextWrapping="Wrap" Text="المناخ الصحراوي" RenderTransformOrigin="-0.099,0.313" Height="29" VerticalAlignment="Bottom" FontSize="14" FlowDirection="RightToLeft"/>
+
+            </Grid>
+            <TextBlock x:Name="textBlock" Margin="0,35,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="55" FontSize="36" FlowDirection="RightToLeft" HorizontalAlignment="Center"/>
+
+            <Button x:Name="button" IsDefault="True" VerticalAlignment="Bottom" Margin="10,0,0,10" Height="40" Click="button_Click" HorizontalAlignment="Left" Width="110">
+                <TextBlock FontSize="18" FontWeight="Normal">تصحيح</TextBlock>
+            </Button>
+            <Button x:Name="button1" Visibility="Hidden" IsDefault="True" VerticalAlignment="Bottom" Margin="10,0,0,10" Height="40" Click="button1_Click" HorizontalAlignment="Left" Width="110">
+                <TextBlock FontSize="18" FontWeight="Normal">النتيجة</TextBlock>
+            </Button>
+            <TextBlock x:Name="textBlock4" HorizontalAlignment="Center" TextWrapping="Wrap" Text="الوقت المتبقي" VerticalAlignment="Top" Height="41" FontSize="18" Margin="0,10,0,0"/>
+            <TextBlock x:Name="textBlock3" HorizontalAlignment="Right" Margin="0,10,10,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="70.22" Width="154.333" Text="خريطة المناخ في الجزائر" FontSize="18"/>
+            <Image x:Name="faitCheck" HorizontalAlignment="Left" Height="40" Margin="10,10,0,0" Source="/Projet;component/IMAGES/BUTTONS/checked.jpg" Stretch="Fill" VerticalAlignment="Top" Width="40"/>
+        </Grid>
+    </Grid>
+</UserControl>

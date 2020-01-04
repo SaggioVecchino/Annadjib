@@ -1,0 +1,793 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{210779A8-4EC7-4162-AABC-C22B726BBF85}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Projet</RootNamespace>
+    <AssemblyName>Projet</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MahApps.Metro, Version=1.4.3.0, Culture=neutral, PublicKeyToken=f4fb5a3c4d1e5b4f, processorArchitecture=MSIL">
+      <HintPath>..\packages\MahApps.Metro.1.4.3\lib\net45\MahApps.Metro.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="MaterialDesignColors, Version=1.1.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MaterialDesignColors.1.1.2\lib\net45\MaterialDesignColors.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="MaterialDesignThemes.MahApps, Version=0.0.10.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MaterialDesignThemes.MahApps.0.0.10\lib\net45\MaterialDesignThemes.MahApps.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="MaterialDesignThemes.Wpf, Version=2.2.1.750, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MaterialDesignThemes.2.2.1.750\lib\net45\MaterialDesignThemes.Wpf.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Nicenis, Version=1.2.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\Nicenis binary-1.2.1a\.NET 4.0 Client Profile\Nicenis.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Windows.Interactivity, Version=4.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\MahApps.Metro.1.4.3\lib\net45\System.Windows.Interactivity.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="UserControls\ELEVE\ContentCenter.xaml.cs">
+      <DependentUpon>ContentCenter.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\ELEVE\EleveUserControl.xaml.cs">
+      <DependentUpon>EleveUserControl.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="EleveWindow.xaml.cs">
+      <DependentUpon>EleveWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Model\DragAndDrop.cs" />
+    <Compile Include="Model\Exercice.cs" />
+    <Compile Include="Model\QCM.cs" />
+    <Compile Include="Model\Question.cs" />
+    <Compile Include="Model\TrueOrFalse.cs" />
+    <Compile Include="ModelView\DragAndDropVM.cs" />
+    <Compile Include="UserControls\ELEVE\EtatAncienneSession.xaml.cs">
+      <DependentUpon>EtatAncienneSession.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\ELEVE\Examens.xaml.cs">
+      <DependentUpon>Examens.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\ELEVE\ExerciceFinTemps.xaml.cs">
+      <DependentUpon>ExerciceFinTemps.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\ELEVE\HelpLateral.xaml.cs">
+      <DependentUpon>HelpLateral.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\ELEVE\Trophy.xaml.cs">
+      <DependentUpon>Trophy.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\ELEVE\TrophyContainer.xaml.cs">
+      <DependentUpon>TrophyContainer.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\GENERAL\APropos.xaml.cs">
+      <DependentUpon>APropos.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\ELEVE\BarMenu.xaml.cs">
+      <DependentUpon>BarMenu.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\ELEVE\CenterContent.xaml.cs">
+      <DependentUpon>CenterContent.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\ELEVE\Chap2MenuMaps.xaml.cs">
+      <DependentUpon>Chap2MenuMaps.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\ELEVE\Courses.xaml.cs">
+      <DependentUpon>Courses.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\ELEVE\Exercices.xaml.cs">
+      <DependentUpon>Exercices.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\ELEVE\LateralMenuEleve.xaml.cs">
+      <DependentUpon>LateralMenuEleve.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\GENERAL\LogoUC.xaml.cs">
+      <DependentUpon>LogoUC.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\ELEVE\MapsMenu.xaml.cs">
+      <DependentUpon>MapsMenu.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\ELEVE\TopBar.xaml.cs">
+      <DependentUpon>TopBar.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\LOGIN\AdminSign.xaml.cs">
+      <DependentUpon>AdminSign.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\UsrCtrl\Admin\ChangingPassAdmin.xaml.cs">
+      <DependentUpon>ChangingPassAdmin.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\UsrCtrl\Admin\ConfirmationSupprimAll.xaml.cs">
+      <DependentUpon>ConfirmationSupprimAll.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\UsrCtrl\Admin\ConfirmationSupprimEleve.xaml.cs">
+      <DependentUpon>ConfirmationSupprimEleve.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\UsrCtrl\Admin\Contenu.xaml.cs">
+      <DependentUpon>Contenu.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\UsrCtrl\Admin\EleveInfo.xaml.cs">
+      <DependentUpon>EleveInfo.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\UsrCtrl\Admin\EleveInfoTitle.xaml.cs">
+      <DependentUpon>EleveInfoTitle.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\UsrCtrl\Admin\help.xaml.cs">
+      <DependentUpon>help.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\UsrCtrl\Admin\MenuLaterale.xaml.cs">
+      <DependentUpon>MenuLaterale.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\UsrCtrl\Admin\parametresAdmin.xaml.cs">
+      <DependentUpon>parametresAdmin.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\UsrCtrl\Admin\TitleAccueil.xaml.cs">
+      <DependentUpon>TitleAccueil.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\UsrCtrl\Admin\TitleParametres.xaml.cs">
+      <DependentUpon>TitleParametres.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\UsrCtrl\Admin\TopBarAPropos.xaml.cs">
+      <DependentUpon>TopBarAPropos.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\UsrCtrl\Cours\Cours.xaml.cs" />
+    <Compile Include="View\UsrCtrl\Cours\CoursImage.xaml.cs" />
+    <Compile Include="View\UsrCtrl\Cours\CoursTexte.xaml.cs" />
+    <Compile Include="View\UsrCtrl\Cours\FinCours.xaml.cs" />
+    <Compile Include="View\UsrCtrl\eleveCtrls\ChangerPwd.xaml.cs">
+      <DependentUpon>ChangerPwd.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\UsrCtrl\eleveCtrls\confirmSauvParam.xaml.cs">
+      <DependentUpon>confirmSauvParam.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\UsrCtrl\eleveCtrls\modifierInfo.xaml.cs">
+      <DependentUpon>modifierInfo.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\UsrCtrl\Exam\Exam1.xaml.cs" />
+    <Compile Include="View\UsrCtrl\Exam\Exam2.xaml.cs" />
+    <Compile Include="View\UsrCtrl\Exam\NoteExam.xaml.cs" />
+    <Compile Include="View\UsrCtrl\ExercicesDragCouleur\Animaux.xaml.cs" />
+    <Compile Include="View\UsrCtrl\ExercicesDragCouleur\Mounakh.xaml.cs" />
+    <Compile Include="View\UsrCtrl\ExercicesDragCouleur\NoteCouleur.xaml.cs">
+      <DependentUpon>NoteCouleur.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\UsrCtrl\ExercicesDragCouleur\Pluie.xaml.cs" />
+    <Compile Include="View\UsrCtrl\ExercicesDragCouleur\Tadaris.xaml.cs" />
+    <Compile Include="View\UsrCtrl\ExercicesDragCouleur\Temperatures.xaml.cs" />
+    <Compile Include="View\UsrCtrl\Exercices\BonneReponseVide.xaml.cs" />
+    <Compile Include="View\UsrCtrl\Exercices\DraggableTextBlock.xaml.cs">
+      <DependentUpon>DraggableTextBlock.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\UsrCtrl\Exercices\Exercice.xaml.cs" />
+    <Compile Include="View\UsrCtrl\Exercices\ExerciceReponse.xaml.cs" />
+    <Compile Include="View\UsrCtrl\Exercices\ExerciceTemps.xaml.cs" />
+    <Compile Include="View\UsrCtrl\Exercices\Note.xaml.cs">
+      <DependentUpon>Note.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\UsrCtrl\Exercices\QuestionDragAndDrop.xaml.cs">
+      <DependentUpon>QuestionDragAndDrop.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\UsrCtrl\Exercices\QuestionQCM.xaml.cs" />
+    <Compile Include="View\UsrCtrl\Exercices\QuestionTrueOrFalse.xaml.cs">
+      <DependentUpon>QuestionTrueOrFalse.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\LOGIN\LoginChooseType.xaml.cs">
+      <DependentUpon>LoginChooseType.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\LOGIN\formulaire.xaml.cs">
+      <DependentUpon>formulaire.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\LOGIN\LogSignUser.xaml.cs">
+      <DependentUpon>LogSignUser.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AdminWindow.xaml.cs">
+      <DependentUpon>AdminWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\UsrCtrl\Stats\stats.xaml.cs">
+      <DependentUpon>stats.xaml</DependentUpon>
+    </Compile>
+    <Page Include="UserControls\ELEVE\ContentCenter.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="UserControls\ELEVE\EleveUserControl.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="LoginWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="LoginWindow.xaml.cs">
+      <DependentUpon>LoginWindow.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Page Include="EleveWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Resources\Icons.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Resources\IconsNonShared.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="UserControls\ELEVE\EtatAncienneSession.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UserControls\ELEVE\Examens.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UserControls\ELEVE\ExerciceFinTemps.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UserControls\ELEVE\HelpLateral.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UserControls\ELEVE\Trophy.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UserControls\ELEVE\TrophyContainer.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UserControls\GENERAL\APropos.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UserControls\ELEVE\BarMenu.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UserControls\ELEVE\CenterContent.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UserControls\ELEVE\Chap2MenuMaps.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UserControls\ELEVE\Courses.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UserControls\ELEVE\Exercices.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UserControls\ELEVE\LateralMenuEleve.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UserControls\GENERAL\LogoUC.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UserControls\ELEVE\MapsMenu.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UserControls\ELEVE\TopBar.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UserControls\LOGIN\AdminSign.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\UsrCtrl\Admin\ChangingPassAdmin.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\UsrCtrl\Admin\ConfirmationSupprimAll.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\UsrCtrl\Admin\ConfirmationSupprimEleve.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\UsrCtrl\Admin\Contenu.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\UsrCtrl\Admin\EleveInfo.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\UsrCtrl\Admin\EleveInfoTitle.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\UsrCtrl\Admin\help.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\UsrCtrl\Admin\MenuLaterale.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\UsrCtrl\Admin\parametresAdmin.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\UsrCtrl\Admin\TitleAccueil.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\UsrCtrl\Admin\TitleParametres.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\UsrCtrl\Admin\TopBarAPropos.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\UsrCtrl\Cours\Cours.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="View\UsrCtrl\Cours\CoursImage.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="View\UsrCtrl\Cours\CoursTexte.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="View\UsrCtrl\Cours\FinCours.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="View\UsrCtrl\eleveCtrls\ChangerPwd.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\UsrCtrl\eleveCtrls\confirmSauvParam.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\UsrCtrl\eleveCtrls\modifierInfo.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\UsrCtrl\Exam\Exam1.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="View\UsrCtrl\Exam\Exam2.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="View\UsrCtrl\Exam\NoteExam.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="View\UsrCtrl\ExercicesDragCouleur\Animaux.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="View\UsrCtrl\ExercicesDragCouleur\Mounakh.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="View\UsrCtrl\ExercicesDragCouleur\NoteCouleur.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\UsrCtrl\ExercicesDragCouleur\Pluie.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="View\UsrCtrl\ExercicesDragCouleur\Tadaris.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="View\UsrCtrl\ExercicesDragCouleur\Temperatures.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="View\UsrCtrl\Exercices\BonneReponseVide.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="View\UsrCtrl\Exercices\DraggableTextBlock.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="View\UsrCtrl\Exercices\Exercice.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="View\UsrCtrl\Exercices\ExerciceReponse.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="View\UsrCtrl\Exercices\ExerciceTemps.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="View\UsrCtrl\Exercices\Note.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\UsrCtrl\Exercices\QuestionDragAndDrop.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="View\UsrCtrl\Exercices\QuestionQCM.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="View\UsrCtrl\Exercices\QuestionTrueOrFalse.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UserControls\LOGIN\LoginChooseType.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UserControls\LOGIN\formulaire.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UserControls\LOGIN\LogSignUser.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="AdminWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\UsrCtrl\Stats\stats.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Model\Admin.cs" />
+    <Compile Include="Model\Cours.cs" />
+    <Compile Include="Model\Eleve.cs" />
+    <Compile Include="Model\Stats.cs" />
+    <Compile Include="Model\Utilities.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <AppDesigner Include="Properties\" />
+    <Resource Include="Resources\thesans-plain.ttf" />
+    <Resource Include="Resources\thesans.ttf" />
+    <Resource Include="Resources\Entypo.ttf" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\WindowsIcons-license.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="View\Photos\exit_button.png" />
+    <Resource Include="View\Photos\reduce_button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="View\Photos\icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="View\Photos\eleve.png" />
+    <Resource Include="View\Photos\prof.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="View\Photos\retour.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\Entypo-license.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="IMAGES\BUTTONS\apropos.png" />
+    <Resource Include="IMAGES\APP\background.png" />
+    <Resource Include="IMAGES\BUTTONS\close.png" />
+    <Resource Include="IMAGES\BUTTONS\esi.png" />
+    <Resource Include="IMAGES\BUTTONS\hide_gray.png" />
+    <Resource Include="IMAGES\APP\icon3D.png" />
+    <Resource Include="IMAGES\BUTTONS\lock.png" />
+    <Resource Include="IMAGES\BUTTONS\menu.png" />
+    <Resource Include="IMAGES\BUTTONS\settings.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="View\Photos\s4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="View\Photos\Animaux\camel.png" />
+    <Resource Include="View\Photos\Animaux\fennec.png" />
+    <Resource Include="View\Photos\Animaux\goat.png" />
+    <Resource Include="View\Photos\Animaux\sheep.png" />
+    <Resource Include="View\Photos\Animaux\vache.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="View\Photos\Temperatures\blanche.png" />
+    <Resource Include="View\Photos\Temperatures\jaune.png" />
+    <Resource Include="View\Photos\Temperatures\jaune_bechar.png" />
+    <Resource Include="View\Photos\Temperatures\jaune_biskra.png" />
+    <Resource Include="View\Photos\Temperatures\jaune_elOuadi.png" />
+    <Resource Include="View\Photos\Temperatures\jaune_gherdaia.png" />
+    <Resource Include="View\Photos\Temperatures\jaune_rose.png" />
+    <Resource Include="View\Photos\Temperatures\jaune_rose_chlef.png" />
+    <Resource Include="View\Photos\Temperatures\jaune_rose_tlemcen.png" />
+    <Resource Include="View\Photos\Temperatures\jaune_tegeuert.png" />
+    <Resource Include="View\Photos\Temperatures\rose.png" />
+    <Resource Include="View\Photos\Temperatures\rose_djelfa.png" />
+    <Resource Include="View\Photos\Temperatures\rose_mechria.png" />
+    <Resource Include="View\Photos\Temperatures\rose_setif.png" />
+    <Resource Include="View\Photos\Temperatures\rose_tiaret.png" />
+    <Resource Include="View\Photos\Temperatures\vert.png" />
+    <Resource Include="View\Photos\Temperatures\vert_alger.png" />
+    <Resource Include="View\Photos\Temperatures\vert_annaba.png" />
+    <Resource Include="View\Photos\Temperatures\vert_oran.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="View\Photos\s1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="View\Photos\s2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="View\Photos\s3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="View\Photos\content-save.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="View\Photos\close.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="View\Photos\border-color.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="View\Photos\school.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="IMAGES\BUTTONS\settings2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="View\Photos\help.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="IMAGES\BUTTONS\delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="View\Photos\eye.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="IMAGES\BUTTONS\stats.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="View\Photos\alert.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="View\Photos\settings.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="View\Photos\Sans titre - 1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="IMAGES\AVATARS\0.png" />
+    <Resource Include="IMAGES\AVATARS\1.png" />
+    <Resource Include="IMAGES\AVATARS\10.png" />
+    <Resource Include="IMAGES\AVATARS\2.png" />
+    <Resource Include="IMAGES\AVATARS\3.png" />
+    <Resource Include="IMAGES\AVATARS\4.png" />
+    <Resource Include="IMAGES\AVATARS\5.png" />
+    <Resource Include="IMAGES\AVATARS\6.png" />
+    <Resource Include="IMAGES\AVATARS\7.png" />
+    <Resource Include="IMAGES\AVATARS\8.png" />
+    <Resource Include="IMAGES\AVATARS\9.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="IMAGES\TROPHIES\0.png" />
+    <Resource Include="IMAGES\TROPHIES\1.png" />
+    <Resource Include="IMAGES\TROPHIES\10.png" />
+    <Resource Include="IMAGES\TROPHIES\2.png" />
+    <Resource Include="IMAGES\TROPHIES\3.png" />
+    <Resource Include="IMAGES\TROPHIES\4.png" />
+    <Resource Include="IMAGES\TROPHIES\5.png" />
+    <Resource Include="IMAGES\TROPHIES\6.png" />
+    <Resource Include="IMAGES\TROPHIES\7.png" />
+    <Resource Include="IMAGES\TROPHIES\8.png" />
+    <Resource Include="IMAGES\TROPHIES\9.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="IMAGES\TROPHIES\trophy_black.png" />
+    <Resource Include="IMAGES\TROPHIES\trophy_empty.png" />
+    <Resource Include="IMAGES\TROPHIES\trophy_white.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="IMAGES\BUTTONS\person.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="IMAGES\APP\icon2D.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="IMAGES\APP\intro.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="IMAGES\APP\bg_login.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="IMAGES\SMILEY\S1.png" />
+    <Resource Include="IMAGES\SMILEY\S2.png" />
+    <Resource Include="IMAGES\SMILEY\S3.png" />
+    <Resource Include="IMAGES\SMILEY\S4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="IMAGES\BUTTONS\close_white.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="IMAGES\BUTTONS\student.png" />
+    <Resource Include="IMAGES\BUTTONS\teacher.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="UserControls\ADMIN\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="IMAGES\BUTTONS\reduce.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="IMAGES\APP\icon2D_white.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="IMAGES\BUTTONS\left.png" />
+    <Resource Include="IMAGES\BUTTONS\right.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="IMAGES\BUTTONS\edit.png" />
+    <Resource Include="IMAGES\BUTTONS\save.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="IMAGES\APP\ministere.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="IMAGES\BUTTONS\logout.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="IMAGES\BUTTONS\retour.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="IMAGES\BUTTONS\school.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="IMAGES\BUTTONS\about_white.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="IMAGES\SMILEY\8_grand.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="View\UsrCtrl\Cours\42_1.png" />
+    <Resource Include="View\UsrCtrl\Cours\43_1.png" />
+    <Resource Include="View\UsrCtrl\Cours\44_1.png" />
+    <Resource Include="View\UsrCtrl\Cours\44_2.png" />
+    <Resource Include="View\UsrCtrl\Cours\44_3.png" />
+    <Resource Include="View\UsrCtrl\Cours\45_1.png" />
+    <Resource Include="View\UsrCtrl\Cours\53_1.png" />
+    <Resource Include="View\UsrCtrl\Cours\53_2.png" />
+    <Resource Include="View\UsrCtrl\Cours\53_3.png" />
+    <Resource Include="View\UsrCtrl\Cours\57_4j.png" />
+    <Resource Include="View\UsrCtrl\Cours\64_2.png" />
+    <Resource Include="View\UsrCtrl\Cours\66_1.png" />
+    <Resource Include="View\UsrCtrl\Cours\cedar.jpg" />
+    <Resource Include="View\UsrCtrl\Cours\feline.jpg" />
+    <Resource Include="View\UsrCtrl\Cours\fer.jpg" />
+    <Resource Include="View\UsrCtrl\Cours\ghazaal.jpg" />
+    <Resource Include="View\UsrCtrl\Cours\Grape_vines.jpg" />
+    <Resource Include="View\UsrCtrl\Cours\ic_keyboard_arrow_left_black_48dp%281%29.png" />
+    <Resource Include="View\UsrCtrl\Cours\ic_keyboard_arrow_left_black_48dp.png" />
+    <Resource Include="View\UsrCtrl\Cours\ic_keyboard_arrow_right_black_48dp%281%29.png" />
+    <Resource Include="View\UsrCtrl\Cours\ic_keyboard_arrow_right_black_48dp.png" />
+    <Resource Include="View\UsrCtrl\Cours\image1.png" />
+    <Resource Include="View\UsrCtrl\Cours\image2.png" />
+    <Resource Include="View\UsrCtrl\Cours\istibiss.jpg" />
+    <Resource Include="View\UsrCtrl\Cours\KatieGhanem.jpg" />
+    <Resource Include="View\UsrCtrl\Cours\madjraamaai.jpg" />
+    <Resource Include="View\UsrCtrl\Cours\mediterranean.jpg" />
+    <Resource Include="View\UsrCtrl\Cours\mounakhdz.png" />
+    <Resource Include="View\UsrCtrl\Cours\nabattabii.jpg" />
+    <Resource Include="View\UsrCtrl\Cours\Olivier%281%29.jpg" />
+    <Resource Include="View\UsrCtrl\Cours\Olivier.jpg" />
+    <Resource Include="View\UsrCtrl\Cours\pine.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="IMAGES\BUTTONS\checked.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="View\Photos\Animaux\lp.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
